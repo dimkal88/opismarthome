@@ -1,0 +1,962 @@
+  inflating: /tmp/update/XtreamUI-master/admin/assets/fonts/summernote.ttf
+  inflating: /tmp/update/XtreamUI-master/admin/assets/fonts/summernote.woff
+   creating: /tmp/update/XtreamUI-master/admin/assets/images/
+  inflating: /tmp/update/XtreamUI-master/admin/assets/images/bg.png
+  inflating: /tmp/update/XtreamUI-master/admin/assets/images/bg_dark.png
+  inflating: /tmp/update/XtreamUI-master/admin/assets/images/favicon.ico
+  inflating: /tmp/update/XtreamUI-master/admin/assets/images/footer.png
+  inflating: /tmp/update/XtreamUI-master/admin/assets/images/logo.png
+  inflating: /tmp/update/XtreamUI-master/admin/assets/images/logo-back.png
+  inflating: /tmp/update/XtreamUI-master/admin/assets/images/logo-sm.png
+   creating: /tmp/update/XtreamUI-master/admin/assets/images/plugins/
+ extracting: /tmp/update/XtreamUI-master/admin/assets/images/plugins/clear.png
+  inflating: /tmp/update/XtreamUI-master/admin/assets/images/plugins/jstree.png 
+  inflating: /tmp/update/XtreamUI-master/admin/assets/images/plugins/loading.gif
+  inflating: /tmp/update/XtreamUI-master/admin/assets/images/plugins/multiple-arrow.png
+   creating: /tmp/update/XtreamUI-master/admin/assets/js/
+  inflating: /tmp/update/XtreamUI-master/admin/assets/js/app.js
+  inflating: /tmp/update/XtreamUI-master/admin/assets/js/app.min.js
+  inflating: /tmp/update/XtreamUI-master/admin/assets/js/app.min.js.map
+   creating: /tmp/update/XtreamUI-master/admin/assets/js/pages/
+  inflating: /tmp/update/XtreamUI-master/admin/assets/js/pages/apexcharts.init.js
+  inflating: /tmp/update/XtreamUI-master/admin/assets/js/pages/britechart.init.js
+  inflating: /tmp/update/XtreamUI-master/admin/assets/js/pages/calendar.init.js 
+  inflating: /tmp/update/XtreamUI-master/admin/assets/js/pages/chartist.init.js 
+  inflating: /tmp/update/XtreamUI-master/admin/assets/js/pages/chartjs.init.js
+  inflating: /tmp/update/XtreamUI-master/admin/assets/js/pages/coming-soon.init.js
+  inflating: /tmp/update/XtreamUI-master/admin/assets/js/pages/dashboard.init.js
+  inflating: /tmp/update/XtreamUI-master/admin/assets/js/pages/datatables.init.js
+  inflating: /tmp/update/XtreamUI-master/admin/assets/js/pages/email-summernote.init.js
+  inflating: /tmp/update/XtreamUI-master/admin/assets/js/pages/flot.init.js
+  inflating: /tmp/update/XtreamUI-master/admin/assets/js/pages/form-advanced.init.js
+  inflating: /tmp/update/XtreamUI-master/admin/assets/js/pages/form-fileuploads.init.js
+  inflating: /tmp/update/XtreamUI-master/admin/assets/js/pages/form-masks.init.js
+  inflating: /tmp/update/XtreamUI-master/admin/assets/js/pages/form-pickers.init.js
+  inflating: /tmp/update/XtreamUI-master/admin/assets/js/pages/form-quilljs.init.js
+  inflating: /tmp/update/XtreamUI-master/admin/assets/js/pages/form-remember.js 
+  inflating: /tmp/update/XtreamUI-master/admin/assets/js/pages/form-summernote.init.js
+  inflating: /tmp/update/XtreamUI-master/admin/assets/js/pages/form-validation.init.js
+  inflating: /tmp/update/XtreamUI-master/admin/assets/js/pages/form-wizard.init.js
+  inflating: /tmp/update/XtreamUI-master/admin/assets/js/pages/google-maps.init.js
+  inflating: /tmp/update/XtreamUI-master/admin/assets/js/pages/inbox.js
+  inflating: /tmp/update/XtreamUI-master/admin/assets/js/pages/jquery.number.min.js
+  inflating: /tmp/update/XtreamUI-master/admin/assets/js/pages/lightbox.init.js 
+  inflating: /tmp/update/XtreamUI-master/admin/assets/js/pages/mapeal-maps.init.js
+  inflating: /tmp/update/XtreamUI-master/admin/assets/js/pages/morris.init.js
+  inflating: /tmp/update/XtreamUI-master/admin/assets/js/pages/nestable.init.js 
+  inflating: /tmp/update/XtreamUI-master/admin/assets/js/pages/peity.init.js
+  inflating: /tmp/update/XtreamUI-master/admin/assets/js/pages/range-sliders.init.js
+  inflating: /tmp/update/XtreamUI-master/admin/assets/js/pages/responsive-table.init.js
+  inflating: /tmp/update/XtreamUI-master/admin/assets/js/pages/sparkline.init.js
+  inflating: /tmp/update/XtreamUI-master/admin/assets/js/pages/sweet-alerts.init.js
+  inflating: /tmp/update/XtreamUI-master/admin/assets/js/pages/tabledit.init.js 
+ extracting: /tmp/update/XtreamUI-master/admin/assets/js/pages/tablesaw.init.js 
+  inflating: /tmp/update/XtreamUI-master/admin/assets/js/pages/tickets.js
+  inflating: /tmp/update/XtreamUI-master/admin/assets/js/pages/toastr.init.js
+  inflating: /tmp/update/XtreamUI-master/admin/assets/js/pages/tour.init.js
+  inflating: /tmp/update/XtreamUI-master/admin/assets/js/pages/treeview.init.js 
+  inflating: /tmp/update/XtreamUI-master/admin/assets/js/pages/vector-maps.init.js
+  inflating: /tmp/update/XtreamUI-master/admin/assets/js/pages/widgets.init.js
+  inflating: /tmp/update/XtreamUI-master/admin/assets/js/vendor.js
+  inflating: /tmp/update/XtreamUI-master/admin/assets/js/vendor.min.js
+  inflating: /tmp/update/XtreamUI-master/admin/assets/js/vendor.min.js.map
+   creating: /tmp/update/XtreamUI-master/admin/assets/libs/
+   creating: /tmp/update/XtreamUI-master/admin/assets/libs/apexcharts/
+  inflating: /tmp/update/XtreamUI-master/admin/assets/libs/apexcharts/apexcharts.min.js
+   creating: /tmp/update/XtreamUI-master/admin/assets/libs/autonumeric/
+  inflating: /tmp/update/XtreamUI-master/admin/assets/libs/autonumeric/autoNumeric-min.js
+   creating: /tmp/update/XtreamUI-master/admin/assets/libs/bootstrap-colorpicker/
+  inflating: /tmp/update/XtreamUI-master/admin/assets/libs/bootstrap-colorpicker/bootstrap-colorpicker.min.css
+  inflating: /tmp/update/XtreamUI-master/admin/assets/libs/bootstrap-colorpicker/bootstrap-colorpicker.min.js
+   creating: /tmp/update/XtreamUI-master/admin/assets/libs/bootstrap-datepicker/
+  inflating: /tmp/update/XtreamUI-master/admin/assets/libs/bootstrap-datepicker/bootstrap-datepicker.min.css
+  inflating: /tmp/update/XtreamUI-master/admin/assets/libs/bootstrap-datepicker/bootstrap-datepicker.min.js
+   creating: /tmp/update/XtreamUI-master/admin/assets/libs/bootstrap-maxlength/
+  inflating: /tmp/update/XtreamUI-master/admin/assets/libs/bootstrap-maxlength/bootstrap-maxlength.min.js
+   creating: /tmp/update/XtreamUI-master/admin/assets/libs/bootstrap-select/
+  inflating: /tmp/update/XtreamUI-master/admin/assets/libs/bootstrap-select/bootstrap-select.min.css
+  inflating: /tmp/update/XtreamUI-master/admin/assets/libs/bootstrap-select/bootstrap-select.min.js
+   creating: /tmp/update/XtreamUI-master/admin/assets/libs/bootstrap-touchspin/
+  inflating: /tmp/update/XtreamUI-master/admin/assets/libs/bootstrap-touchspin/jquery.bootstrap-touchspin.css
+  inflating: /tmp/update/XtreamUI-master/admin/assets/libs/bootstrap-touchspin/jquery.bootstrap-touchspin.min.js
+   creating: /tmp/update/XtreamUI-master/admin/assets/libs/britecharts/
+  inflating: /tmp/update/XtreamUI-master/admin/assets/libs/britecharts/britecharts.min.css
+  inflating: /tmp/update/XtreamUI-master/admin/assets/libs/britecharts/britecharts.min.js
+   creating: /tmp/update/XtreamUI-master/admin/assets/libs/chartist/
+  inflating: /tmp/update/XtreamUI-master/admin/assets/libs/chartist/chartist.min.css
+  inflating: /tmp/update/XtreamUI-master/admin/assets/libs/chartist/chartist.min.js
+  inflating: /tmp/update/XtreamUI-master/admin/assets/libs/chartist/chartist-plugin-tooltip.min.js
+   creating: /tmp/update/XtreamUI-master/admin/assets/libs/chart-js/
+  inflating: /tmp/update/XtreamUI-master/admin/assets/libs/chart-js/Chart.bundle.min.js
+   creating: /tmp/update/XtreamUI-master/admin/assets/libs/clockpicker/
+  inflating: /tmp/update/XtreamUI-master/admin/assets/libs/clockpicker/bootstrap-clockpicker.min.css
+  inflating: /tmp/update/XtreamUI-master/admin/assets/libs/clockpicker/bootstrap-clockpicker.min.js
+   creating: /tmp/update/XtreamUI-master/admin/assets/libs/custombox/
+  inflating: /tmp/update/XtreamUI-master/admin/assets/libs/custombox/custombox.min.css
+  inflating: /tmp/update/XtreamUI-master/admin/assets/libs/custombox/custombox.min.js
+   creating: /tmp/update/XtreamUI-master/admin/assets/libs/d3/
+  inflating: /tmp/update/XtreamUI-master/admin/assets/libs/d3/d3.min.js
+   creating: /tmp/update/XtreamUI-master/admin/assets/libs/datatables/
+  inflating: /tmp/update/XtreamUI-master/admin/assets/libs/datatables/buttons.bootstrap4.css
+  inflating: /tmp/update/XtreamUI-master/admin/assets/libs/datatables/buttons.bootstrap4.min.js
+  inflating: /tmp/update/XtreamUI-master/admin/assets/libs/datatables/buttons.flash.min.js
+  inflating: /tmp/update/XtreamUI-master/admin/assets/libs/datatables/buttons.html5.min.js
+  inflating: /tmp/update/XtreamUI-master/admin/assets/libs/datatables/buttons.print.min.js
+  inflating: /tmp/update/XtreamUI-master/admin/assets/libs/datatables/dataTables.bootstrap4.css
+  inflating: /tmp/update/XtreamUI-master/admin/assets/libs/datatables/dataTables.bootstrap4.js
+  inflating: /tmp/update/XtreamUI-master/admin/assets/libs/datatables/dataTables.buttons.min.js
+  inflating: /tmp/update/XtreamUI-master/admin/assets/libs/datatables/dataTables.keyTable.min.js
+  inflating: /tmp/update/XtreamUI-master/admin/assets/libs/datatables/dataTables.responsive.min.js
+  inflating: /tmp/update/XtreamUI-master/admin/assets/libs/datatables/dataTables.rowReorder.js
+  inflating: /tmp/update/XtreamUI-master/admin/assets/libs/datatables/dataTables.select.min.js
+  inflating: /tmp/update/XtreamUI-master/admin/assets/libs/datatables/jquery.dataTables.min.js
+  inflating: /tmp/update/XtreamUI-master/admin/assets/libs/datatables/responsive.bootstrap4.css
+  inflating: /tmp/update/XtreamUI-master/admin/assets/libs/datatables/responsive.bootstrap4.min.js
+  inflating: /tmp/update/XtreamUI-master/admin/assets/libs/datatables/select.bootstrap4.css
+   creating: /tmp/update/XtreamUI-master/admin/assets/libs/daterangepicker/
+  inflating: /tmp/update/XtreamUI-master/admin/assets/libs/daterangepicker/daterangepicker.css
+  inflating: /tmp/update/XtreamUI-master/admin/assets/libs/daterangepicker/daterangepicker.js
+   creating: /tmp/update/XtreamUI-master/admin/assets/libs/dropzone/
+  inflating: /tmp/update/XtreamUI-master/admin/assets/libs/dropzone/dropzone.min.css
+  inflating: /tmp/update/XtreamUI-master/admin/assets/libs/dropzone/dropzone.min.js
+   creating: /tmp/update/XtreamUI-master/admin/assets/libs/flot-charts/
+  inflating: /tmp/update/XtreamUI-master/admin/assets/libs/flot-charts/jquery.flot.crosshair.js
+  inflating: /tmp/update/XtreamUI-master/admin/assets/libs/flot-charts/jquery.flot.js
+  inflating: /tmp/update/XtreamUI-master/admin/assets/libs/flot-charts/jquery.flot.orderBars.js
+  inflating: /tmp/update/XtreamUI-master/admin/assets/libs/flot-charts/jquery.flot.pie.js
+  inflating: /tmp/update/XtreamUI-master/admin/assets/libs/flot-charts/jquery.flot.resize.js
+  inflating: /tmp/update/XtreamUI-master/admin/assets/libs/flot-charts/jquery.flot.selection.js
+  inflating: /tmp/update/XtreamUI-master/admin/assets/libs/flot-charts/jquery.flot.stack.js
+  inflating: /tmp/update/XtreamUI-master/admin/assets/libs/flot-charts/jquery.flot.time.js
+  inflating: /tmp/update/XtreamUI-master/admin/assets/libs/flot-charts/jquery.flot.tooltip.min.js
+   creating: /tmp/update/XtreamUI-master/admin/assets/libs/fullcalendar/
+  inflating: /tmp/update/XtreamUI-master/admin/assets/libs/fullcalendar/fullcalendar.min.css
+  inflating: /tmp/update/XtreamUI-master/admin/assets/libs/fullcalendar/fullcalendar.min.js
+   creating: /tmp/update/XtreamUI-master/admin/assets/libs/gmaps/
+  inflating: /tmp/update/XtreamUI-master/admin/assets/libs/gmaps/gmaps.min.js
+   creating: /tmp/update/XtreamUI-master/admin/assets/libs/hopscotch/
+  inflating: /tmp/update/XtreamUI-master/admin/assets/libs/hopscotch/hopscotch.min.css
+  inflating: /tmp/update/XtreamUI-master/admin/assets/libs/hopscotch/hopscotch.min.js
+   creating: /tmp/update/XtreamUI-master/admin/assets/libs/ion-rangeslider/
+  inflating: /tmp/update/XtreamUI-master/admin/assets/libs/ion-rangeslider/ion.rangeSlider.min.css
+  inflating: /tmp/update/XtreamUI-master/admin/assets/libs/ion-rangeslider/ion.rangeSlider.min.js
+   creating: /tmp/update/XtreamUI-master/admin/assets/libs/jquery-countdown/
+  inflating: /tmp/update/XtreamUI-master/admin/assets/libs/jquery-countdown/jquery.countdown.min.js
+   creating: /tmp/update/XtreamUI-master/admin/assets/libs/jquery-knob/
+  inflating: /tmp/update/XtreamUI-master/admin/assets/libs/jquery-knob/jquery.knob.min.js
+   creating: /tmp/update/XtreamUI-master/admin/assets/libs/jquery-mapael/
+  inflating: /tmp/update/XtreamUI-master/admin/assets/libs/jquery-mapael/jquery.mapael.min.js
+  inflating: /tmp/update/XtreamUI-master/admin/assets/libs/jquery-mapael/usa_states.min.js
+  inflating: /tmp/update/XtreamUI-master/admin/assets/libs/jquery-mapael/world_countries.min.js
+   creating: /tmp/update/XtreamUI-master/admin/assets/libs/jquery-mask-plugin/
+  inflating: /tmp/update/XtreamUI-master/admin/assets/libs/jquery-mask-plugin/jquery.mask.min.js
+   creating: /tmp/update/XtreamUI-master/admin/assets/libs/jquery-nice-select/
+  inflating: /tmp/update/XtreamUI-master/admin/assets/libs/jquery-nice-select/jquery.nice-select.min.js
+  inflating: /tmp/update/XtreamUI-master/admin/assets/libs/jquery-nice-select/nice-select.css
+   creating: /tmp/update/XtreamUI-master/admin/assets/libs/jquery-number/
+  inflating: /tmp/update/XtreamUI-master/admin/assets/libs/jquery-number/jquery.number.js
+   creating: /tmp/update/XtreamUI-master/admin/assets/libs/jquery-scrollto/
+  inflating: /tmp/update/XtreamUI-master/admin/assets/libs/jquery-scrollto/jquery.scrollTo.min.js
+   creating: /tmp/update/XtreamUI-master/admin/assets/libs/jquery-sparkline/
+  inflating: /tmp/update/XtreamUI-master/admin/assets/libs/jquery-sparkline/jquery.sparkline.min.js
+   creating: /tmp/update/XtreamUI-master/admin/assets/libs/jquery-tabledit/
+  inflating: /tmp/update/XtreamUI-master/admin/assets/libs/jquery-tabledit/jquery.tabledit.min.js
+   creating: /tmp/update/XtreamUI-master/admin/assets/libs/jquery-toast/
+  inflating: /tmp/update/XtreamUI-master/admin/assets/libs/jquery-toast/jquery.toast.min.css
+  inflating: /tmp/update/XtreamUI-master/admin/assets/libs/jquery-toast/jquery.toast.min.js
+   creating: /tmp/update/XtreamUI-master/admin/assets/libs/jquery-ui/
+  inflating: /tmp/update/XtreamUI-master/admin/assets/libs/jquery-ui/jquery-ui.min.js
+   creating: /tmp/update/XtreamUI-master/admin/assets/libs/jquery-vectormap/
+  inflating: /tmp/update/XtreamUI-master/admin/assets/libs/jquery-vectormap/jquery-jvectormap-1.2.2.css
+  inflating: /tmp/update/XtreamUI-master/admin/assets/libs/jquery-vectormap/jquery-jvectormap-1.2.2.min.js
+  inflating: /tmp/update/XtreamUI-master/admin/assets/libs/jquery-vectormap/jquery-jvectormap-au-mill-en.js
+  inflating: /tmp/update/XtreamUI-master/admin/assets/libs/jquery-vectormap/jquery-jvectormap-ca-lcc-en.js
+  inflating: /tmp/update/XtreamUI-master/admin/assets/libs/jquery-vectormap/jquery-jvectormap-in-mill-en.js
+  inflating: /tmp/update/XtreamUI-master/admin/assets/libs/jquery-vectormap/jquery-jvectormap-uk-mill-en.js
+  inflating: /tmp/update/XtreamUI-master/admin/assets/libs/jquery-vectormap/jquery-jvectormap-us-il-chicago-mill-en.js
+  inflating: /tmp/update/XtreamUI-master/admin/assets/libs/jquery-vectormap/jquery-jvectormap-us-merc-en.js
+  inflating: /tmp/update/XtreamUI-master/admin/assets/libs/jquery-vectormap/jquery-jvectormap-world-mill-en.js
+   creating: /tmp/update/XtreamUI-master/admin/assets/libs/katex/
+  inflating: /tmp/update/XtreamUI-master/admin/assets/libs/katex/katex.min.js
+   creating: /tmp/update/XtreamUI-master/admin/assets/libs/magnific-popup/
+  inflating: /tmp/update/XtreamUI-master/admin/assets/libs/magnific-popup/jquery.magnific-popup.min.js
+  inflating: /tmp/update/XtreamUI-master/admin/assets/libs/magnific-popup/magnific-popup.css
+   creating: /tmp/update/XtreamUI-master/admin/assets/libs/moment/
+  inflating: /tmp/update/XtreamUI-master/admin/assets/libs/moment/moment.min.js 
+   creating: /tmp/update/XtreamUI-master/admin/assets/libs/morris-js/
+  inflating: /tmp/update/XtreamUI-master/admin/assets/libs/morris-js/morris.min.js
+   creating: /tmp/update/XtreamUI-master/admin/assets/libs/nestable2/
+  inflating: /tmp/update/XtreamUI-master/admin/assets/libs/nestable2/jquery.nestable.min.css
+  inflating: /tmp/update/XtreamUI-master/admin/assets/libs/nestable2/jquery.nestable.min.js
+   creating: /tmp/update/XtreamUI-master/admin/assets/libs/parsleyjs/
+  inflating: /tmp/update/XtreamUI-master/admin/assets/libs/parsleyjs/parsley.min.js
+   creating: /tmp/update/XtreamUI-master/admin/assets/libs/pdfmake/
+  inflating: /tmp/update/XtreamUI-master/admin/assets/libs/pdfmake/pdfmake.min.js
+  inflating: /tmp/update/XtreamUI-master/admin/assets/libs/pdfmake/vfs_fonts.js 
+   creating: /tmp/update/XtreamUI-master/admin/assets/libs/peity/
+  inflating: /tmp/update/XtreamUI-master/admin/assets/libs/peity/jquery.peity.min.js
+   creating: /tmp/update/XtreamUI-master/admin/assets/libs/quill/
+  inflating: /tmp/update/XtreamUI-master/admin/assets/libs/quill/quill.bubble.css
+  inflating: /tmp/update/XtreamUI-master/admin/assets/libs/quill/quill.core.css 
+  inflating: /tmp/update/XtreamUI-master/admin/assets/libs/quill/quill.min.js
+  inflating: /tmp/update/XtreamUI-master/admin/assets/libs/quill/quill.snow.css 
+   creating: /tmp/update/XtreamUI-master/admin/assets/libs/raphael/
+  inflating: /tmp/update/XtreamUI-master/admin/assets/libs/raphael/raphael.min.js
+   creating: /tmp/update/XtreamUI-master/admin/assets/libs/rwd-table/
+  inflating: /tmp/update/XtreamUI-master/admin/assets/libs/rwd-table/rwd-table.min.css
+  inflating: /tmp/update/XtreamUI-master/admin/assets/libs/rwd-table/rwd-table.min.js
+   creating: /tmp/update/XtreamUI-master/admin/assets/libs/select2/
+  inflating: /tmp/update/XtreamUI-master/admin/assets/libs/select2/select2.min.css
+  inflating: /tmp/update/XtreamUI-master/admin/assets/libs/select2/select2.min.js
+   creating: /tmp/update/XtreamUI-master/admin/assets/libs/summernote/
+  inflating: /tmp/update/XtreamUI-master/admin/assets/libs/summernote/summernote-bs4.css
+  inflating: /tmp/update/XtreamUI-master/admin/assets/libs/summernote/summernote-bs4.min.js
+   creating: /tmp/update/XtreamUI-master/admin/assets/libs/sweetalert2/
+  inflating: /tmp/update/XtreamUI-master/admin/assets/libs/sweetalert2/sweetalert2.min.css
+  inflating: /tmp/update/XtreamUI-master/admin/assets/libs/sweetalert2/sweetalert2.min.js
+   creating: /tmp/update/XtreamUI-master/admin/assets/libs/switchery/
+  inflating: /tmp/update/XtreamUI-master/admin/assets/libs/switchery/switchery.min.css
+  inflating: /tmp/update/XtreamUI-master/admin/assets/libs/switchery/switchery.min.js
+   creating: /tmp/update/XtreamUI-master/admin/assets/libs/tablesaw/
+  inflating: /tmp/update/XtreamUI-master/admin/assets/libs/tablesaw/tablesaw.css
+  inflating: /tmp/update/XtreamUI-master/admin/assets/libs/tablesaw/tablesaw.js 
+   creating: /tmp/update/XtreamUI-master/admin/assets/libs/treeview/
+  inflating: /tmp/update/XtreamUI-master/admin/assets/libs/treeview/jstree.min.js
+  inflating: /tmp/update/XtreamUI-master/admin/assets/libs/treeview/style.css
+   creating: /tmp/update/XtreamUI-master/admin/assets/libs/twitter-bootstrap-wizard/
+  inflating: /tmp/update/XtreamUI-master/admin/assets/libs/twitter-bootstrap-wizard/jquery.bootstrap.wizard.min.js
+  inflating: /tmp/update/XtreamUI-master/admin/bouquet.php
+  inflating: /tmp/update/XtreamUI-master/admin/bouquet_order.php
+  inflating: /tmp/update/XtreamUI-master/admin/bouquet_sort.php
+  inflating: /tmp/update/XtreamUI-master/admin/bouquets.php
+  inflating: /tmp/update/XtreamUI-master/admin/channel_order.php
+  inflating: /tmp/update/XtreamUI-master/admin/channel_order_alt.php
+  inflating: /tmp/update/XtreamUI-master/admin/client_logs.php
+  inflating: /tmp/update/XtreamUI-master/admin/created_channel.php
+  inflating: /tmp/update/XtreamUI-master/admin/credit_logs.php
+  inflating: /tmp/update/XtreamUI-master/admin/credits_add.php
+  inflating: /tmp/update/XtreamUI-master/admin/dashboard.php
+   creating: /tmp/update/XtreamUI-master/admin/data/
+  inflating: /tmp/update/XtreamUI-master/admin/data/Collection.php
+  inflating: /tmp/update/XtreamUI-master/admin/data/Company.php
+   creating: /tmp/update/XtreamUI-master/admin/data/config/
+  inflating: /tmp/update/XtreamUI-master/admin/data/config/APIConfiguration.php 
+  inflating: /tmp/update/XtreamUI-master/admin/data/config/config.php
+  inflating: /tmp/update/XtreamUI-master/admin/data/Episode.php
+  inflating: /tmp/update/XtreamUI-master/admin/data/Genre.php
+  inflating: /tmp/update/XtreamUI-master/admin/data/Movie.php
+  inflating: /tmp/update/XtreamUI-master/admin/data/Person.php
+  inflating: /tmp/update/XtreamUI-master/admin/data/Review.php
+  inflating: /tmp/update/XtreamUI-master/admin/data/Role.php
+   creating: /tmp/update/XtreamUI-master/admin/data/roles/
+  inflating: /tmp/update/XtreamUI-master/admin/data/roles/MovieRole.php
+  inflating: /tmp/update/XtreamUI-master/admin/data/roles/TVShowRole.php
+  inflating: /tmp/update/XtreamUI-master/admin/data/Season.php
+  inflating: /tmp/update/XtreamUI-master/admin/data/TVShow.php
+  inflating: /tmp/update/XtreamUI-master/admin/database.php
+  inflating: /tmp/update/XtreamUI-master/admin/edit_profile.php
+  inflating: /tmp/update/XtreamUI-master/admin/enigma.php
+  inflating: /tmp/update/XtreamUI-master/admin/enigmas.php
+  inflating: /tmp/update/XtreamUI-master/admin/epg.php
+  inflating: /tmp/update/XtreamUI-master/admin/epgs.php
+  inflating: /tmp/update/XtreamUI-master/admin/episode.php
+  inflating: /tmp/update/XtreamUI-master/admin/episodes.php
+  inflating: /tmp/update/XtreamUI-master/admin/episodes_mass.php
+  inflating: /tmp/update/XtreamUI-master/admin/fingerprint.php
+  inflating: /tmp/update/XtreamUI-master/admin/functions.php
+  inflating: /tmp/update/XtreamUI-master/admin/gauth.php
+  inflating: /tmp/update/XtreamUI-master/admin/group.php
+  inflating: /tmp/update/XtreamUI-master/admin/groups.php
+  inflating: /tmp/update/XtreamUI-master/admin/header.php
+  inflating: /tmp/update/XtreamUI-master/admin/header_sidebar.php
+  inflating: /tmp/update/XtreamUI-master/admin/HTMLPurifier.standalone.php
+   creating: /tmp/update/XtreamUI-master/admin/icons/
+  inflating: /tmp/update/XtreamUI-master/admin/index.php
+  inflating: /tmp/update/XtreamUI-master/admin/install_server.php
+  inflating: /tmp/update/XtreamUI-master/admin/ip.php
+  inflating: /tmp/update/XtreamUI-master/admin/ips.php
+   creating: /tmp/update/XtreamUI-master/admin/lang/
+  inflating: /tmp/update/XtreamUI-master/admin/lang/en.php
+  inflating: /tmp/update/XtreamUI-master/admin/live_connections.php
+  inflating: /tmp/update/XtreamUI-master/admin/login.php
+  inflating: /tmp/update/XtreamUI-master/admin/logout.php
+  inflating: /tmp/update/XtreamUI-master/admin/mag.php
+  inflating: /tmp/update/XtreamUI-master/admin/mag_events.php
+  inflating: /tmp/update/XtreamUI-master/admin/mags.php
+  inflating: /tmp/update/XtreamUI-master/admin/mass_delete.php
+  inflating: /tmp/update/XtreamUI-master/admin/mobiledetect.php
+  inflating: /tmp/update/XtreamUI-master/admin/movie.php
+  inflating: /tmp/update/XtreamUI-master/admin/movie_mass.php
+  inflating: /tmp/update/XtreamUI-master/admin/movies.php
+  inflating: /tmp/update/XtreamUI-master/admin/package.php
+  inflating: /tmp/update/XtreamUI-master/admin/packages.php
+  inflating: /tmp/update/XtreamUI-master/admin/player.php
+  inflating: /tmp/update/XtreamUI-master/admin/process_monitor.php
+  inflating: /tmp/update/XtreamUI-master/admin/profile.php
+  inflating: /tmp/update/XtreamUI-master/admin/profiles.php
+  inflating: /tmp/update/XtreamUI-master/admin/radio.php
+  inflating: /tmp/update/XtreamUI-master/admin/radio_mass.php
+  inflating: /tmp/update/XtreamUI-master/admin/radios.php
+  inflating: /tmp/update/XtreamUI-master/admin/reg_user.php
+  inflating: /tmp/update/XtreamUI-master/admin/reg_user_logs.php
+  inflating: /tmp/update/XtreamUI-master/admin/reg_users.php
+  inflating: /tmp/update/XtreamUI-master/admin/reseller.php
+  inflating: /tmp/update/XtreamUI-master/admin/resize.php
+  inflating: /tmp/update/XtreamUI-master/admin/rtmp_ip.php
+  inflating: /tmp/update/XtreamUI-master/admin/rtmp_ips.php
+  inflating: /tmp/update/XtreamUI-master/admin/serie.php
+  inflating: /tmp/update/XtreamUI-master/admin/series.php
+  inflating: /tmp/update/XtreamUI-master/admin/series_mass.php
+  inflating: /tmp/update/XtreamUI-master/admin/series_order.php
+  inflating: /tmp/update/XtreamUI-master/admin/server.php
+  inflating: /tmp/update/XtreamUI-master/admin/servers.php
+  inflating: /tmp/update/XtreamUI-master/admin/session.php
+  inflating: /tmp/update/XtreamUI-master/admin/settings.php
+  inflating: /tmp/update/XtreamUI-master/admin/settings_watch.php
+   creating: /tmp/update/XtreamUI-master/admin/standalone/
+   creating: /tmp/update/XtreamUI-master/admin/standalone/HTMLPurifier/
+   creating: /tmp/update/XtreamUI-master/admin/standalone/HTMLPurifier/ConfigSchema/
+   creating: /tmp/update/XtreamUI-master/admin/standalone/HTMLPurifier/ConfigSchema/Builder/
+  inflating: /tmp/update/XtreamUI-master/admin/standalone/HTMLPurifier/ConfigSchema/Builder/ConfigSchema.php
+  inflating: /tmp/update/XtreamUI-master/admin/standalone/HTMLPurifier/ConfigSchema/Builder/Xml.php
+  inflating: /tmp/update/XtreamUI-master/admin/standalone/HTMLPurifier/ConfigSchema/Exception.php
+  inflating: /tmp/update/XtreamUI-master/admin/standalone/HTMLPurifier/ConfigSchema/Interchange.php
+   creating: /tmp/update/XtreamUI-master/admin/standalone/HTMLPurifier/ConfigSchema/Interchange/
+  inflating: /tmp/update/XtreamUI-master/admin/standalone/HTMLPurifier/ConfigSchema/Interchange/Directive.php
+  inflating: /tmp/update/XtreamUI-master/admin/standalone/HTMLPurifier/ConfigSchema/Interchange/Id.php
+  inflating: /tmp/update/XtreamUI-master/admin/standalone/HTMLPurifier/ConfigSchema/InterchangeBuilder.php
+  inflating: /tmp/update/XtreamUI-master/admin/standalone/HTMLPurifier/ConfigSchema/schema.ser
+   creating: /tmp/update/XtreamUI-master/admin/standalone/HTMLPurifier/ConfigSchema/schema/
+  inflating: /tmp/update/XtreamUI-master/admin/standalone/HTMLPurifier/ConfigSchema/schema/Attr.AllowedClasses.txt
+  inflating: /tmp/update/XtreamUI-master/admin/standalone/HTMLPurifier/ConfigSchema/schema/Attr.AllowedFrameTargets.txt
+  inflating: /tmp/update/XtreamUI-master/admin/standalone/HTMLPurifier/ConfigSchema/schema/Attr.AllowedRel.txt
+  inflating: /tmp/update/XtreamUI-master/admin/standalone/HTMLPurifier/ConfigSchema/schema/Attr.AllowedRev.txt
+  inflating: /tmp/update/XtreamUI-master/admin/standalone/HTMLPurifier/ConfigSchema/schema/Attr.ClassUseCDATA.txt
+  inflating: /tmp/update/XtreamUI-master/admin/standalone/HTMLPurifier/ConfigSchema/schema/Attr.DefaultImageAlt.txt
+  inflating: /tmp/update/XtreamUI-master/admin/standalone/HTMLPurifier/ConfigSchema/schema/Attr.DefaultInvalidImage.txt
+  inflating: /tmp/update/XtreamUI-master/admin/standalone/HTMLPurifier/ConfigSchema/schema/Attr.DefaultInvalidImageAlt.txt
+  inflating: /tmp/update/XtreamUI-master/admin/standalone/HTMLPurifier/ConfigSchema/schema/Attr.DefaultTextDir.txt
+  inflating: /tmp/update/XtreamUI-master/admin/standalone/HTMLPurifier/ConfigSchema/schema/Attr.EnableID.txt
+  inflating: /tmp/update/XtreamUI-master/admin/standalone/HTMLPurifier/ConfigSchema/schema/Attr.ForbiddenClasses.txt
+  inflating: /tmp/update/XtreamUI-master/admin/standalone/HTMLPurifier/ConfigSchema/schema/Attr.ID.HTML5.txt
+  inflating: /tmp/update/XtreamUI-master/admin/standalone/HTMLPurifier/ConfigSchema/schema/Attr.IDBlacklist.txt
+  inflating: /tmp/update/XtreamUI-master/admin/standalone/HTMLPurifier/ConfigSchema/schema/Attr.IDBlacklistRegexp.txt
+  inflating: /tmp/update/XtreamUI-master/admin/standalone/HTMLPurifier/ConfigSchema/schema/Attr.IDPrefix.txt
+  inflating: /tmp/update/XtreamUI-master/admin/standalone/HTMLPurifier/ConfigSchema/schema/Attr.IDPrefixLocal.txt
+  inflating: /tmp/update/XtreamUI-master/admin/standalone/HTMLPurifier/ConfigSchema/schema/AutoFormat.AutoParagraph.txt
+  inflating: /tmp/update/XtreamUI-master/admin/standalone/HTMLPurifier/ConfigSchema/schema/AutoFormat.Custom.txt
+  inflating: /tmp/update/XtreamUI-master/admin/standalone/HTMLPurifier/ConfigSchema/schema/AutoFormat.DisplayLinkURI.txt
+  inflating: /tmp/update/XtreamUI-master/admin/standalone/HTMLPurifier/ConfigSchema/schema/AutoFormat.Linkify.txt
+  inflating: /tmp/update/XtreamUI-master/admin/standalone/HTMLPurifier/ConfigSchema/schema/AutoFormat.PurifierLinkify.DocURL.txt
+  inflating: /tmp/update/XtreamUI-master/admin/standalone/HTMLPurifier/ConfigSchema/schema/AutoFormat.PurifierLinkify.txt
+  inflating: /tmp/update/XtreamUI-master/admin/standalone/HTMLPurifier/ConfigSchema/schema/AutoFormat.RemoveEmpty.Predicate.txt
+  inflating: /tmp/update/XtreamUI-master/admin/standalone/HTMLPurifier/ConfigSchema/schema/AutoFormat.RemoveEmpty.RemoveNbsp.Exceptions.txt
+  inflating: /tmp/update/XtreamUI-master/admin/standalone/HTMLPurifier/ConfigSchema/schema/AutoFormat.RemoveEmpty.RemoveNbsp.txt
+  inflating: /tmp/update/XtreamUI-master/admin/standalone/HTMLPurifier/ConfigSchema/schema/AutoFormat.RemoveEmpty.txt
+  inflating: /tmp/update/XtreamUI-master/admin/standalone/HTMLPurifier/ConfigSchema/schema/AutoFormat.RemoveSpansWithoutAttributes.txt
+  inflating: /tmp/update/XtreamUI-master/admin/standalone/HTMLPurifier/ConfigSchema/schema/Cache.DefinitionImpl.txt
+  inflating: /tmp/update/XtreamUI-master/admin/standalone/HTMLPurifier/ConfigSchema/schema/Cache.SerializerPath.txt
+  inflating: /tmp/update/XtreamUI-master/admin/standalone/HTMLPurifier/ConfigSchema/schema/Cache.SerializerPermissions.txt
+  inflating: /tmp/update/XtreamUI-master/admin/standalone/HTMLPurifier/ConfigSchema/schema/Core.AggressivelyFixLt.txt
+  inflating: /tmp/update/XtreamUI-master/admin/standalone/HTMLPurifier/ConfigSchema/schema/Core.AggressivelyRemoveScript.txt
+  inflating: /tmp/update/XtreamUI-master/admin/standalone/HTMLPurifier/ConfigSchema/schema/Core.AllowHostnameUnderscore.txt
+  inflating: /tmp/update/XtreamUI-master/admin/standalone/HTMLPurifier/ConfigSchema/schema/Core.AllowParseManyTags.txt
+  inflating: /tmp/update/XtreamUI-master/admin/standalone/HTMLPurifier/ConfigSchema/schema/Core.CollectErrors.txt
+  inflating: /tmp/update/XtreamUI-master/admin/standalone/HTMLPurifier/ConfigSchema/schema/Core.ColorKeywords.txt
+  inflating: /tmp/update/XtreamUI-master/admin/standalone/HTMLPurifier/ConfigSchema/schema/Core.ConvertDocumentToFragment.txt
+  inflating: /tmp/update/XtreamUI-master/admin/standalone/HTMLPurifier/ConfigSchema/schema/Core.DirectLexLineNumberSyncInterval.txt
+  inflating: /tmp/update/XtreamUI-master/admin/standalone/HTMLPurifier/ConfigSchema/schema/Core.DisableExcludes.txt
+  inflating: /tmp/update/XtreamUI-master/admin/standalone/HTMLPurifier/ConfigSchema/schema/Core.EnableIDNA.txt
+  inflating: /tmp/update/XtreamUI-master/admin/standalone/HTMLPurifier/ConfigSchema/schema/Core.Encoding.txt
+  inflating: /tmp/update/XtreamUI-master/admin/standalone/HTMLPurifier/ConfigSchema/schema/Core.EscapeInvalidChildren.txt
+  inflating: /tmp/update/XtreamUI-master/admin/standalone/HTMLPurifier/ConfigSchema/schema/Core.EscapeInvalidTags.txt
+  inflating: /tmp/update/XtreamUI-master/admin/standalone/HTMLPurifier/ConfigSchema/schema/Core.EscapeNonASCIICharacters.txt
+  inflating: /tmp/update/XtreamUI-master/admin/standalone/HTMLPurifier/ConfigSchema/schema/Core.HiddenElements.txt
+  inflating: /tmp/update/XtreamUI-master/admin/standalone/HTMLPurifier/ConfigSchema/schema/Core.Language.txt
+  inflating: /tmp/update/XtreamUI-master/admin/standalone/HTMLPurifier/ConfigSchema/schema/Core.LegacyEntityDecoder.txt
+  inflating: /tmp/update/XtreamUI-master/admin/standalone/HTMLPurifier/ConfigSchema/schema/Core.LexerImpl.txt
+  inflating: /tmp/update/XtreamUI-master/admin/standalone/HTMLPurifier/ConfigSchema/schema/Core.MaintainLineNumbers.txt
+  inflating: /tmp/update/XtreamUI-master/admin/standalone/HTMLPurifier/ConfigSchema/schema/Core.NormalizeNewlines.txt
+  inflating: /tmp/update/XtreamUI-master/admin/standalone/HTMLPurifier/ConfigSchema/schema/Core.RemoveInvalidImg.txt
+  inflating: /tmp/update/XtreamUI-master/admin/standalone/HTMLPurifier/ConfigSchema/schema/Core.RemoveProcessingInstructions.txt
+  inflating: /tmp/update/XtreamUI-master/admin/standalone/HTMLPurifier/ConfigSchema/schema/Core.RemoveScriptContents.txt
+  inflating: /tmp/update/XtreamUI-master/admin/standalone/HTMLPurifier/ConfigSchema/schema/CSS.AllowDuplicates.txt
+  inflating: /tmp/update/XtreamUI-master/admin/standalone/HTMLPurifier/ConfigSchema/schema/CSS.AllowedFonts.txt
+  inflating: /tmp/update/XtreamUI-master/admin/standalone/HTMLPurifier/ConfigSchema/schema/CSS.AllowedProperties.txt
+  inflating: /tmp/update/XtreamUI-master/admin/standalone/HTMLPurifier/ConfigSchema/schema/CSS.AllowImportant.txt
+  inflating: /tmp/update/XtreamUI-master/admin/standalone/HTMLPurifier/ConfigSchema/schema/CSS.AllowTricky.txt
+  inflating: /tmp/update/XtreamUI-master/admin/standalone/HTMLPurifier/ConfigSchema/schema/CSS.DefinitionRev.txt
+  inflating: /tmp/update/XtreamUI-master/admin/standalone/HTMLPurifier/ConfigSchema/schema/CSS.ForbiddenProperties.txt
+  inflating: /tmp/update/XtreamUI-master/admin/standalone/HTMLPurifier/ConfigSchema/schema/CSS.MaxImgLength.txt
+  inflating: /tmp/update/XtreamUI-master/admin/standalone/HTMLPurifier/ConfigSchema/schema/CSS.Proprietary.txt
+  inflating: /tmp/update/XtreamUI-master/admin/standalone/HTMLPurifier/ConfigSchema/schema/CSS.Trusted.txt
+  inflating: /tmp/update/XtreamUI-master/admin/standalone/HTMLPurifier/ConfigSchema/schema/Filter.Custom.txt
+  inflating: /tmp/update/XtreamUI-master/admin/standalone/HTMLPurifier/ConfigSchema/schema/Filter.ExtractStyleBlocks.Escaping.txt
+  inflating: /tmp/update/XtreamUI-master/admin/standalone/HTMLPurifier/ConfigSchema/schema/Filter.ExtractStyleBlocks.Scope.txt
+  inflating: /tmp/update/XtreamUI-master/admin/standalone/HTMLPurifier/ConfigSchema/schema/Filter.ExtractStyleBlocks.TidyImpl.txt
+  inflating: /tmp/update/XtreamUI-master/admin/standalone/HTMLPurifier/ConfigSchema/schema/Filter.ExtractStyleBlocks.txt
+  inflating: /tmp/update/XtreamUI-master/admin/standalone/HTMLPurifier/ConfigSchema/schema/Filter.YouTube.txt
+  inflating: /tmp/update/XtreamUI-master/admin/standalone/HTMLPurifier/ConfigSchema/schema/HTML.Allowed.txt
+  inflating: /tmp/update/XtreamUI-master/admin/standalone/HTMLPurifier/ConfigSchema/schema/HTML.AllowedAttributes.txt
+  inflating: /tmp/update/XtreamUI-master/admin/standalone/HTMLPurifier/ConfigSchema/schema/HTML.AllowedComments.txt
+  inflating: /tmp/update/XtreamUI-master/admin/standalone/HTMLPurifier/ConfigSchema/schema/HTML.AllowedCommentsRegexp.txt
+  inflating: /tmp/update/XtreamUI-master/admin/standalone/HTMLPurifier/ConfigSchema/schema/HTML.AllowedElements.txt
+  inflating: /tmp/update/XtreamUI-master/admin/standalone/HTMLPurifier/ConfigSchema/schema/HTML.AllowedModules.txt
+  inflating: /tmp/update/XtreamUI-master/admin/standalone/HTMLPurifier/ConfigSchema/schema/HTML.Attr.Name.UseCDATA.txt
+  inflating: /tmp/update/XtreamUI-master/admin/standalone/HTMLPurifier/ConfigSchema/schema/HTML.BlockWrapper.txt
+  inflating: /tmp/update/XtreamUI-master/admin/standalone/HTMLPurifier/ConfigSchema/schema/HTML.CoreModules.txt
+  inflating: /tmp/update/XtreamUI-master/admin/standalone/HTMLPurifier/ConfigSchema/schema/HTML.CustomDoctype.txt
+  inflating: /tmp/update/XtreamUI-master/admin/standalone/HTMLPurifier/ConfigSchema/schema/HTML.DefinitionID.txt
+  inflating: /tmp/update/XtreamUI-master/admin/standalone/HTMLPurifier/ConfigSchema/schema/HTML.DefinitionRev.txt
+  inflating: /tmp/update/XtreamUI-master/admin/standalone/HTMLPurifier/ConfigSchema/schema/HTML.Doctype.txt
+  inflating: /tmp/update/XtreamUI-master/admin/standalone/HTMLPurifier/ConfigSchema/schema/HTML.FlashAllowFullScreen.txt
+  inflating: /tmp/update/XtreamUI-master/admin/standalone/HTMLPurifier/ConfigSchema/schema/HTML.ForbiddenAttributes.txt
+  inflating: /tmp/update/XtreamUI-master/admin/standalone/HTMLPurifier/ConfigSchema/schema/HTML.ForbiddenElements.txt
+  inflating: /tmp/update/XtreamUI-master/admin/standalone/HTMLPurifier/ConfigSchema/schema/HTML.MaxImgLength.txt
+  inflating: /tmp/update/XtreamUI-master/admin/standalone/HTMLPurifier/ConfigSchema/schema/HTML.Nofollow.txt
+  inflating: /tmp/update/XtreamUI-master/admin/standalone/HTMLPurifier/ConfigSchema/schema/HTML.Parent.txt
+  inflating: /tmp/update/XtreamUI-master/admin/standalone/HTMLPurifier/ConfigSchema/schema/HTML.Proprietary.txt
+  inflating: /tmp/update/XtreamUI-master/admin/standalone/HTMLPurifier/ConfigSchema/schema/HTML.SafeEmbed.txt
+  inflating: /tmp/update/XtreamUI-master/admin/standalone/HTMLPurifier/ConfigSchema/schema/HTML.SafeIframe.txt
+  inflating: /tmp/update/XtreamUI-master/admin/standalone/HTMLPurifier/ConfigSchema/schema/HTML.SafeObject.txt
+  inflating: /tmp/update/XtreamUI-master/admin/standalone/HTMLPurifier/ConfigSchema/schema/HTML.SafeScripting.txt
+  inflating: /tmp/update/XtreamUI-master/admin/standalone/HTMLPurifier/ConfigSchema/schema/HTML.Strict.txt
+  inflating: /tmp/update/XtreamUI-master/admin/standalone/HTMLPurifier/ConfigSchema/schema/HTML.TargetBlank.txt
+  inflating: /tmp/update/XtreamUI-master/admin/standalone/HTMLPurifier/ConfigSchema/schema/HTML.TargetNoopener.txt
+  inflating: /tmp/update/XtreamUI-master/admin/standalone/HTMLPurifier/ConfigSchema/schema/HTML.TargetNoreferrer.txt
+  inflating: /tmp/update/XtreamUI-master/admin/standalone/HTMLPurifier/ConfigSchema/schema/HTML.TidyAdd.txt
+  inflating: /tmp/update/XtreamUI-master/admin/standalone/HTMLPurifier/ConfigSchema/schema/HTML.TidyLevel.txt
+  inflating: /tmp/update/XtreamUI-master/admin/standalone/HTMLPurifier/ConfigSchema/schema/HTML.TidyRemove.txt
+  inflating: /tmp/update/XtreamUI-master/admin/standalone/HTMLPurifier/ConfigSchema/schema/HTML.Trusted.txt
+  inflating: /tmp/update/XtreamUI-master/admin/standalone/HTMLPurifier/ConfigSchema/schema/HTML.XHTML.txt
+ extracting: /tmp/update/XtreamUI-master/admin/standalone/HTMLPurifier/ConfigSchema/schema/info.ini
+  inflating: /tmp/update/XtreamUI-master/admin/standalone/HTMLPurifier/ConfigSchema/schema/Output.CommentScriptContents.txt
+  inflating: /tmp/update/XtreamUI-master/admin/standalone/HTMLPurifier/ConfigSchema/schema/Output.FixInnerHTML.txt
+  inflating: /tmp/update/XtreamUI-master/admin/standalone/HTMLPurifier/ConfigSchema/schema/Output.FlashCompat.txt
+  inflating: /tmp/update/XtreamUI-master/admin/standalone/HTMLPurifier/ConfigSchema/schema/Output.Newline.txt
+  inflating: /tmp/update/XtreamUI-master/admin/standalone/HTMLPurifier/ConfigSchema/schema/Output.SortAttr.txt
+  inflating: /tmp/update/XtreamUI-master/admin/standalone/HTMLPurifier/ConfigSchema/schema/Output.TidyFormat.txt
+  inflating: /tmp/update/XtreamUI-master/admin/standalone/HTMLPurifier/ConfigSchema/schema/Test.ForceNoIconv.txt
+  inflating: /tmp/update/XtreamUI-master/admin/standalone/HTMLPurifier/ConfigSchema/schema/URI.AllowedSchemes.txt
+  inflating: /tmp/update/XtreamUI-master/admin/standalone/HTMLPurifier/ConfigSchema/schema/URI.Base.txt
+  inflating: /tmp/update/XtreamUI-master/admin/standalone/HTMLPurifier/ConfigSchema/schema/URI.DefaultScheme.txt
+  inflating: /tmp/update/XtreamUI-master/admin/standalone/HTMLPurifier/ConfigSchema/schema/URI.DefinitionID.txt
+  inflating: /tmp/update/XtreamUI-master/admin/standalone/HTMLPurifier/ConfigSchema/schema/URI.DefinitionRev.txt
+  inflating: /tmp/update/XtreamUI-master/admin/standalone/HTMLPurifier/ConfigSchema/schema/URI.Disable.txt
+  inflating: /tmp/update/XtreamUI-master/admin/standalone/HTMLPurifier/ConfigSchema/schema/URI.DisableExternal.txt
+  inflating: /tmp/update/XtreamUI-master/admin/standalone/HTMLPurifier/ConfigSchema/schema/URI.DisableExternalResources.txt
+  inflating: /tmp/update/XtreamUI-master/admin/standalone/HTMLPurifier/ConfigSchema/schema/URI.DisableResources.txt
+  inflating: /tmp/update/XtreamUI-master/admin/standalone/HTMLPurifier/ConfigSchema/schema/URI.Host.txt
+  inflating: /tmp/update/XtreamUI-master/admin/standalone/HTMLPurifier/ConfigSchema/schema/URI.HostBlacklist.txt
+  inflating: /tmp/update/XtreamUI-master/admin/standalone/HTMLPurifier/ConfigSchema/schema/URI.MakeAbsolute.txt
+  inflating: /tmp/update/XtreamUI-master/admin/standalone/HTMLPurifier/ConfigSchema/schema/URI.Munge.txt
+  inflating: /tmp/update/XtreamUI-master/admin/standalone/HTMLPurifier/ConfigSchema/schema/URI.MungeResources.txt
+  inflating: /tmp/update/XtreamUI-master/admin/standalone/HTMLPurifier/ConfigSchema/schema/URI.MungeSecretKey.txt
+  inflating: /tmp/update/XtreamUI-master/admin/standalone/HTMLPurifier/ConfigSchema/schema/URI.OverrideAllowedSchemes.txt
+  inflating: /tmp/update/XtreamUI-master/admin/standalone/HTMLPurifier/ConfigSchema/schema/URI.SafeIframeRegexp.txt
+  inflating: /tmp/update/XtreamUI-master/admin/standalone/HTMLPurifier/ConfigSchema/Validator.php
+  inflating: /tmp/update/XtreamUI-master/admin/standalone/HTMLPurifier/ConfigSchema/ValidatorAtom.php
+   creating: /tmp/update/XtreamUI-master/admin/standalone/HTMLPurifier/DefinitionCache/
+   creating: /tmp/update/XtreamUI-master/admin/standalone/HTMLPurifier/DefinitionCache/Serializer/
+   creating: /tmp/update/XtreamUI-master/admin/standalone/HTMLPurifier/DefinitionCache/Serializer/HTML/
+  inflating: /tmp/update/XtreamUI-master/admin/standalone/HTMLPurifier/DefinitionCache/Serializer/HTML/4.12.0,42d2529d2d2aa4f137a4d6d6292a92e3ee82eb86,1.ser
+   creating: /tmp/update/XtreamUI-master/admin/standalone/HTMLPurifier/DefinitionCache/Serializer/URI/
+  inflating: /tmp/update/XtreamUI-master/admin/standalone/HTMLPurifier/DefinitionCache/Serializer/URI/4.12.0,3478238e680361cd87bf880f5b3cc50a1e7abc6c,1.ser
+   creating: /tmp/update/XtreamUI-master/admin/standalone/HTMLPurifier/EntityLookup/
+  inflating: /tmp/update/XtreamUI-master/admin/standalone/HTMLPurifier/EntityLookup/entities.ser
+   creating: /tmp/update/XtreamUI-master/admin/standalone/HTMLPurifier/Filter/
+  inflating: /tmp/update/XtreamUI-master/admin/standalone/HTMLPurifier/Filter/ExtractStyleBlocks.php
+  inflating: /tmp/update/XtreamUI-master/admin/standalone/HTMLPurifier/Filter/YouTube.php
+   creating: /tmp/update/XtreamUI-master/admin/standalone/HTMLPurifier/Language/
+   creating: /tmp/update/XtreamUI-master/admin/standalone/HTMLPurifier/Language/classes/
+  inflating: /tmp/update/XtreamUI-master/admin/standalone/HTMLPurifier/Language/classes/en-x-test.php
+   creating: /tmp/update/XtreamUI-master/admin/standalone/HTMLPurifier/Language/messages/
+  inflating: /tmp/update/XtreamUI-master/admin/standalone/HTMLPurifier/Language/messages/en.php
+  inflating: /tmp/update/XtreamUI-master/admin/standalone/HTMLPurifier/Language/messages/en-x-test.php
+  inflating: /tmp/update/XtreamUI-master/admin/standalone/HTMLPurifier/Language/messages/en-x-testmini.php
+   creating: /tmp/update/XtreamUI-master/admin/standalone/HTMLPurifier/Lexer/
+  inflating: /tmp/update/XtreamUI-master/admin/standalone/HTMLPurifier/Lexer/PH5P.php
+  inflating: /tmp/update/XtreamUI-master/admin/standalone/HTMLPurifier/Printer.php
+   creating: /tmp/update/XtreamUI-master/admin/standalone/HTMLPurifier/Printer/
+  inflating: /tmp/update/XtreamUI-master/admin/standalone/HTMLPurifier/Printer/ConfigForm.css
+  inflating: /tmp/update/XtreamUI-master/admin/standalone/HTMLPurifier/Printer/ConfigForm.js
+  inflating: /tmp/update/XtreamUI-master/admin/standalone/HTMLPurifier/Printer/ConfigForm.php
+  inflating: /tmp/update/XtreamUI-master/admin/standalone/HTMLPurifier/Printer/CSSDefinition.php
+  inflating: /tmp/update/XtreamUI-master/admin/standalone/HTMLPurifier/Printer/HTMLDefinition.php
+  inflating: /tmp/update/XtreamUI-master/admin/stream.php
+  inflating: /tmp/update/XtreamUI-master/admin/stream_categories.php
+  inflating: /tmp/update/XtreamUI-master/admin/stream_category.php
+  inflating: /tmp/update/XtreamUI-master/admin/stream_logs.php
+  inflating: /tmp/update/XtreamUI-master/admin/stream_mass.php
+  inflating: /tmp/update/XtreamUI-master/admin/stream_tools.php
+  inflating: /tmp/update/XtreamUI-master/admin/streams.php
+  inflating: /tmp/update/XtreamUI-master/admin/subreseller.php
+  inflating: /tmp/update/XtreamUI-master/admin/subreseller_setup.php
+  inflating: /tmp/update/XtreamUI-master/admin/subresellers.php
+  inflating: /tmp/update/XtreamUI-master/admin/table.php
+  inflating: /tmp/update/XtreamUI-master/admin/table_search.php
+  inflating: /tmp/update/XtreamUI-master/admin/ticket.php
+  inflating: /tmp/update/XtreamUI-master/admin/ticket_view.php
+  inflating: /tmp/update/XtreamUI-master/admin/tickets.php
+  inflating: /tmp/update/XtreamUI-master/admin/tmdb.php
+  inflating: /tmp/update/XtreamUI-master/admin/tmdb_release.php
+  inflating: /tmp/update/XtreamUI-master/admin/user.php
+  inflating: /tmp/update/XtreamUI-master/admin/user_activity.php
+  inflating: /tmp/update/XtreamUI-master/admin/user_ips.php
+  inflating: /tmp/update/XtreamUI-master/admin/user_mass.php
+  inflating: /tmp/update/XtreamUI-master/admin/user_reseller.php
+  inflating: /tmp/update/XtreamUI-master/admin/useragent.php
+  inflating: /tmp/update/XtreamUI-master/admin/useragents.php
+  inflating: /tmp/update/XtreamUI-master/admin/users.php
+  inflating: /tmp/update/XtreamUI-master/admin/watch.php
+  inflating: /tmp/update/XtreamUI-master/admin/watch_add.php
+  inflating: /tmp/update/XtreamUI-master/admin/watch_output.php
+   creating: /tmp/update/XtreamUI-master/adtools/
+   creating: /tmp/update/XtreamUI-master/adtools/backups/
+   creating: /tmp/update/XtreamUI-master/adtools/balancer/
+  inflating: /tmp/update/XtreamUI-master/adtools/balancer/readme.txt
+  inflating: /tmp/update/XtreamUI-master/adtools/blacklist.txt
+   creating: /tmp/update/XtreamUI-master/crons/
+  inflating: /tmp/update/XtreamUI-master/crons/balancer.php
+  inflating: /tmp/update/XtreamUI-master/crons/kill_leaks.php
+  inflating: /tmp/update/XtreamUI-master/crons/stats.php
+  inflating: /tmp/update/XtreamUI-master/crons/tmdb_async.php
+  inflating: /tmp/update/XtreamUI-master/crons/vod_cc_series.php
+  inflating: /tmp/update/XtreamUI-master/crons/watch_folder.php
+  inflating: /tmp/update/XtreamUI-master/GeoLite2.mmdb
+   creating: /tmp/update/XtreamUI-master/isp/
+  inflating: /tmp/update/XtreamUI-master/isp/api.php
+   creating: /tmp/update/XtreamUI-master/isp/data/
+  inflating: /tmp/update/XtreamUI-master/isp/data/a08b37be7b556f6079bcc35398395acf
+   creating: /tmp/update/XtreamUI-master/nginx/
+   creating: /tmp/update/XtreamUI-master/nginx/sbin/
+  inflating: /tmp/update/XtreamUI-master/nginx/sbin/nginx
+   creating: /tmp/update/XtreamUI-master/nginx_rtmp/
+   creating: /tmp/update/XtreamUI-master/nginx_rtmp/sbin/
+  inflating: /tmp/update/XtreamUI-master/nginx_rtmp/sbin/nginx_rtmp
+  inflating: /tmp/update/XtreamUI-master/permissions.sh
+   creating: /tmp/update/XtreamUI-master/php/
+   creating: /tmp/update/XtreamUI-master/php/lib/
+  inflating: /tmp/update/XtreamUI-master/php/lib/php.ini
+   creating: /tmp/update/XtreamUI-master/pytools/
+  inflating: /tmp/update/XtreamUI-master/pytools/balancer.py
+  inflating: /tmp/update/XtreamUI-master/pytools/config.py
+   creating: /tmp/update/XtreamUI-master/pytools/PTN/
+  inflating: /tmp/update/XtreamUI-master/pytools/PTN/__init__.py
+  inflating: /tmp/update/XtreamUI-master/pytools/PTN/parse.py
+  inflating: /tmp/update/XtreamUI-master/pytools/PTN/patterns.py
+  inflating: /tmp/update/XtreamUI-master/pytools/release.py
+chown: changing ownership of '/home/xtreamcodes/iptv_xtream_codes/GeoLite2.mmdb': Operation not permitted
+filmo@filmov2:~$ sudo journalctl -u xtreamcodes.service
+-- Logs begin at Fri 2023-08-11 01:10:12 EEST, end at Fri 2023-08-11 04:24:04 EE
+-- No entries --
+
+filmo@filmov2:~$ sudo systemctl status xtreamcodes.service
+● xtreamcodes.service
+   Loaded: loaded (/etc/init.d/xtreamcodes; generated)
+   Active: inactive (dead)
+     Docs: man:systemd-sysv-generator(8)
+filmo@filmov2:~$ sudo systemctl start xtreamcodes.service
+Terminated
+filmo@filmov2:~$ cat /etc/systemd/system/xtreamcodes.service
+cat: /etc/systemd/system/xtreamcodes.service: No such file or directory
+filmo@filmov2:~$ cat /etc/init.d/xtreamcodes
+#! /bin/bash
+/home/xtreamcodes/iptv_xtream_codes/start_services.shfilmo@filmov2:~$ cd
+filmo@filmov2:~$ sudo service xtreamcodes start
+filmo@filmov2:~$ sudo grep xtreamcodes /var/log/syslog
+Aug 11 03:54:22 filmov2 crontab[18944]: (xtreamcodes) LIST (xtreamcodes)
+Aug 11 03:54:22 filmov2 crontab[18948]: (xtreamcodes) REPLACE (xtreamcodes)
+Aug 11 03:55:01 filmov2 CRON[19027]: (xtreamcodes) CMD (/home/xtreamcodes/iptv_xtream_codes/php/bin/php /home/xtreamcodes/iptv_xtream_codes/crons/offline_cons.php # Xtream-Codes IPTV Panel^M)
+Aug 11 03:55:01 filmov2 CRON[19028]: (xtreamcodes) CMD (/home/xtreamcodes/iptv_xtream_codes/php/bin/php /home/xtreamcodes/iptv_xtream_codes/crons/setup_cache.php # Xtream-Codes IPTV Panel^M)
+Aug 11 03:55:01 filmov2 CRON[19029]: (xtreamcodes) CMD (/home/xtreamcodes/iptv_xtream_codes/php/bin/php /home/xtreamcodes/iptv_xtream_codes/crons/crl_sync.php # Xtream-Codes IPTV Panel^M)
+Aug 11 03:55:01 filmov2 CRON[19030]: (xtreamcodes) CMD (/home/xtreamcodes/iptv_xtream_codes/php/bin/php /home/xtreamcodes/iptv_xtream_codes/crons/servers_checker.php # Xtream-Codes IPTV Panel^M)
+Aug 11 03:55:01 filmov2 CRON[19031]: (xtreamcodes) CMD (/home/xtreamcodes/iptv_xtream_codes/php/bin/php /home/xtreamcodes/iptv_xtream_codes/crons/stream_errors.php # Xtream-Codes IPTV Panel^M)
+Aug 11 03:55:01 filmov2 CRON[19032]: (xtreamcodes) CMD (/home/xtreamcodes/iptv_xtream_codes/php/bin/php /home/xtreamcodes/iptv_xtream_codes/crons/live_checker.php # Xtream-Codes IPTV Panel^M)
+Aug 11 03:55:01 filmov2 CRON[19039]: (xtreamcodes) CMD (/home/xtreamcodes/iptv_xtream_codes/php/bin/php /home/xtreamcodes/iptv_xtream_codes/crons/vod_cc_checker.php # Xtream-Codes IPTV Panel^M)
+Aug 11 03:55:01 filmov2 CRON[19040]: (xtreamcodes) CMD (/home/xtreamcodes/iptv_xtream_codes/php/bin/php /home/xtreamcodes/iptv_xtream_codes/crons/tmp_del.php # Xtream-Codes IPTV Panel^M)
+Aug 11 03:55:01 filmov2 CRON[19043]: (xtreamcodes) CMD (/home/xtreamcodes/iptv_xtream_codes/php/bin/php /home/xtreamcodes/iptv_xtream_codes/crons/users_checker.php # Xtream-Codes IPTV Panel^M)
+Aug 11 03:56:01 filmov2 CRON[19649]: (xtreamcodes) CMD (/home/xtreamcodes/iptv_xtream_codes/php/bin/php /home/xtreamcodes/iptv_xtream_codes/crons/crl_sync.php # Xtream-Codes IPTV Panel^M)
+Aug 11 03:56:01 filmov2 CRON[19650]: (xtreamcodes) CMD (/home/xtreamcodes/iptv_xtream_codes/php/bin/php /home/xtreamcodes/iptv_xtream_codes/crons/live_checker.php # Xtream-Codes IPTV Panel^M)
+Aug 11 03:56:01 filmov2 CRON[19651]: (xtreamcodes) CMD (/home/xtreamcodes/iptv_xtream_codes/php/bin/php /home/xtreamcodes/iptv_xtream_codes/crons/servers_checker.php # Xtream-Codes IPTV Panel^M)
+Aug 11 03:56:01 filmov2 CRON[19652]: (xtreamcodes) CMD (/home/xtreamcodes/iptv_xtream_codes/php/bin/php /home/xtreamcodes/iptv_xtream_codes/crons/offline_cons.php # Xtream-Codes IPTV Panel^M)
+Aug 11 03:56:01 filmov2 CRON[19656]: (xtreamcodes) CMD (/home/xtreamcodes/iptv_xtream_codes/php/bin/php /home/xtreamcodes/iptv_xtream_codes/crons/tmp_del.php # Xtream-Codes IPTV Panel^M)
+Aug 11 03:56:01 filmov2 CRON[19653]: (xtreamcodes) CMD (/home/xtreamcodes/iptv_xtream_codes/php/bin/php /home/xtreamcodes/iptv_xtream_codes/crons/setup_cache.php # Xtream-Codes IPTV Panel^M)
+Aug 11 03:56:01 filmov2 CRON[19660]: (xtreamcodes) CMD (/home/xtreamcodes/iptv_xtream_codes/php/bin/php /home/xtreamcodes/iptv_xtream_codes/crons/users_checker.php # Xtream-Codes IPTV Panel^M)
+Aug 11 03:56:01 filmov2 CRON[19662]: (xtreamcodes) CMD (/home/xtreamcodes/iptv_xtream_codes/php/bin/php /home/xtreamcodes/iptv_xtream_codes/crons/vod_cc_checker.php # Xtream-Codes IPTV Panel^M)
+Aug 11 03:56:01 filmov2 CRON[19664]: (xtreamcodes) CMD (/home/xtreamcodes/iptv_xtream_codes/php/bin/php /home/xtreamcodes/iptv_xtream_codes/crons/stream_errors.php # Xtream-Codes IPTV Panel^M)
+Aug 11 03:57:01 filmov2 CRON[20267]: (xtreamcodes) CMD (/home/xtreamcodes/iptv_xtream_codes/php/bin/php /home/xtreamcodes/iptv_xtream_codes/crons/live_checker.php # Xtream-Codes IPTV Panel^M)
+Aug 11 03:57:01 filmov2 CRON[20268]: (xtreamcodes) CMD (/home/xtreamcodes/iptv_xtream_codes/php/bin/php /home/xtreamcodes/iptv_xtream_codes/crons/crl_sync.php # Xtream-Codes IPTV Panel^M)
+Aug 11 03:57:01 filmov2 CRON[20269]: (xtreamcodes) CMD (/home/xtreamcodes/iptv_xtream_codes/php/bin/php /home/xtreamcodes/iptv_xtream_codes/crons/offline_cons.php # Xtream-Codes IPTV Panel^M)
+Aug 11 03:57:01 filmov2 CRON[20270]: (xtreamcodes) CMD (/home/xtreamcodes/iptv_xtream_codes/php/bin/php /home/xtreamcodes/iptv_xtream_codes/crons/servers_checker.php # Xtream-Codes IPTV Panel^M)
+Aug 11 03:57:01 filmov2 CRON[20271]: (xtreamcodes) CMD (/home/xtreamcodes/iptv_xtream_codes/php/bin/php /home/xtreamcodes/iptv_xtream_codes/crons/stream_errors.php # Xtream-Codes IPTV Panel^M)
+Aug 11 03:57:01 filmov2 CRON[20272]: (xtreamcodes) CMD (/home/xtreamcodes/iptv_xtream_codes/php/bin/php /home/xtreamcodes/iptv_xtream_codes/crons/tmp_del.php # Xtream-Codes IPTV Panel^M)
+Aug 11 03:57:01 filmov2 CRON[20280]: (xtreamcodes) CMD (/home/xtreamcodes/iptv_xtream_codes/php/bin/php /home/xtreamcodes/iptv_xtream_codes/crons/users_checker.php # Xtream-Codes IPTV Panel^M)
+Aug 11 03:57:01 filmov2 CRON[20279]: (xtreamcodes) CMD (/home/xtreamcodes/iptv_xtream_codes/php/bin/php /home/xtreamcodes/iptv_xtream_codes/crons/vod_cc_checker.php # Xtream-Codes IPTV Panel^M)
+Aug 11 03:57:01 filmov2 CRON[20282]: (xtreamcodes) CMD (/home/xtreamcodes/iptv_xtream_codes/php/bin/php /home/xtreamcodes/iptv_xtream_codes/crons/setup_cache.php # Xtream-Codes IPTV Panel^M)
+Aug 11 03:58:01 filmov2 CRON[20885]: (xtreamcodes) CMD (/home/xtreamcodes/iptv_xtream_codes/php/bin/php /home/xtreamcodes/iptv_xtream_codes/crons/crl_sync.php # Xtream-Codes IPTV Panel^M)
+Aug 11 03:58:01 filmov2 CRON[20886]: (xtreamcodes) CMD (/home/xtreamcodes/iptv_xtream_codes/php/bin/php /home/xtreamcodes/iptv_xtream_codes/crons/live_checker.php # Xtream-Codes IPTV Panel^M)
+Aug 11 03:58:01 filmov2 CRON[20887]: (xtreamcodes) CMD (/home/xtreamcodes/iptv_xtream_codes/php/bin/php /home/xtreamcodes/iptv_xtream_codes/crons/servers_checker.php # Xtream-Codes IPTV Panel^M)
+Aug 11 03:58:01 filmov2 CRON[20888]: (xtreamcodes) CMD (/home/xtreamcodes/iptv_xtream_codes/php/bin/php /home/xtreamcodes/iptv_xtream_codes/crons/offline_cons.php # Xtream-Codes IPTV Panel^M)
+Aug 11 03:58:01 filmov2 CRON[20889]: (xtreamcodes) CMD (/home/xtreamcodes/iptv_xtream_codes/php/bin/php /home/xtreamcodes/iptv_xtream_codes/crons/stream_errors.php # Xtream-Codes IPTV Panel^M)
+Aug 11 03:58:01 filmov2 CRON[20890]: (xtreamcodes) CMD (/home/xtreamcodes/iptv_xtream_codes/php/bin/php /home/xtreamcodes/iptv_xtream_codes/crons/setup_cache.php # Xtream-Codes IPTV Panel^M)
+Aug 11 03:58:01 filmov2 CRON[20891]: (xtreamcodes) CMD (/home/xtreamcodes/iptv_xtream_codes/php/bin/php /home/xtreamcodes/iptv_xtream_codes/crons/tmp_del.php # Xtream-Codes IPTV Panel^M)
+Aug 11 03:58:01 filmov2 CRON[20899]: (xtreamcodes) CMD (/home/xtreamcodes/iptv_xtream_codes/php/bin/php /home/xtreamcodes/iptv_xtream_codes/crons/vod_cc_checker.php # Xtream-Codes IPTV Panel^M)
+Aug 11 03:58:01 filmov2 CRON[20892]: (xtreamcodes) CMD (/home/xtreamcodes/iptv_xtream_codes/php/bin/php /home/xtreamcodes/iptv_xtream_codes/crons/users_checker.php # Xtream-Codes IPTV Panel^M)
+Aug 11 03:59:01 filmov2 CRON[22047]: (xtreamcodes) CMD (/home/xtreamcodes/iptv_xtream_codes/php/bin/php /home/xtreamcodes/iptv_xtream_codes/crons/crl_sync.php # Xtream-Codes IPTV Panel^M)
+Aug 11 03:59:01 filmov2 CRON[22048]: (xtreamcodes) CMD (/home/xtreamcodes/iptv_xtream_codes/php/bin/php /home/xtreamcodes/iptv_xtream_codes/crons/offline_cons.php # Xtream-Codes IPTV Panel^M)
+Aug 11 03:59:01 filmov2 CRON[22049]: (xtreamcodes) CMD (/home/xtreamcodes/iptv_xtream_codes/php/bin/php /home/xtreamcodes/iptv_xtream_codes/crons/live_checker.php # Xtream-Codes IPTV Panel^M)
+Aug 11 03:59:01 filmov2 CRON[22050]: (xtreamcodes) CMD (/home/xtreamcodes/iptv_xtream_codes/php/bin/php /home/xtreamcodes/iptv_xtream_codes/crons/setup_cache.php # Xtream-Codes IPTV Panel^M)
+Aug 11 03:59:01 filmov2 CRON[22051]: (xtreamcodes) CMD (/home/xtreamcodes/iptv_xtream_codes/php/bin/php /home/xtreamcodes/iptv_xtream_codes/crons/stream_errors.php # Xtream-Codes IPTV Panel^M)
+Aug 11 03:59:01 filmov2 CRON[22054]: (xtreamcodes) CMD (/home/xtreamcodes/iptv_xtream_codes/php/bin/php /home/xtreamcodes/iptv_xtream_codes/crons/tmp_del.php # Xtream-Codes IPTV Panel^M)
+Aug 11 03:59:01 filmov2 CRON[22058]: (xtreamcodes) CMD (/home/xtreamcodes/iptv_xtream_codes/php/bin/php /home/xtreamcodes/iptv_xtream_codes/crons/users_checker.php # Xtream-Codes IPTV Panel^M)
+Aug 11 03:59:01 filmov2 CRON[22060]: (xtreamcodes) CMD (/home/xtreamcodes/iptv_xtream_codes/php/bin/php /home/xtreamcodes/iptv_xtream_codes/crons/vod_cc_checker.php # Xtream-Codes IPTV Panel^M)
+Aug 11 03:59:01 filmov2 CRON[22061]: (xtreamcodes) CMD (/home/xtreamcodes/iptv_xtream_codes/php/bin/php /home/xtreamcodes/iptv_xtream_codes/crons/servers_checker.php # Xtream-Codes IPTV Panel^M)
+Aug 11 04:00:01 filmov2 CRON[22664]: (xtreamcodes) CMD (/home/xtreamcodes/iptv_xtream_codes/php/bin/php /home/xtreamcodes/iptv_xtream_codes/crons/offline_cons.php # Xtream-Codes IPTV Panel^M)
+Aug 11 04:00:01 filmov2 CRON[22665]: (xtreamcodes) CMD (/home/xtreamcodes/iptv_xtream_codes/php/bin/php /home/xtreamcodes/iptv_xtream_codes/crons/servers_checker.php # Xtream-Codes IPTV Panel^M)
+Aug 11 04:00:01 filmov2 CRON[22666]: (xtreamcodes) CMD (/home/xtreamcodes/iptv_xtream_codes/php/bin/php /home/xtreamcodes/iptv_xtream_codes/crons/setup_cache.php # Xtream-Codes IPTV Panel^M)
+Aug 11 04:00:01 filmov2 CRON[22667]: (xtreamcodes) CMD (/home/xtreamcodes/iptv_xtream_codes/php/bin/php /home/xtreamcodes/iptv_xtream_codes/crons/stream_errors.php # Xtream-Codes IPTV Panel^M)
+Aug 11 04:00:01 filmov2 CRON[22668]: (xtreamcodes) CMD (/home/xtreamcodes/iptv_xtream_codes/php/bin/php /home/xtreamcodes/iptv_xtream_codes/crons/users_checker.php # Xtream-Codes IPTV Panel^M)
+Aug 11 04:00:01 filmov2 CRON[22669]: (xtreamcodes) CMD (/home/xtreamcodes/iptv_xtream_codes/php/bin/php /home/xtreamcodes/iptv_xtream_codes/crons/tmp_del.php # Xtream-Codes IPTV Panel^M)
+Aug 11 04:00:01 filmov2 CRON[22675]: (xtreamcodes) CMD (/home/xtreamcodes/iptv_xtream_codes/php/bin/php /home/xtreamcodes/iptv_xtream_codes/crons/live_checker.php # Xtream-Codes IPTV Panel^M)
+Aug 11 04:00:02 filmov2 CRON[22677]: (xtreamcodes) CMD (/home/xtreamcodes/iptv_xtream_codes/php/bin/php /home/xtreamcodes/iptv_xtream_codes/crons/crl_sync.php # Xtream-Codes IPTV Panel^M)
+Aug 11 04:00:02 filmov2 CRON[22680]: (xtreamcodes) CMD (/home/xtreamcodes/iptv_xtream_codes/php/bin/php /home/xtreamcodes/iptv_xtream_codes/crons/vod_cc_checker.php # Xtream-Codes IPTV Panel^M)
+Aug 11 04:01:01 filmov2 CRON[23282]: (xtreamcodes) CMD (/home/xtreamcodes/iptv_xtream_codes/php/bin/php /home/xtreamcodes/iptv_xtream_codes/crons/crl_sync.php # Xtream-Codes IPTV Panel^M)
+Aug 11 04:01:01 filmov2 CRON[23283]: (xtreamcodes) CMD (/home/xtreamcodes/iptv_xtream_codes/php/bin/php /home/xtreamcodes/iptv_xtream_codes/crons/live_checker.php # Xtream-Codes IPTV Panel^M)
+Aug 11 04:01:01 filmov2 CRON[23284]: (xtreamcodes) CMD (/home/xtreamcodes/iptv_xtream_codes/php/bin/php /home/xtreamcodes/iptv_xtream_codes/crons/offline_cons.php # Xtream-Codes IPTV Panel^M)
+Aug 11 04:01:01 filmov2 CRON[23285]: (xtreamcodes) CMD (/home/xtreamcodes/iptv_xtream_codes/php/bin/php /home/xtreamcodes/iptv_xtream_codes/crons/servers_checker.php # Xtream-Codes IPTV Panel^M)
+Aug 11 04:01:01 filmov2 CRON[23290]: (xtreamcodes) CMD (/home/xtreamcodes/iptv_xtream_codes/php/bin/php /home/xtreamcodes/iptv_xtream_codes/crons/tmp_del.php # Xtream-Codes IPTV Panel^M)
+Aug 11 04:01:01 filmov2 CRON[23286]: (xtreamcodes) CMD (/home/xtreamcodes/iptv_xtream_codes/php/bin/php /home/xtreamcodes/iptv_xtream_codes/crons/setup_cache.php # Xtream-Codes IPTV Panel^M)
+Aug 11 04:01:01 filmov2 CRON[23294]: (xtreamcodes) CMD (/home/xtreamcodes/iptv_xtream_codes/php/bin/php /home/xtreamcodes/iptv_xtream_codes/crons/vod_cc_checker.php # Xtream-Codes IPTV Panel^M)
+Aug 11 04:01:01 filmov2 CRON[23296]: (xtreamcodes) CMD (/home/xtreamcodes/iptv_xtream_codes/php/bin/php /home/xtreamcodes/iptv_xtream_codes/crons/stream_errors.php # Xtream-Codes IPTV Panel^M)
+Aug 11 04:01:01 filmov2 CRON[23297]: (xtreamcodes) CMD (/home/xtreamcodes/iptv_xtream_codes/php/bin/php /home/xtreamcodes/iptv_xtream_codes/crons/users_checker.php # Xtream-Codes IPTV Panel^M)
+Aug 11 04:01:52 filmov2 systemd[1]: Mounting /home/xtreamcodes/iptv_xtream_codes/streams...
+Aug 11 04:01:52 filmov2 systemd[1]: Mounting /home/xtreamcodes/iptv_xtream_codes/tmp...
+Aug 11 04:01:52 filmov2 systemd[1]: Mounted /home/xtreamcodes/iptv_xtream_codes/streams.
+Aug 11 04:01:52 filmov2 systemd[1]: Mounted /home/xtreamcodes/iptv_xtream_codes/tmp.
+Aug 11 04:02:01 filmov2 CRON[1621]: (xtreamcodes) CMD (/home/xtreamcodes/iptv_xtream_codes/php/bin/php /home/xtreamcodes/iptv_xtream_codes/crons/crl_sync.php # Xtream-Codes IPTV Panel^M)
+Aug 11 04:02:01 filmov2 CRON[1622]: (xtreamcodes) CMD (/home/xtreamcodes/iptv_xtream_codes/php/bin/php /home/xtreamcodes/iptv_xtream_codes/crons/live_checker.php # Xtream-Codes IPTV Panel^M)
+Aug 11 04:02:01 filmov2 CRON[1623]: (xtreamcodes) CMD (/home/xtreamcodes/iptv_xtream_codes/php/bin/php /home/xtreamcodes/iptv_xtream_codes/crons/offline_cons.php # Xtream-Codes IPTV Panel^M)
+Aug 11 04:02:01 filmov2 CRON[1624]: (xtreamcodes) CMD (/home/xtreamcodes/iptv_xtream_codes/php/bin/php /home/xtreamcodes/iptv_xtream_codes/crons/servers_checker.php # Xtream-Codes IPTV Panel^M)
+Aug 11 04:02:01 filmov2 CRON[1625]: (xtreamcodes) CMD (/home/xtreamcodes/iptv_xtream_codes/php/bin/php /home/xtreamcodes/iptv_xtream_codes/crons/setup_cache.php # Xtream-Codes IPTV Panel^M)
+Aug 11 04:02:01 filmov2 CRON[1626]: (xtreamcodes) CMD (/home/xtreamcodes/iptv_xtream_codes/php/bin/php /home/xtreamcodes/iptv_xtream_codes/crons/stream_errors.php # Xtream-Codes IPTV Panel^M)
+Aug 11 04:02:01 filmov2 CRON[1627]: (xtreamcodes) CMD (/home/xtreamcodes/iptv_xtream_codes/php/bin/php /home/xtreamcodes/iptv_xtream_codes/crons/tmp_del.php # Xtream-Codes IPTV Panel^M)
+Aug 11 04:02:01 filmov2 CRON[1635]: (xtreamcodes) CMD (/home/xtreamcodes/iptv_xtream_codes/php/bin/php /home/xtreamcodes/iptv_xtream_codes/crons/users_checker.php # Xtream-Codes IPTV Panel^M)
+Aug 11 04:02:01 filmov2 CRON[1636]: (xtreamcodes) CMD (/home/xtreamcodes/iptv_xtream_codes/php/bin/php /home/xtreamcodes/iptv_xtream_codes/crons/vod_cc_checker.php # Xtream-Codes IPTV Panel^M)
+Aug 11 04:02:02 filmov2 crontab[1649]: (xtreamcodes) LIST (xtreamcodes)
+Aug 11 04:02:02 filmov2 crontab[1647]: (xtreamcodes) LIST (xtreamcodes)
+Aug 11 04:02:02 filmov2 crontab[1645]: (xtreamcodes) LIST (xtreamcodes)
+Aug 11 04:03:02 filmov2 CRON[2315]: (xtreamcodes) CMD (/home/xtreamcodes/iptv_xtream_codes/php/bin/php /home/xtreamcodes/iptv_xtream_codes/crons/live_checker.php # Xtream-Codes IPTV Panel^M)
+Aug 11 04:03:02 filmov2 CRON[2316]: (xtreamcodes) CMD (/home/xtreamcodes/iptv_xtream_codes/php/bin/php /home/xtreamcodes/iptv_xtream_codes/crons/servers_checker.php # Xtream-Codes IPTV Panel^M)
+Aug 11 04:03:02 filmov2 CRON[2317]: (xtreamcodes) CMD (/home/xtreamcodes/iptv_xtream_codes/php/bin/php /home/xtreamcodes/iptv_xtream_codes/crons/stream_errors.php # Xtream-Codes IPTV Panel^M)
+Aug 11 04:03:02 filmov2 CRON[2318]: (xtreamcodes) CMD (/home/xtreamcodes/iptv_xtream_codes/php/bin/php /home/xtreamcodes/iptv_xtream_codes/crons/crl_sync.php # Xtream-Codes IPTV Panel^M)
+Aug 11 04:03:02 filmov2 CRON[2319]: (xtreamcodes) CMD (/home/xtreamcodes/iptv_xtream_codes/php/bin/php /home/xtreamcodes/iptv_xtream_codes/crons/offline_cons.php # Xtream-Codes IPTV Panel^M)
+Aug 11 04:03:02 filmov2 CRON[2321]: (xtreamcodes) CMD (/home/xtreamcodes/iptv_xtream_codes/php/bin/php /home/xtreamcodes/iptv_xtream_codes/crons/setup_cache.php # Xtream-Codes IPTV Panel^M)
+Aug 11 04:03:02 filmov2 CRON[2323]: (xtreamcodes) CMD (/home/xtreamcodes/iptv_xtream_codes/php/bin/php /home/xtreamcodes/iptv_xtream_codes/crons/users_checker.php # Xtream-Codes IPTV Panel^M)
+Aug 11 04:03:02 filmov2 CRON[2329]: (xtreamcodes) CMD (/home/xtreamcodes/iptv_xtream_codes/php/bin/php /home/xtreamcodes/iptv_xtream_codes/crons/vod_cc_checker.php # Xtream-Codes IPTV Panel^M)
+Aug 11 04:03:02 filmov2 CRON[2331]: (xtreamcodes) CMD (/home/xtreamcodes/iptv_xtream_codes/php/bin/php /home/xtreamcodes/iptv_xtream_codes/crons/tmp_del.php # Xtream-Codes IPTV Panel^M)
+Aug 11 04:04:01 filmov2 CRON[3015]: (xtreamcodes) CMD (/home/xtreamcodes/iptv_xtream_codes/php/bin/php /home/xtreamcodes/iptv_xtream_codes/crons/servers_checker.php # Xtream-Codes IPTV Panel^M)
+Aug 11 04:04:01 filmov2 CRON[3016]: (xtreamcodes) CMD (/home/xtreamcodes/iptv_xtream_codes/php/bin/php /home/xtreamcodes/iptv_xtream_codes/crons/offline_cons.php # Xtream-Codes IPTV Panel^M)
+Aug 11 04:04:01 filmov2 CRON[3017]: (xtreamcodes) CMD (/home/xtreamcodes/iptv_xtream_codes/php/bin/php /home/xtreamcodes/iptv_xtream_codes/crons/setup_cache.php # Xtream-Codes IPTV Panel^M)
+Aug 11 04:04:01 filmov2 CRON[3018]: (xtreamcodes) CMD (/home/xtreamcodes/iptv_xtream_codes/php/bin/php /home/xtreamcodes/iptv_xtream_codes/crons/crl_sync.php # Xtream-Codes IPTV Panel^M)
+Aug 11 04:04:01 filmov2 CRON[3019]: (xtreamcodes) CMD (/home/xtreamcodes/iptv_xtream_codes/php/bin/php /home/xtreamcodes/iptv_xtream_codes/crons/live_checker.php # Xtream-Codes IPTV Panel^M)
+Aug 11 04:04:01 filmov2 CRON[3025]: (xtreamcodes) CMD (/home/xtreamcodes/iptv_xtream_codes/php/bin/php /home/xtreamcodes/iptv_xtream_codes/crons/tmp_del.php # Xtream-Codes IPTV Panel^M)
+Aug 11 04:04:01 filmov2 CRON[3026]: (xtreamcodes) CMD (/home/xtreamcodes/iptv_xtream_codes/php/bin/php /home/xtreamcodes/iptv_xtream_codes/crons/vod_cc_checker.php # Xtream-Codes IPTV Panel^M)
+Aug 11 04:04:01 filmov2 CRON[3028]: (xtreamcodes) CMD (/home/xtreamcodes/iptv_xtream_codes/php/bin/php /home/xtreamcodes/iptv_xtream_codes/crons/stream_errors.php # Xtream-Codes IPTV Panel^M)
+Aug 11 04:04:01 filmov2 CRON[3030]: (xtreamcodes) CMD (/home/xtreamcodes/iptv_xtream_codes/php/bin/php /home/xtreamcodes/iptv_xtream_codes/crons/users_checker.php # Xtream-Codes IPTV Panel^M)
+Aug 11 04:05:01 filmov2 CRON[3641]: (xtreamcodes) CMD (/home/xtreamcodes/iptv_xtream_codes/php/bin/php /home/xtreamcodes/iptv_xtream_codes/crons/crl_sync.php # Xtream-Codes IPTV Panel^M)
+Aug 11 04:05:01 filmov2 CRON[3642]: (xtreamcodes) CMD (/home/xtreamcodes/iptv_xtream_codes/php/bin/php /home/xtreamcodes/iptv_xtream_codes/crons/live_checker.php # Xtream-Codes IPTV Panel^M)
+Aug 11 04:05:01 filmov2 CRON[3643]: (xtreamcodes) CMD (/home/xtreamcodes/iptv_xtream_codes/php/bin/php /home/xtreamcodes/iptv_xtream_codes/crons/offline_cons.php # Xtream-Codes IPTV Panel^M)
+Aug 11 04:05:01 filmov2 CRON[3644]: (xtreamcodes) CMD (/home/xtreamcodes/iptv_xtream_codes/php/bin/php /home/xtreamcodes/iptv_xtream_codes/crons/setup_cache.php # Xtream-Codes IPTV Panel^M)
+Aug 11 04:05:01 filmov2 CRON[3645]: (xtreamcodes) CMD (/home/xtreamcodes/iptv_xtream_codes/php/bin/php /home/xtreamcodes/iptv_xtream_codes/crons/stream_errors.php # Xtream-Codes IPTV Panel^M)
+Aug 11 04:05:01 filmov2 CRON[3651]: (xtreamcodes) CMD (/home/xtreamcodes/iptv_xtream_codes/php/bin/php /home/xtreamcodes/iptv_xtream_codes/crons/users_checker.php # Xtream-Codes IPTV Panel^M)
+Aug 11 04:05:01 filmov2 CRON[3653]: (xtreamcodes) CMD (/home/xtreamcodes/iptv_xtream_codes/php/bin/php /home/xtreamcodes/iptv_xtream_codes/crons/tmp_del.php # Xtream-Codes IPTV Panel^M)
+Aug 11 04:05:01 filmov2 CRON[3655]: (xtreamcodes) CMD (/home/xtreamcodes/iptv_xtream_codes/php/bin/php /home/xtreamcodes/iptv_xtream_codes/crons/vod_cc_checker.php # Xtream-Codes IPTV Panel^M)
+Aug 11 04:05:01 filmov2 CRON[3657]: (xtreamcodes) CMD (/home/xtreamcodes/iptv_xtream_codes/php/bin/php /home/xtreamcodes/iptv_xtream_codes/crons/servers_checker.php # Xtream-Codes IPTV Panel^M)
+Aug 11 04:06:01 filmov2 CRON[4396]: (xtreamcodes) CMD (/home/xtreamcodes/iptv_xtream_codes/php/bin/php /home/xtreamcodes/iptv_xtream_codes/crons/crl_sync.php # Xtream-Codes IPTV Panel^M)
+Aug 11 04:06:01 filmov2 CRON[4397]: (xtreamcodes) CMD (/home/xtreamcodes/iptv_xtream_codes/php/bin/php /home/xtreamcodes/iptv_xtream_codes/crons/servers_checker.php # Xtream-Codes IPTV Panel^M)
+Aug 11 04:06:01 filmov2 CRON[4398]: (xtreamcodes) CMD (/home/xtreamcodes/iptv_xtream_codes/php/bin/php /home/xtreamcodes/iptv_xtream_codes/crons/setup_cache.php # Xtream-Codes IPTV Panel^M)
+Aug 11 04:06:01 filmov2 CRON[4399]: (xtreamcodes) CMD (/home/xtreamcodes/iptv_xtream_codes/php/bin/php /home/xtreamcodes/iptv_xtream_codes/crons/live_checker.php # Xtream-Codes IPTV Panel^M)
+Aug 11 04:06:01 filmov2 CRON[4400]: (xtreamcodes) CMD (/home/xtreamcodes/iptv_xtream_codes/php/bin/php /home/xtreamcodes/iptv_xtream_codes/crons/offline_cons.php # Xtream-Codes IPTV Panel^M)
+Aug 11 04:06:01 filmov2 CRON[4401]: (xtreamcodes) CMD (/home/xtreamcodes/iptv_xtream_codes/php/bin/php /home/xtreamcodes/iptv_xtream_codes/crons/stream_errors.php # Xtream-Codes IPTV Panel^M)
+Aug 11 04:06:01 filmov2 CRON[4402]: (xtreamcodes) CMD (/home/xtreamcodes/iptv_xtream_codes/php/bin/php /home/xtreamcodes/iptv_xtream_codes/crons/tmp_del.php # Xtream-Codes IPTV Panel^M)
+Aug 11 04:06:01 filmov2 CRON[4403]: (xtreamcodes) CMD (/home/xtreamcodes/iptv_xtream_codes/php/bin/php /home/xtreamcodes/iptv_xtream_codes/crons/users_checker.php # Xtream-Codes IPTV Panel^M)
+Aug 11 04:06:01 filmov2 CRON[4412]: (xtreamcodes) CMD (/home/xtreamcodes/iptv_xtream_codes/php/bin/php /home/xtreamcodes/iptv_xtream_codes/crons/vod_cc_checker.php # Xtream-Codes IPTV Panel^M)
+Aug 11 04:06:28 filmov2 systemd[1]: Mounting /home/xtreamcodes/iptv_xtream_codes/tmp...
+Aug 11 04:06:28 filmov2 systemd[1]: Mounting /home/xtreamcodes/iptv_xtream_codes/streams...
+Aug 11 04:06:28 filmov2 systemd[1]: Mounted /home/xtreamcodes/iptv_xtream_codes/tmp.
+Aug 11 04:06:28 filmov2 systemd[1]: Mounted /home/xtreamcodes/iptv_xtream_codes/streams.
+Aug 11 04:06:28 filmov2 CRON[581]: (root) CMD (/home/xtreamcodes/iptv_xtream_codes/start_services.sh)
+Aug 11 04:06:34 filmov2 crontab[1463]: (xtreamcodes) LIST (xtreamcodes)
+Aug 11 04:07:01 filmov2 CRON[1730]: (xtreamcodes) CMD (/home/xtreamcodes/iptv_xtream_codes/php/bin/php /home/xtreamcodes/iptv_xtream_codes/crons/crl_sync.php # Xtream-Codes IPTV Panel^M)
+Aug 11 04:07:01 filmov2 CRON[1731]: (xtreamcodes) CMD (/home/xtreamcodes/iptv_xtream_codes/php/bin/php /home/xtreamcodes/iptv_xtream_codes/crons/servers_checker.php # Xtream-Codes IPTV Panel^M)
+Aug 11 04:07:01 filmov2 CRON[1732]: (xtreamcodes) CMD (/home/xtreamcodes/iptv_xtream_codes/php/bin/php /home/xtreamcodes/iptv_xtream_codes/crons/live_checker.php # Xtream-Codes IPTV Panel^M)
+Aug 11 04:07:01 filmov2 CRON[1733]: (xtreamcodes) CMD (/home/xtreamcodes/iptv_xtream_codes/php/bin/php /home/xtreamcodes/iptv_xtream_codes/crons/offline_cons.php # Xtream-Codes IPTV Panel^M)
+Aug 11 04:07:01 filmov2 CRON[1734]: (xtreamcodes) CMD (/home/xtreamcodes/iptv_xtream_codes/php/bin/php /home/xtreamcodes/iptv_xtream_codes/crons/tmp_del.php # Xtream-Codes IPTV Panel^M)
+Aug 11 04:07:01 filmov2 CRON[1735]: (xtreamcodes) CMD (/home/xtreamcodes/iptv_xtream_codes/php/bin/php /home/xtreamcodes/iptv_xtream_codes/crons/stream_errors.php # Xtream-Codes IPTV Panel^M)
+Aug 11 04:07:01 filmov2 CRON[1736]: (xtreamcodes) CMD (/home/xtreamcodes/iptv_xtream_codes/php/bin/php /home/xtreamcodes/iptv_xtream_codes/crons/users_checker.php # Xtream-Codes IPTV Panel^M)
+Aug 11 04:07:01 filmov2 CRON[1742]: (xtreamcodes) CMD (/home/xtreamcodes/iptv_xtream_codes/php/bin/php /home/xtreamcodes/iptv_xtream_codes/crons/setup_cache.php # Xtream-Codes IPTV Panel^M)
+Aug 11 04:07:01 filmov2 CRON[1745]: (xtreamcodes) CMD (/home/xtreamcodes/iptv_xtream_codes/php/bin/php /home/xtreamcodes/iptv_xtream_codes/crons/vod_cc_checker.php # Xtream-Codes IPTV Panel^M)
+Aug 11 04:08:01 filmov2 CRON[2433]: (xtreamcodes) CMD (/home/xtreamcodes/iptv_xtream_codes/php/bin/php /home/xtreamcodes/iptv_xtream_codes/crons/live_checker.php # Xtream-Codes IPTV Panel^M)
+Aug 11 04:08:01 filmov2 CRON[2434]: (xtreamcodes) CMD (/home/xtreamcodes/iptv_xtream_codes/php/bin/php /home/xtreamcodes/iptv_xtream_codes/crons/servers_checker.php # Xtream-Codes IPTV Panel^M)
+Aug 11 04:08:01 filmov2 CRON[2435]: (xtreamcodes) CMD (/home/xtreamcodes/iptv_xtream_codes/php/bin/php /home/xtreamcodes/iptv_xtream_codes/crons/offline_cons.php # Xtream-Codes IPTV Panel^M)
+Aug 11 04:08:01 filmov2 CRON[2438]: (xtreamcodes) CMD (/home/xtreamcodes/iptv_xtream_codes/php/bin/php /home/xtreamcodes/iptv_xtream_codes/crons/stream_errors.php # Xtream-Codes IPTV Panel^M)
+Aug 11 04:08:01 filmov2 CRON[2439]: (xtreamcodes) CMD (/home/xtreamcodes/iptv_xtream_codes/php/bin/php /home/xtreamcodes/iptv_xtream_codes/crons/setup_cache.php # Xtream-Codes IPTV Panel^M)
+Aug 11 04:08:01 filmov2 CRON[2436]: (xtreamcodes) CMD (/home/xtreamcodes/iptv_xtream_codes/php/bin/php /home/xtreamcodes/iptv_xtream_codes/crons/crl_sync.php # Xtream-Codes IPTV Panel^M)
+Aug 11 04:08:01 filmov2 CRON[2445]: (xtreamcodes) CMD (/home/xtreamcodes/iptv_xtream_codes/php/bin/php /home/xtreamcodes/iptv_xtream_codes/crons/tmp_del.php # Xtream-Codes IPTV Panel^M)
+Aug 11 04:08:01 filmov2 CRON[2448]: (xtreamcodes) CMD (/home/xtreamcodes/iptv_xtream_codes/php/bin/php /home/xtreamcodes/iptv_xtream_codes/crons/vod_cc_checker.php # Xtream-Codes IPTV Panel^M)
+Aug 11 04:08:01 filmov2 CRON[2446]: (xtreamcodes) CMD (/home/xtreamcodes/iptv_xtream_codes/php/bin/php /home/xtreamcodes/iptv_xtream_codes/crons/users_checker.php # Xtream-Codes IPTV Panel^M)
+Aug 11 04:09:01 filmov2 CRON[3062]: (xtreamcodes) CMD (/home/xtreamcodes/iptv_xtream_codes/php/bin/php /home/xtreamcodes/iptv_xtream_codes/crons/offline_cons.php # Xtream-Codes IPTV Panel^M)
+Aug 11 04:09:01 filmov2 CRON[3063]: (xtreamcodes) CMD (/home/xtreamcodes/iptv_xtream_codes/php/bin/php /home/xtreamcodes/iptv_xtream_codes/crons/servers_checker.php # Xtream-Codes IPTV Panel^M)
+Aug 11 04:09:01 filmov2 CRON[3064]: (xtreamcodes) CMD (/home/xtreamcodes/iptv_xtream_codes/php/bin/php /home/xtreamcodes/iptv_xtream_codes/crons/live_checker.php # Xtream-Codes IPTV Panel^M)
+Aug 11 04:09:01 filmov2 CRON[3065]: (xtreamcodes) CMD (/home/xtreamcodes/iptv_xtream_codes/php/bin/php /home/xtreamcodes/iptv_xtream_codes/crons/users_checker.php # Xtream-Codes IPTV Panel^M)
+Aug 11 04:09:01 filmov2 CRON[3068]: (xtreamcodes) CMD (/home/xtreamcodes/iptv_xtream_codes/php/bin/php /home/xtreamcodes/iptv_xtream_codes/crons/tmp_del.php # Xtream-Codes IPTV Panel^M)
+Aug 11 04:09:01 filmov2 CRON[3066]: (xtreamcodes) CMD (/home/xtreamcodes/iptv_xtream_codes/php/bin/php /home/xtreamcodes/iptv_xtream_codes/crons/stream_errors.php # Xtream-Codes IPTV Panel^M)
+Aug 11 04:09:01 filmov2 CRON[3074]: (xtreamcodes) CMD (/home/xtreamcodes/iptv_xtream_codes/php/bin/php /home/xtreamcodes/iptv_xtream_codes/crons/vod_cc_checker.php # Xtream-Codes IPTV Panel^M)
+Aug 11 04:09:01 filmov2 CRON[3077]: (xtreamcodes) CMD (/home/xtreamcodes/iptv_xtream_codes/php/bin/php /home/xtreamcodes/iptv_xtream_codes/crons/setup_cache.php # Xtream-Codes IPTV Panel^M)
+Aug 11 04:09:01 filmov2 CRON[3079]: (xtreamcodes) CMD (/home/xtreamcodes/iptv_xtream_codes/php/bin/php /home/xtreamcodes/iptv_xtream_codes/crons/crl_sync.php # Xtream-Codes IPTV Panel^M)
+Aug 11 04:10:01 filmov2 CRON[3729]: (xtreamcodes) CMD (/home/xtreamcodes/iptv_xtream_codes/php/bin/php /home/xtreamcodes/iptv_xtream_codes/crons/crl_sync.php # Xtream-Codes IPTV Panel^M)
+Aug 11 04:10:01 filmov2 CRON[3730]: (xtreamcodes) CMD (/home/xtreamcodes/iptv_xtream_codes/php/bin/php /home/xtreamcodes/iptv_xtream_codes/crons/live_checker.php # Xtream-Codes IPTV Panel^M)
+Aug 11 04:10:01 filmov2 CRON[3731]: (xtreamcodes) CMD (/home/xtreamcodes/iptv_xtream_codes/php/bin/php /home/xtreamcodes/iptv_xtream_codes/crons/offline_cons.php # Xtream-Codes IPTV Panel^M)
+Aug 11 04:10:01 filmov2 CRON[3732]: (xtreamcodes) CMD (/home/xtreamcodes/iptv_xtream_codes/php/bin/php /home/xtreamcodes/iptv_xtream_codes/crons/servers_checker.php # Xtream-Codes IPTV Panel^M)
+Aug 11 04:10:01 filmov2 CRON[3733]: (xtreamcodes) CMD (/home/xtreamcodes/iptv_xtream_codes/php/bin/php /home/xtreamcodes/iptv_xtream_codes/crons/setup_cache.php # Xtream-Codes IPTV Panel^M)
+Aug 11 04:10:02 filmov2 CRON[3734]: (xtreamcodes) CMD (/home/xtreamcodes/iptv_xtream_codes/php/bin/php /home/xtreamcodes/iptv_xtream_codes/crons/tmp_del.php # Xtream-Codes IPTV Panel^M)
+Aug 11 04:10:02 filmov2 CRON[3740]: (xtreamcodes) CMD (/home/xtreamcodes/iptv_xtream_codes/php/bin/php /home/xtreamcodes/iptv_xtream_codes/crons/vod_cc_checker.php # Xtream-Codes IPTV Panel^M)
+Aug 11 04:10:02 filmov2 CRON[3742]: (xtreamcodes) CMD (/home/xtreamcodes/iptv_xtream_codes/php/bin/php /home/xtreamcodes/iptv_xtream_codes/crons/stream_errors.php # Xtream-Codes IPTV Panel^M)
+Aug 11 04:10:02 filmov2 CRON[3744]: (xtreamcodes) CMD (/home/xtreamcodes/iptv_xtream_codes/php/bin/php /home/xtreamcodes/iptv_xtream_codes/crons/users_checker.php # Xtream-Codes IPTV Panel^M)
+Aug 11 04:11:01 filmov2 CRON[4377]: (xtreamcodes) CMD (/home/xtreamcodes/iptv_xtream_codes/php/bin/php /home/xtreamcodes/iptv_xtream_codes/crons/crl_sync.php # Xtream-Codes IPTV Panel^M)
+Aug 11 04:11:01 filmov2 CRON[4378]: (xtreamcodes) CMD (/home/xtreamcodes/iptv_xtream_codes/php/bin/php /home/xtreamcodes/iptv_xtream_codes/crons/live_checker.php # Xtream-Codes IPTV Panel^M)
+Aug 11 04:11:01 filmov2 CRON[4380]: (xtreamcodes) CMD (/home/xtreamcodes/iptv_xtream_codes/php/bin/php /home/xtreamcodes/iptv_xtream_codes/crons/offline_cons.php # Xtream-Codes IPTV Panel^M)
+Aug 11 04:11:01 filmov2 CRON[4379]: (xtreamcodes) CMD (/home/xtreamcodes/iptv_xtream_codes/php/bin/php /home/xtreamcodes/iptv_xtream_codes/crons/servers_checker.php # Xtream-Codes IPTV Panel^M)
+Aug 11 04:11:01 filmov2 CRON[4381]: (xtreamcodes) CMD (/home/xtreamcodes/iptv_xtream_codes/php/bin/php /home/xtreamcodes/iptv_xtream_codes/crons/setup_cache.php # Xtream-Codes IPTV Panel^M)
+Aug 11 04:11:01 filmov2 CRON[4382]: (xtreamcodes) CMD (/home/xtreamcodes/iptv_xtream_codes/php/bin/php /home/xtreamcodes/iptv_xtream_codes/crons/stream_errors.php # Xtream-Codes IPTV Panel^M)
+Aug 11 04:11:01 filmov2 CRON[4383]: (xtreamcodes) CMD (/home/xtreamcodes/iptv_xtream_codes/php/bin/php /home/xtreamcodes/iptv_xtream_codes/crons/tmp_del.php # Xtream-Codes IPTV Panel^M)
+Aug 11 04:11:01 filmov2 CRON[4389]: (xtreamcodes) CMD (/home/xtreamcodes/iptv_xtream_codes/php/bin/php /home/xtreamcodes/iptv_xtream_codes/crons/users_checker.php # Xtream-Codes IPTV Panel^M)
+Aug 11 04:11:01 filmov2 CRON[4393]: (xtreamcodes) CMD (/home/xtreamcodes/iptv_xtream_codes/php/bin/php /home/xtreamcodes/iptv_xtream_codes/crons/vod_cc_checker.php # Xtream-Codes IPTV Panel^M)
+Aug 11 04:12:01 filmov2 CRON[5019]: (xtreamcodes) CMD (/home/xtreamcodes/iptv_xtream_codes/php/bin/php /home/xtreamcodes/iptv_xtream_codes/crons/crl_sync.php # Xtream-Codes IPTV Panel^M)
+Aug 11 04:12:01 filmov2 CRON[5020]: (xtreamcodes) CMD (/home/xtreamcodes/iptv_xtream_codes/php/bin/php /home/xtreamcodes/iptv_xtream_codes/crons/live_checker.php # Xtream-Codes IPTV Panel^M)
+Aug 11 04:12:01 filmov2 CRON[5021]: (xtreamcodes) CMD (/home/xtreamcodes/iptv_xtream_codes/php/bin/php /home/xtreamcodes/iptv_xtream_codes/crons/servers_checker.php # Xtream-Codes IPTV Panel^M)
+Aug 11 04:12:01 filmov2 CRON[5022]: (xtreamcodes) CMD (/home/xtreamcodes/iptv_xtream_codes/php/bin/php /home/xtreamcodes/iptv_xtream_codes/crons/offline_cons.php # Xtream-Codes IPTV Panel^M)
+Aug 11 04:12:01 filmov2 CRON[5027]: (xtreamcodes) CMD (/home/xtreamcodes/iptv_xtream_codes/php/bin/php /home/xtreamcodes/iptv_xtream_codes/crons/tmp_del.php # Xtream-Codes IPTV Panel^M)
+Aug 11 04:12:01 filmov2 CRON[5023]: (xtreamcodes) CMD (/home/xtreamcodes/iptv_xtream_codes/php/bin/php /home/xtreamcodes/iptv_xtream_codes/crons/setup_cache.php # Xtream-Codes IPTV Panel^M)
+Aug 11 04:12:01 filmov2 CRON[5024]: (xtreamcodes) CMD (/home/xtreamcodes/iptv_xtream_codes/php/bin/php /home/xtreamcodes/iptv_xtream_codes/crons/stream_errors.php # Xtream-Codes IPTV Panel^M)
+Aug 11 04:12:01 filmov2 CRON[5032]: (xtreamcodes) CMD (/home/xtreamcodes/iptv_xtream_codes/php/bin/php /home/xtreamcodes/iptv_xtream_codes/crons/users_checker.php # Xtream-Codes IPTV Panel^M)
+Aug 11 04:12:01 filmov2 CRON[5035]: (xtreamcodes) CMD (/home/xtreamcodes/iptv_xtream_codes/php/bin/php /home/xtreamcodes/iptv_xtream_codes/crons/vod_cc_checker.php # Xtream-Codes IPTV Panel^M)
+Aug 11 04:13:01 filmov2 CRON[5667]: (xtreamcodes) CMD (/home/xtreamcodes/iptv_xtream_codes/php/bin/php /home/xtreamcodes/iptv_xtream_codes/crons/live_checker.php # Xtream-Codes IPTV Panel^M)
+Aug 11 04:13:01 filmov2 CRON[5668]: (xtreamcodes) CMD (/home/xtreamcodes/iptv_xtream_codes/php/bin/php /home/xtreamcodes/iptv_xtream_codes/crons/crl_sync.php # Xtream-Codes IPTV Panel^M)
+Aug 11 04:13:01 filmov2 CRON[5669]: (xtreamcodes) CMD (/home/xtreamcodes/iptv_xtream_codes/php/bin/php /home/xtreamcodes/iptv_xtream_codes/crons/offline_cons.php # Xtream-Codes IPTV Panel^M)
+Aug 11 04:13:01 filmov2 CRON[5670]: (xtreamcodes) CMD (/home/xtreamcodes/iptv_xtream_codes/php/bin/php /home/xtreamcodes/iptv_xtream_codes/crons/servers_checker.php # Xtream-Codes IPTV Panel^M)
+Aug 11 04:13:01 filmov2 CRON[5671]: (xtreamcodes) CMD (/home/xtreamcodes/iptv_xtream_codes/php/bin/php /home/xtreamcodes/iptv_xtream_codes/crons/setup_cache.php # Xtream-Codes IPTV Panel^M)
+Aug 11 04:13:01 filmov2 CRON[5672]: (xtreamcodes) CMD (/home/xtreamcodes/iptv_xtream_codes/php/bin/php /home/xtreamcodes/iptv_xtream_codes/crons/tmp_del.php # Xtream-Codes IPTV Panel^M)
+Aug 11 04:13:01 filmov2 CRON[5674]: (xtreamcodes) CMD (/home/xtreamcodes/iptv_xtream_codes/php/bin/php /home/xtreamcodes/iptv_xtream_codes/crons/stream_errors.php # Xtream-Codes IPTV Panel^M)
+Aug 11 04:13:01 filmov2 CRON[5679]: (xtreamcodes) CMD (/home/xtreamcodes/iptv_xtream_codes/php/bin/php /home/xtreamcodes/iptv_xtream_codes/crons/users_checker.php # Xtream-Codes IPTV Panel^M)
+Aug 11 04:13:01 filmov2 CRON[5683]: (xtreamcodes) CMD (/home/xtreamcodes/iptv_xtream_codes/php/bin/php /home/xtreamcodes/iptv_xtream_codes/crons/vod_cc_checker.php # Xtream-Codes IPTV Panel^M)
+Aug 11 04:13:36 filmov2 systemd[1]: Mounting /home/xtreamcodes/iptv_xtream_codes/streams...
+Aug 11 04:13:36 filmov2 systemd[1]: Mounting /home/xtreamcodes/iptv_xtream_codes/tmp...
+Aug 11 04:13:36 filmov2 systemd[1]: Mounted /home/xtreamcodes/iptv_xtream_codes/streams.
+Aug 11 04:13:36 filmov2 systemd[1]: Mounted /home/xtreamcodes/iptv_xtream_codes/tmp.
+Aug 11 04:13:36 filmov2 CRON[598]: (root) CMD (/home/xtreamcodes/iptv_xtream_codes/start_services.sh)
+Aug 11 04:13:42 filmov2 crontab[1481]: (xtreamcodes) LIST (xtreamcodes)
+Aug 11 04:13:42 filmov2 crontab[1483]: (xtreamcodes) DELETE (xtreamcodes)
+Aug 11 04:13:42 filmov2 crontab[1485]: (xtreamcodes) REPLACE (xtreamcodes)
+Aug 11 04:14:01 filmov2 cron[569]: (xtreamcodes) RELOAD (crontabs/xtreamcodes)
+Aug 11 04:14:01 filmov2 CRON[1643]: (xtreamcodes) CMD (/home/xtreamcodes/iptv_xtream_codes/php/bin/php /home/xtreamcodes/iptv_xtream_codes/crons/live_checker.php # Xtream-Codes IPTV Panel^M)
+Aug 11 04:14:01 filmov2 CRON[1644]: (xtreamcodes) CMD (/home/xtreamcodes/iptv_xtream_codes/php/bin/php /home/xtreamcodes/iptv_xtream_codes/crons/balancer.php # Xtream-Codes IPTV Panel^M)
+Aug 11 04:14:01 filmov2 CRON[1640]: (xtreamcodes) CMD (/home/xtreamcodes/iptv_xtream_codes/php/bin/php /home/xtreamcodes/iptv_xtream_codes/crons/stats.php # Xtream-Codes IPTV Panel^M)
+Aug 11 04:14:01 filmov2 CRON[1641]: (xtreamcodes) CMD (/home/xtreamcodes/iptv_xtream_codes/php/bin/php /home/xtreamcodes/iptv_xtream_codes/crons/offline_cons.php # Xtream-Codes IPTV Panel^M)
+Aug 11 04:14:01 filmov2 CRON[1642]: (xtreamcodes) CMD (/home/xtreamcodes/iptv_xtream_codes/php/bin/php /home/xtreamcodes/iptv_xtream_codes/crons/servers_checker.php # Xtream-Codes IPTV Panel^M)
+Aug 11 04:14:01 filmov2 CRON[1645]: (xtreamcodes) CMD (/home/xtreamcodes/iptv_xtream_codes/php/bin/php /home/xtreamcodes/iptv_xtream_codes/crons/stream_errors.php # Xtream-Codes IPTV Panel^M)
+Aug 11 04:14:01 filmov2 CRON[1646]: (xtreamcodes) CMD (/home/xtreamcodes/iptv_xtream_codes/php/bin/php /home/xtreamcodes/iptv_xtream_codes/crons/users_checker.php # Xtream-Codes IPTV Panel^M)
+Aug 11 04:14:01 filmov2 CRON[1647]: (xtreamcodes) CMD (/home/xtreamcodes/iptv_xtream_codes/php/bin/php /home/xtreamcodes/iptv_xtream_codes/crons/setup_cache.php # Xtream-Codes IPTV Panel^M)
+Aug 11 04:14:01 filmov2 CRON[1648]: (xtreamcodes) CMD (/home/xtreamcodes/iptv_xtream_codes/php/bin/php /home/xtreamcodes/iptv_xtream_codes/crons/tmp_del.php # Xtream-Codes IPTV Panel^M)
+Aug 11 04:14:01 filmov2 CRON[1649]: (xtreamcodes) CMD (/home/xtreamcodes/iptv_xtream_codes/php/bin/php /home/xtreamcodes/iptv_xtream_codes/crons/tmdb_async.php # Xtream-Codes IPTV Panel^M)
+Aug 11 04:14:01 filmov2 CRON[1650]: (xtreamcodes) CMD (/home/xtreamcodes/iptv_xtream_codes/php/bin/php /home/xtreamcodes/iptv_xtream_codes/crons/crl_sync.php # Xtream-Codes IPTV Panel^M)
+Aug 11 04:14:01 filmov2 CRON[1651]: (xtreamcodes) CMD (/home/xtreamcodes/iptv_xtream_codes/php/bin/php /home/xtreamcodes/iptv_xtream_codes/crons/kill_leaks.php # Xtream-Codes IPTV Panel^M)
+Aug 11 04:14:01 filmov2 CRON[1654]: (xtreamcodes) CMD (/home/xtreamcodes/iptv_xtream_codes/php/bin/php /home/xtreamcodes/iptv_xtream_codes/crons/vod_cc_series.php # Xtream-Codes IPTV Panel^M)
+Aug 11 04:14:01 filmov2 CRON[1666]: (xtreamcodes) CMD (/home/xtreamcodes/iptv_xtream_codes/php/bin/php /home/xtreamcodes/iptv_xtream_codes/crons/watch_folder.php # Xtream-Codes IPTV Panel^M)
+Aug 11 04:14:01 filmov2 CRON[1668]: (xtreamcodes) CMD (/home/xtreamcodes/iptv_xtream_codes/php/bin/php /home/xtreamcodes/iptv_xtream_codes/crons/vod_cc_checker.php # Xtream-Codes IPTV Panel^M)
+Aug 11 04:15:01 filmov2 CRON[2447]: (xtreamcodes) CMD (/home/xtreamcodes/iptv_xtream_codes/php/bin/php /home/xtreamcodes/iptv_xtream_codes/crons/stats.php # Xtream-Codes IPTV Panel^M)
+Aug 11 04:15:01 filmov2 CRON[2448]: (xtreamcodes) CMD (/home/xtreamcodes/iptv_xtream_codes/php/bin/php /home/xtreamcodes/iptv_xtream_codes/crons/live_checker.php # Xtream-Codes IPTV Panel^M)
+Aug 11 04:15:01 filmov2 CRON[2450]: (xtreamcodes) CMD (/home/xtreamcodes/iptv_xtream_codes/php/bin/php /home/xtreamcodes/iptv_xtream_codes/crons/offline_cons.php # Xtream-Codes IPTV Panel^M)
+Aug 11 04:15:01 filmov2 CRON[2451]: (xtreamcodes) CMD (/home/xtreamcodes/iptv_xtream_codes/php/bin/php /home/xtreamcodes/iptv_xtream_codes/crons/crl_sync.php # Xtream-Codes IPTV Panel^M)
+Aug 11 04:15:01 filmov2 CRON[2452]: (xtreamcodes) CMD (/home/xtreamcodes/iptv_xtream_codes/php/bin/php /home/xtreamcodes/iptv_xtream_codes/crons/stream_errors.php # Xtream-Codes IPTV Panel^M)
+Aug 11 04:15:01 filmov2 CRON[2449]: (xtreamcodes) CMD (/home/xtreamcodes/iptv_xtream_codes/php/bin/php /home/xtreamcodes/iptv_xtream_codes/crons/servers_checker.php # Xtream-Codes IPTV Panel^M)
+Aug 11 04:15:01 filmov2 CRON[2453]: (xtreamcodes) CMD (/home/xtreamcodes/iptv_xtream_codes/php/bin/php /home/xtreamcodes/iptv_xtream_codes/crons/kill_leaks.php # Xtream-Codes IPTV Panel^M)
+Aug 11 04:15:01 filmov2 CRON[2454]: (xtreamcodes) CMD (/home/xtreamcodes/iptv_xtream_codes/php/bin/php /home/xtreamcodes/iptv_xtream_codes/crons/tmdb_async.php # Xtream-Codes IPTV Panel^M)
+Aug 11 04:15:01 filmov2 CRON[2455]: (xtreamcodes) CMD (/home/xtreamcodes/iptv_xtream_codes/php/bin/php /home/xtreamcodes/iptv_xtream_codes/crons/tmp_del.php # Xtream-Codes IPTV Panel^M)
+Aug 11 04:15:01 filmov2 CRON[2460]: (xtreamcodes) CMD (/home/xtreamcodes/iptv_xtream_codes/php/bin/php /home/xtreamcodes/iptv_xtream_codes/crons/vod_cc_checker.php # Xtream-Codes IPTV Panel^M)
+Aug 11 04:15:01 filmov2 CRON[2456]: (xtreamcodes) CMD (/home/xtreamcodes/iptv_xtream_codes/php/bin/php /home/xtreamcodes/iptv_xtream_codes/crons/users_checker.php # Xtream-Codes IPTV Panel^M)
+Aug 11 04:15:01 filmov2 CRON[2457]: (xtreamcodes) CMD (/home/xtreamcodes/iptv_xtream_codes/php/bin/php /home/xtreamcodes/iptv_xtream_codes/crons/balancer.php # Xtream-Codes IPTV Panel^M)
+Aug 11 04:15:01 filmov2 CRON[2469]: (xtreamcodes) CMD (/home/xtreamcodes/iptv_xtream_codes/php/bin/php /home/xtreamcodes/iptv_xtream_codes/crons/vod_cc_series.php # Xtream-Codes IPTV Panel^M)
+Aug 11 04:15:01 filmov2 CRON[2473]: (xtreamcodes) CMD (/home/xtreamcodes/iptv_xtream_codes/php/bin/php /home/xtreamcodes/iptv_xtream_codes/crons/setup_cache.php # Xtream-Codes IPTV Panel^M)
+Aug 11 04:15:01 filmov2 CRON[2475]: (xtreamcodes) CMD (/home/xtreamcodes/iptv_xtream_codes/php/bin/php /home/xtreamcodes/iptv_xtream_codes/crons/watch_folder.php # Xtream-Codes IPTV Panel^M)
+Aug 11 04:16:01 filmov2 CRON[3096]: (xtreamcodes) CMD (/home/xtreamcodes/iptv_xtream_codes/php/bin/php /home/xtreamcodes/iptv_xtream_codes/crons/stats.php # Xtream-Codes IPTV Panel^M)
+Aug 11 04:16:01 filmov2 CRON[3097]: (xtreamcodes) CMD (/home/xtreamcodes/iptv_xtream_codes/php/bin/php /home/xtreamcodes/iptv_xtream_codes/crons/live_checker.php # Xtream-Codes IPTV Panel^M)
+Aug 11 04:16:01 filmov2 CRON[3098]: (xtreamcodes) CMD (/home/xtreamcodes/iptv_xtream_codes/php/bin/php /home/xtreamcodes/iptv_xtream_codes/crons/balancer.php # Xtream-Codes IPTV Panel^M)
+Aug 11 04:16:01 filmov2 CRON[3099]: (xtreamcodes) CMD (/home/xtreamcodes/iptv_xtream_codes/php/bin/php /home/xtreamcodes/iptv_xtream_codes/crons/crl_sync.php # Xtream-Codes IPTV Panel^M)
+Aug 11 04:16:01 filmov2 CRON[3100]: (xtreamcodes) CMD (/home/xtreamcodes/iptv_xtream_codes/php/bin/php /home/xtreamcodes/iptv_xtream_codes/crons/tmp_del.php # Xtream-Codes IPTV Panel^M)
+Aug 11 04:16:01 filmov2 CRON[3104]: (xtreamcodes) CMD (/home/xtreamcodes/iptv_xtream_codes/php/bin/php /home/xtreamcodes/iptv_xtream_codes/crons/servers_checker.php # Xtream-Codes IPTV Panel^M)
+Aug 11 04:16:01 filmov2 CRON[3101]: (xtreamcodes) CMD (/home/xtreamcodes/iptv_xtream_codes/php/bin/php /home/xtreamcodes/iptv_xtream_codes/crons/stream_errors.php # Xtream-Codes IPTV Panel^M)
+Aug 11 04:16:01 filmov2 CRON[3108]: (xtreamcodes) CMD (/home/xtreamcodes/iptv_xtream_codes/php/bin/php /home/xtreamcodes/iptv_xtream_codes/crons/offline_cons.php # Xtream-Codes IPTV Panel^M)
+Aug 11 04:16:01 filmov2 CRON[3102]: (xtreamcodes) CMD (/home/xtreamcodes/iptv_xtream_codes/php/bin/php /home/xtreamcodes/iptv_xtream_codes/crons/users_checker.php # Xtream-Codes IPTV Panel^M)
+Aug 11 04:16:01 filmov2 CRON[3113]: (xtreamcodes) CMD (/home/xtreamcodes/iptv_xtream_codes/php/bin/php /home/xtreamcodes/iptv_xtream_codes/crons/watch_folder.php # Xtream-Codes IPTV Panel^M)
+Aug 11 04:16:01 filmov2 CRON[3114]: (xtreamcodes) CMD (/home/xtreamcodes/iptv_xtream_codes/php/bin/php /home/xtreamcodes/iptv_xtream_codes/crons/kill_leaks.php # Xtream-Codes IPTV Panel^M)
+Aug 11 04:16:01 filmov2 CRON[3118]: (xtreamcodes) CMD (/home/xtreamcodes/iptv_xtream_codes/php/bin/php /home/xtreamcodes/iptv_xtream_codes/crons/vod_cc_checker.php # Xtream-Codes IPTV Panel^M)
+Aug 11 04:16:01 filmov2 CRON[3120]: (xtreamcodes) CMD (/home/xtreamcodes/iptv_xtream_codes/php/bin/php /home/xtreamcodes/iptv_xtream_codes/crons/setup_cache.php # Xtream-Codes IPTV Panel^M)
+Aug 11 04:16:01 filmov2 CRON[3122]: (xtreamcodes) CMD (/home/xtreamcodes/iptv_xtream_codes/php/bin/php /home/xtreamcodes/iptv_xtream_codes/crons/tmdb_async.php # Xtream-Codes IPTV Panel^M)
+Aug 11 04:16:01 filmov2 CRON[3123]: (xtreamcodes) CMD (/home/xtreamcodes/iptv_xtream_codes/php/bin/php /home/xtreamcodes/iptv_xtream_codes/crons/vod_cc_series.php # Xtream-Codes IPTV Panel^M)
+Aug 11 04:17:01 filmov2 CRON[3733]: (xtreamcodes) CMD (/home/xtreamcodes/iptv_xtream_codes/php/bin/php /home/xtreamcodes/iptv_xtream_codes/crons/tmdb_async.php # Xtream-Codes IPTV Panel^M)
+Aug 11 04:17:01 filmov2 CRON[3734]: (xtreamcodes) CMD (/home/xtreamcodes/iptv_xtream_codes/php/bin/php /home/xtreamcodes/iptv_xtream_codes/crons/live_checker.php # Xtream-Codes IPTV Panel^M)
+Aug 11 04:17:01 filmov2 CRON[3735]: (xtreamcodes) CMD (/home/xtreamcodes/iptv_xtream_codes/php/bin/php /home/xtreamcodes/iptv_xtream_codes/crons/stats.php # Xtream-Codes IPTV Panel^M)
+Aug 11 04:17:01 filmov2 CRON[3736]: (xtreamcodes) CMD (/home/xtreamcodes/iptv_xtream_codes/php/bin/php /home/xtreamcodes/iptv_xtream_codes/crons/kill_leaks.php # Xtream-Codes IPTV Panel^M)
+Aug 11 04:17:01 filmov2 CRON[3737]: (xtreamcodes) CMD (/home/xtreamcodes/iptv_xtream_codes/php/bin/php /home/xtreamcodes/iptv_xtream_codes/crons/servers_checker.php # Xtream-Codes IPTV Panel^M)
+Aug 11 04:17:01 filmov2 CRON[3738]: (xtreamcodes) CMD (/home/xtreamcodes/iptv_xtream_codes/php/bin/php /home/xtreamcodes/iptv_xtream_codes/crons/balancer.php # Xtream-Codes IPTV Panel^M)
+Aug 11 04:17:01 filmov2 CRON[3740]: (xtreamcodes) CMD (/home/xtreamcodes/iptv_xtream_codes/php/bin/php /home/xtreamcodes/iptv_xtream_codes/crons/users_checker.php # Xtream-Codes IPTV Panel^M)
+Aug 11 04:17:01 filmov2 CRON[3741]: (xtreamcodes) CMD (/home/xtreamcodes/iptv_xtream_codes/php/bin/php /home/xtreamcodes/iptv_xtream_codes/crons/crl_sync.php # Xtream-Codes IPTV Panel^M)
+Aug 11 04:17:01 filmov2 CRON[3742]: (xtreamcodes) CMD (/home/xtreamcodes/iptv_xtream_codes/php/bin/php /home/xtreamcodes/iptv_xtream_codes/crons/offline_cons.php # Xtream-Codes IPTV Panel^M)
+Aug 11 04:17:01 filmov2 CRON[3739]: (xtreamcodes) CMD (/home/xtreamcodes/iptv_xtream_codes/php/bin/php /home/xtreamcodes/iptv_xtream_codes/crons/stream_errors.php # Xtream-Codes IPTV Panel^M)
+Aug 11 04:17:01 filmov2 CRON[3743]: (xtreamcodes) CMD (/home/xtreamcodes/iptv_xtream_codes/php/bin/php /home/xtreamcodes/iptv_xtream_codes/crons/tmp_del.php # Xtream-Codes IPTV Panel^M)
+Aug 11 04:17:01 filmov2 CRON[3744]: (xtreamcodes) CMD (/home/xtreamcodes/iptv_xtream_codes/php/bin/php /home/xtreamcodes/iptv_xtream_codes/crons/vod_cc_checker.php # Xtream-Codes IPTV Panel^M)
+Aug 11 04:17:01 filmov2 CRON[3745]: (xtreamcodes) CMD (/home/xtreamcodes/iptv_xtream_codes/php/bin/php /home/xtreamcodes/iptv_xtream_codes/crons/vod_cc_series.php # Xtream-Codes IPTV Panel^M)
+Aug 11 04:17:01 filmov2 CRON[3757]: (xtreamcodes) CMD (/home/xtreamcodes/iptv_xtream_codes/php/bin/php /home/xtreamcodes/iptv_xtream_codes/crons/watch_folder.php # Xtream-Codes IPTV Panel^M)
+Aug 11 04:17:01 filmov2 CRON[3761]: (xtreamcodes) CMD (/home/xtreamcodes/iptv_xtream_codes/php/bin/php /home/xtreamcodes/iptv_xtream_codes/crons/setup_cache.php # Xtream-Codes IPTV Panel^M)
+Aug 11 04:18:01 filmov2 CRON[4371]: (xtreamcodes) CMD (/home/xtreamcodes/iptv_xtream_codes/php/bin/php /home/xtreamcodes/iptv_xtream_codes/crons/setup_cache.php # Xtream-Codes IPTV Panel^M)
+Aug 11 04:18:01 filmov2 CRON[4372]: (xtreamcodes) CMD (/home/xtreamcodes/iptv_xtream_codes/php/bin/php /home/xtreamcodes/iptv_xtream_codes/crons/stream_errors.php # Xtream-Codes IPTV Panel^M)
+Aug 11 04:18:01 filmov2 CRON[4373]: (xtreamcodes) CMD (/home/xtreamcodes/iptv_xtream_codes/php/bin/php /home/xtreamcodes/iptv_xtream_codes/crons/balancer.php # Xtream-Codes IPTV Panel^M)
+Aug 11 04:18:01 filmov2 CRON[4374]: (xtreamcodes) CMD (/home/xtreamcodes/iptv_xtream_codes/php/bin/php /home/xtreamcodes/iptv_xtream_codes/crons/live_checker.php # Xtream-Codes IPTV Panel^M)
+Aug 11 04:18:01 filmov2 CRON[4375]: (xtreamcodes) CMD (/home/xtreamcodes/iptv_xtream_codes/php/bin/php /home/xtreamcodes/iptv_xtream_codes/crons/tmdb_async.php # Xtream-Codes IPTV Panel^M)
+Aug 11 04:18:01 filmov2 CRON[4376]: (xtreamcodes) CMD (/home/xtreamcodes/iptv_xtream_codes/php/bin/php /home/xtreamcodes/iptv_xtream_codes/crons/crl_sync.php # Xtream-Codes IPTV Panel^M)
+Aug 11 04:18:01 filmov2 CRON[4378]: (xtreamcodes) CMD (/home/xtreamcodes/iptv_xtream_codes/php/bin/php /home/xtreamcodes/iptv_xtream_codes/crons/users_checker.php # Xtream-Codes IPTV Panel^M)
+Aug 11 04:18:01 filmov2 CRON[4379]: (xtreamcodes) CMD (/home/xtreamcodes/iptv_xtream_codes/php/bin/php /home/xtreamcodes/iptv_xtream_codes/crons/kill_leaks.php # Xtream-Codes IPTV Panel^M)
+Aug 11 04:18:01 filmov2 CRON[4380]: (xtreamcodes) CMD (/home/xtreamcodes/iptv_xtream_codes/php/bin/php /home/xtreamcodes/iptv_xtream_codes/crons/vod_cc_checker.php # Xtream-Codes IPTV Panel^M)
+Aug 11 04:18:01 filmov2 CRON[4377]: (xtreamcodes) CMD (/home/xtreamcodes/iptv_xtream_codes/php/bin/php /home/xtreamcodes/iptv_xtream_codes/crons/offline_cons.php # Xtream-Codes IPTV Panel^M)
+Aug 11 04:18:01 filmov2 CRON[4388]: (xtreamcodes) CMD (/home/xtreamcodes/iptv_xtream_codes/php/bin/php /home/xtreamcodes/iptv_xtream_codes/crons/vod_cc_series.php # Xtream-Codes IPTV Panel^M)
+Aug 11 04:18:01 filmov2 CRON[4393]: (xtreamcodes) CMD (/home/xtreamcodes/iptv_xtream_codes/php/bin/php /home/xtreamcodes/iptv_xtream_codes/crons/tmp_del.php # Xtream-Codes IPTV Panel^M)
+Aug 11 04:18:01 filmov2 CRON[4394]: (xtreamcodes) CMD (/home/xtreamcodes/iptv_xtream_codes/php/bin/php /home/xtreamcodes/iptv_xtream_codes/crons/watch_folder.php # Xtream-Codes IPTV Panel^M)
+Aug 11 04:18:01 filmov2 CRON[4397]: (xtreamcodes) CMD (/home/xtreamcodes/iptv_xtream_codes/php/bin/php /home/xtreamcodes/iptv_xtream_codes/crons/stats.php # Xtream-Codes IPTV Panel^M)
+Aug 11 04:18:01 filmov2 CRON[4399]: (xtreamcodes) CMD (/home/xtreamcodes/iptv_xtream_codes/php/bin/php /home/xtreamcodes/iptv_xtream_codes/crons/servers_checker.php # Xtream-Codes IPTV Panel^M)
+Aug 11 04:19:01 filmov2 CRON[5078]: (xtreamcodes) CMD (/home/xtreamcodes/iptv_xtream_codes/php/bin/php /home/xtreamcodes/iptv_xtream_codes/crons/servers_checker.php # Xtream-Codes IPTV Panel^M)
+Aug 11 04:19:01 filmov2 CRON[5079]: (xtreamcodes) CMD (/home/xtreamcodes/iptv_xtream_codes/php/bin/php /home/xtreamcodes/iptv_xtream_codes/crons/setup_cache.php # Xtream-Codes IPTV Panel^M)
+Aug 11 04:19:01 filmov2 CRON[5080]: (xtreamcodes) CMD (/home/xtreamcodes/iptv_xtream_codes/php/bin/php /home/xtreamcodes/iptv_xtream_codes/crons/offline_cons.php # Xtream-Codes IPTV Panel^M)
+Aug 11 04:19:01 filmov2 CRON[5081]: (xtreamcodes) CMD (/home/xtreamcodes/iptv_xtream_codes/php/bin/php /home/xtreamcodes/iptv_xtream_codes/crons/crl_sync.php # Xtream-Codes IPTV Panel^M)
+Aug 11 04:19:01 filmov2 CRON[5082]: (xtreamcodes) CMD (/home/xtreamcodes/iptv_xtream_codes/php/bin/php /home/xtreamcodes/iptv_xtream_codes/crons/tmdb_async.php # Xtream-Codes IPTV Panel^M)
+Aug 11 04:19:01 filmov2 CRON[5083]: (xtreamcodes) CMD (/home/xtreamcodes/iptv_xtream_codes/php/bin/php /home/xtreamcodes/iptv_xtream_codes/crons/stats.php # Xtream-Codes IPTV Panel^M)
+Aug 11 04:19:01 filmov2 CRON[5084]: (xtreamcodes) CMD (/home/xtreamcodes/iptv_xtream_codes/php/bin/php /home/xtreamcodes/iptv_xtream_codes/crons/live_checker.php # Xtream-Codes IPTV Panel^M)
+Aug 11 04:19:01 filmov2 CRON[5085]: (xtreamcodes) CMD (/home/xtreamcodes/iptv_xtream_codes/php/bin/php /home/xtreamcodes/iptv_xtream_codes/crons/stream_errors.php # Xtream-Codes IPTV Panel^M)
+Aug 11 04:19:01 filmov2 CRON[5086]: (xtreamcodes) CMD (/home/xtreamcodes/iptv_xtream_codes/php/bin/php /home/xtreamcodes/iptv_xtream_codes/crons/tmp_del.php # Xtream-Codes IPTV Panel^M)
+Aug 11 04:19:01 filmov2 CRON[5091]: (xtreamcodes) CMD (/home/xtreamcodes/iptv_xtream_codes/php/bin/php /home/xtreamcodes/iptv_xtream_codes/crons/vod_cc_checker.php # Xtream-Codes IPTV Panel^M)
+Aug 11 04:19:01 filmov2 CRON[5087]: (xtreamcodes) CMD (/home/xtreamcodes/iptv_xtream_codes/php/bin/php /home/xtreamcodes/iptv_xtream_codes/crons/users_checker.php # Xtream-Codes IPTV Panel^M)
+Aug 11 04:19:01 filmov2 CRON[5099]: (xtreamcodes) CMD (/home/xtreamcodes/iptv_xtream_codes/php/bin/php /home/xtreamcodes/iptv_xtream_codes/crons/balancer.php # Xtream-Codes IPTV Panel^M)
+Aug 11 04:19:01 filmov2 CRON[5100]: (xtreamcodes) CMD (/home/xtreamcodes/iptv_xtream_codes/php/bin/php /home/xtreamcodes/iptv_xtream_codes/crons/vod_cc_series.php # Xtream-Codes IPTV Panel^M)
+Aug 11 04:19:01 filmov2 CRON[5103]: (xtreamcodes) CMD (/home/xtreamcodes/iptv_xtream_codes/php/bin/php /home/xtreamcodes/iptv_xtream_codes/crons/watch_folder.php # Xtream-Codes IPTV Panel^M)
+Aug 11 04:19:01 filmov2 CRON[5106]: (xtreamcodes) CMD (/home/xtreamcodes/iptv_xtream_codes/php/bin/php /home/xtreamcodes/iptv_xtream_codes/crons/kill_leaks.php # Xtream-Codes IPTV Panel^M)
+Aug 11 04:20:01 filmov2 CRON[5645]: (xtreamcodes) CMD (/home/xtreamcodes/iptv_xtream_codes/php/bin/php /home/xtreamcodes/iptv_xtream_codes/crons/live_checker.php # Xtream-Codes IPTV Panel^M)
+Aug 11 04:20:01 filmov2 CRON[5646]: (xtreamcodes) CMD (/home/xtreamcodes/iptv_xtream_codes/php/bin/php /home/xtreamcodes/iptv_xtream_codes/crons/kill_leaks.php # Xtream-Codes IPTV Panel^M)
+Aug 11 04:20:01 filmov2 CRON[5647]: (xtreamcodes) CMD (/home/xtreamcodes/iptv_xtream_codes/php/bin/php /home/xtreamcodes/iptv_xtream_codes/crons/crl_sync.php # Xtream-Codes IPTV Panel^M)
+Aug 11 04:20:01 filmov2 CRON[5648]: (xtreamcodes) CMD (/home/xtreamcodes/iptv_xtream_codes/php/bin/php /home/xtreamcodes/iptv_xtream_codes/crons/balancer.php # Xtream-Codes IPTV Panel^M)
+Aug 11 04:20:01 filmov2 CRON[5650]: (xtreamcodes) CMD (/home/xtreamcodes/iptv_xtream_codes/php/bin/php /home/xtreamcodes/iptv_xtream_codes/crons/stream_errors.php # Xtream-Codes IPTV Panel^M)
+Aug 11 04:20:01 filmov2 CRON[5651]: (xtreamcodes) CMD (/home/xtreamcodes/iptv_xtream_codes/php/bin/php /home/xtreamcodes/iptv_xtream_codes/crons/offline_cons.php # Xtream-Codes IPTV Panel^M)
+Aug 11 04:20:01 filmov2 CRON[5652]: (xtreamcodes) CMD (/home/xtreamcodes/iptv_xtream_codes/php/bin/php /home/xtreamcodes/iptv_xtream_codes/crons/setup_cache.php # Xtream-Codes IPTV Panel^M)
+Aug 11 04:20:01 filmov2 CRON[5649]: (xtreamcodes) CMD (/home/xtreamcodes/iptv_xtream_codes/php/bin/php /home/xtreamcodes/iptv_xtream_codes/crons/stats.php # Xtream-Codes IPTV Panel^M)
+Aug 11 04:20:01 filmov2 CRON[5653]: (xtreamcodes) CMD (/home/xtreamcodes/iptv_xtream_codes/php/bin/php /home/xtreamcodes/iptv_xtream_codes/crons/tmdb_async.php # Xtream-Codes IPTV Panel^M)
+Aug 11 04:20:01 filmov2 CRON[5654]: (xtreamcodes) CMD (/home/xtreamcodes/iptv_xtream_codes/php/bin/php /home/xtreamcodes/iptv_xtream_codes/crons/servers_checker.php # Xtream-Codes IPTV Panel^M)
+Aug 11 04:20:01 filmov2 CRON[5659]: (xtreamcodes) CMD (/home/xtreamcodes/iptv_xtream_codes/php/bin/php /home/xtreamcodes/iptv_xtream_codes/crons/vod_cc_checker.php # Xtream-Codes IPTV Panel^M)
+Aug 11 04:20:01 filmov2 CRON[5668]: (xtreamcodes) CMD (/home/xtreamcodes/iptv_xtream_codes/php/bin/php /home/xtreamcodes/iptv_xtream_codes/crons/users_checker.php # Xtream-Codes IPTV Panel^M)
+Aug 11 04:20:01 filmov2 CRON[5670]: (xtreamcodes) CMD (/home/xtreamcodes/iptv_xtream_codes/php/bin/php /home/xtreamcodes/iptv_xtream_codes/crons/vod_cc_series.php # Xtream-Codes IPTV Panel^M)
+Aug 11 04:20:01 filmov2 CRON[5672]: (xtreamcodes) CMD (/home/xtreamcodes/iptv_xtream_codes/php/bin/php /home/xtreamcodes/iptv_xtream_codes/crons/watch_folder.php # Xtream-Codes IPTV Panel^M)
+Aug 11 04:20:01 filmov2 CRON[5655]: (xtreamcodes) CMD (/home/xtreamcodes/iptv_xtream_codes/php/bin/php /home/xtreamcodes/iptv_xtream_codes/crons/tmp_del.php # Xtream-Codes IPTV Panel^M)
+Aug 11 04:21:02 filmov2 CRON[6212]: (xtreamcodes) CMD (/home/xtreamcodes/iptv_xtream_codes/php/bin/php /home/xtreamcodes/iptv_xtream_codes/crons/live_checker.php # Xtream-Codes IPTV Panel^M)
+Aug 11 04:21:02 filmov2 CRON[6213]: (xtreamcodes) CMD (/home/xtreamcodes/iptv_xtream_codes/php/bin/php /home/xtreamcodes/iptv_xtream_codes/crons/stream_errors.php # Xtream-Codes IPTV Panel^M)
+Aug 11 04:21:02 filmov2 CRON[6214]: (xtreamcodes) CMD (/home/xtreamcodes/iptv_xtream_codes/php/bin/php /home/xtreamcodes/iptv_xtream_codes/crons/stats.php # Xtream-Codes IPTV Panel^M)
+Aug 11 04:21:02 filmov2 CRON[6215]: (xtreamcodes) CMD (/home/xtreamcodes/iptv_xtream_codes/php/bin/php /home/xtreamcodes/iptv_xtream_codes/crons/crl_sync.php # Xtream-Codes IPTV Panel^M)
+Aug 11 04:21:02 filmov2 CRON[6216]: (xtreamcodes) CMD (/home/xtreamcodes/iptv_xtream_codes/php/bin/php /home/xtreamcodes/iptv_xtream_codes/crons/kill_leaks.php # Xtream-Codes IPTV Panel^M)
+Aug 11 04:21:02 filmov2 CRON[6217]: (xtreamcodes) CMD (/home/xtreamcodes/iptv_xtream_codes/php/bin/php /home/xtreamcodes/iptv_xtream_codes/crons/balancer.php # Xtream-Codes IPTV Panel^M)
+Aug 11 04:21:02 filmov2 CRON[6218]: (xtreamcodes) CMD (/home/xtreamcodes/iptv_xtream_codes/php/bin/php /home/xtreamcodes/iptv_xtream_codes/crons/servers_checker.php # Xtream-Codes IPTV Panel^M)
+Aug 11 04:21:02 filmov2 CRON[6219]: (xtreamcodes) CMD (/home/xtreamcodes/iptv_xtream_codes/php/bin/php /home/xtreamcodes/iptv_xtream_codes/crons/tmp_del.php # Xtream-Codes IPTV Panel^M)
+Aug 11 04:21:02 filmov2 CRON[6220]: (xtreamcodes) CMD (/home/xtreamcodes/iptv_xtream_codes/php/bin/php /home/xtreamcodes/iptv_xtream_codes/crons/users_checker.php # Xtream-Codes IPTV Panel^M)
+Aug 11 04:21:02 filmov2 CRON[6230]: (xtreamcodes) CMD (/home/xtreamcodes/iptv_xtream_codes/php/bin/php /home/xtreamcodes/iptv_xtream_codes/crons/vod_cc_series.php # Xtream-Codes IPTV Panel^M)
+Aug 11 04:21:02 filmov2 CRON[6234]: (xtreamcodes) CMD (/home/xtreamcodes/iptv_xtream_codes/php/bin/php /home/xtreamcodes/iptv_xtream_codes/crons/watch_folder.php # Xtream-Codes IPTV Panel^M)
+Aug 11 04:21:02 filmov2 CRON[6238]: (xtreamcodes) CMD (/home/xtreamcodes/iptv_xtream_codes/php/bin/php /home/xtreamcodes/iptv_xtream_codes/crons/tmdb_async.php # Xtream-Codes IPTV Panel^M)
+Aug 11 04:21:02 filmov2 CRON[6241]: (xtreamcodes) CMD (/home/xtreamcodes/iptv_xtream_codes/php/bin/php /home/xtreamcodes/iptv_xtream_codes/crons/offline_cons.php # Xtream-Codes IPTV Panel^M)
+Aug 11 04:21:02 filmov2 CRON[6243]: (xtreamcodes) CMD (/home/xtreamcodes/iptv_xtream_codes/php/bin/php /home/xtreamcodes/iptv_xtream_codes/crons/vod_cc_checker.php # Xtream-Codes IPTV Panel^M)
+Aug 11 04:21:02 filmov2 CRON[6249]: (xtreamcodes) CMD (/home/xtreamcodes/iptv_xtream_codes/php/bin/php /home/xtreamcodes/iptv_xtream_codes/crons/setup_cache.php # Xtream-Codes IPTV Panel^M)
+Aug 11 04:22:01 filmov2 CRON[6777]: (xtreamcodes) CMD (/home/xtreamcodes/iptv_xtream_codes/php/bin/php /home/xtreamcodes/iptv_xtream_codes/crons/stats.php # Xtream-Codes IPTV Panel^M)
+Aug 11 04:22:01 filmov2 CRON[6778]: (xtreamcodes) CMD (/home/xtreamcodes/iptv_xtream_codes/php/bin/php /home/xtreamcodes/iptv_xtream_codes/crons/stream_errors.php # Xtream-Codes IPTV Panel^M)
+Aug 11 04:22:01 filmov2 CRON[6779]: (xtreamcodes) CMD (/home/xtreamcodes/iptv_xtream_codes/php/bin/php /home/xtreamcodes/iptv_xtream_codes/crons/setup_cache.php # Xtream-Codes IPTV Panel^M)
+Aug 11 04:22:01 filmov2 CRON[6780]: (xtreamcodes) CMD (/home/xtreamcodes/iptv_xtream_codes/php/bin/php /home/xtreamcodes/iptv_xtream_codes/crons/tmp_del.php # Xtream-Codes IPTV Panel^M)
+Aug 11 04:22:01 filmov2 CRON[6782]: (xtreamcodes) CMD (/home/xtreamcodes/iptv_xtream_codes/php/bin/php /home/xtreamcodes/iptv_xtream_codes/crons/crl_sync.php # Xtream-Codes IPTV Panel^M)
+Aug 11 04:22:01 filmov2 CRON[6781]: (xtreamcodes) CMD (/home/xtreamcodes/iptv_xtream_codes/php/bin/php /home/xtreamcodes/iptv_xtream_codes/crons/balancer.php # Xtream-Codes IPTV Panel^M)
+Aug 11 04:22:01 filmov2 CRON[6783]: (xtreamcodes) CMD (/home/xtreamcodes/iptv_xtream_codes/php/bin/php /home/xtreamcodes/iptv_xtream_codes/crons/live_checker.php # Xtream-Codes IPTV Panel^M)
+Aug 11 04:22:01 filmov2 CRON[6784]: (xtreamcodes) CMD (/home/xtreamcodes/iptv_xtream_codes/php/bin/php /home/xtreamcodes/iptv_xtream_codes/crons/servers_checker.php # Xtream-Codes IPTV Panel^M)
+Aug 11 04:22:01 filmov2 CRON[6785]: (xtreamcodes) CMD (/home/xtreamcodes/iptv_xtream_codes/php/bin/php /home/xtreamcodes/iptv_xtream_codes/crons/vod_cc_checker.php # Xtream-Codes IPTV Panel^M)
+Aug 11 04:22:01 filmov2 CRON[6786]: (xtreamcodes) CMD (/home/xtreamcodes/iptv_xtream_codes/php/bin/php /home/xtreamcodes/iptv_xtream_codes/crons/vod_cc_series.php # Xtream-Codes IPTV Panel^M)
+Aug 11 04:22:01 filmov2 CRON[6797]: (xtreamcodes) CMD (/home/xtreamcodes/iptv_xtream_codes/php/bin/php /home/xtreamcodes/iptv_xtream_codes/crons/users_checker.php # Xtream-Codes IPTV Panel^M)
+Aug 11 04:22:01 filmov2 CRON[6798]: (xtreamcodes) CMD (/home/xtreamcodes/iptv_xtream_codes/php/bin/php /home/xtreamcodes/iptv_xtream_codes/crons/offline_cons.php # Xtream-Codes IPTV Panel^M)
+Aug 11 04:22:01 filmov2 CRON[6801]: (xtreamcodes) CMD (/home/xtreamcodes/iptv_xtream_codes/php/bin/php /home/xtreamcodes/iptv_xtream_codes/crons/watch_folder.php # Xtream-Codes IPTV Panel^M)
+Aug 11 04:22:01 filmov2 CRON[6802]: (xtreamcodes) CMD (/home/xtreamcodes/iptv_xtream_codes/php/bin/php /home/xtreamcodes/iptv_xtream_codes/crons/kill_leaks.php # Xtream-Codes IPTV Panel^M)
+Aug 11 04:22:01 filmov2 CRON[6804]: (xtreamcodes) CMD (/home/xtreamcodes/iptv_xtream_codes/php/bin/php /home/xtreamcodes/iptv_xtream_codes/crons/tmdb_async.php # Xtream-Codes IPTV Panel^M)
+Aug 11 04:23:01 filmov2 CRON[7341]: (xtreamcodes) CMD (/home/xtreamcodes/iptv_xtream_codes/php/bin/php /home/xtreamcodes/iptv_xtream_codes/crons/servers_checker.php # Xtream-Codes IPTV Panel^M)
+Aug 11 04:23:01 filmov2 CRON[7342]: (xtreamcodes) CMD (/home/xtreamcodes/iptv_xtream_codes/php/bin/php /home/xtreamcodes/iptv_xtream_codes/crons/live_checker.php # Xtream-Codes IPTV Panel^M)
+Aug 11 04:23:01 filmov2 CRON[7344]: (xtreamcodes) CMD (/home/xtreamcodes/iptv_xtream_codes/php/bin/php /home/xtreamcodes/iptv_xtream_codes/crons/stats.php # Xtream-Codes IPTV Panel^M)
+Aug 11 04:23:01 filmov2 CRON[7345]: (xtreamcodes) CMD (/home/xtreamcodes/iptv_xtream_codes/php/bin/php /home/xtreamcodes/iptv_xtream_codes/crons/tmdb_async.php # Xtream-Codes IPTV Panel^M)
+Aug 11 04:23:01 filmov2 CRON[7346]: (xtreamcodes) CMD (/home/xtreamcodes/iptv_xtream_codes/php/bin/php /home/xtreamcodes/iptv_xtream_codes/crons/tmp_del.php # Xtream-Codes IPTV Panel^M)
+Aug 11 04:23:01 filmov2 CRON[7343]: (xtreamcodes) CMD (/home/xtreamcodes/iptv_xtream_codes/php/bin/php /home/xtreamcodes/iptv_xtream_codes/crons/setup_cache.php # Xtream-Codes IPTV Panel^M)
+Aug 11 04:23:01 filmov2 CRON[7347]: (xtreamcodes) CMD (/home/xtreamcodes/iptv_xtream_codes/php/bin/php /home/xtreamcodes/iptv_xtream_codes/crons/users_checker.php # Xtream-Codes IPTV Panel^M)
+Aug 11 04:23:01 filmov2 CRON[7350]: (xtreamcodes) CMD (/home/xtreamcodes/iptv_xtream_codes/php/bin/php /home/xtreamcodes/iptv_xtream_codes/crons/vod_cc_checker.php # Xtream-Codes IPTV Panel^M)
+Aug 11 04:23:01 filmov2 CRON[7348]: (xtreamcodes) CMD (/home/xtreamcodes/iptv_xtream_codes/php/bin/php /home/xtreamcodes/iptv_xtream_codes/crons/offline_cons.php # Xtream-Codes IPTV Panel^M)
+Aug 11 04:23:01 filmov2 CRON[7359]: (xtreamcodes) CMD (/home/xtreamcodes/iptv_xtream_codes/php/bin/php /home/xtreamcodes/iptv_xtream_codes/crons/balancer.php # Xtream-Codes IPTV Panel^M)
+Aug 11 04:23:01 filmov2 CRON[7360]: (xtreamcodes) CMD (/home/xtreamcodes/iptv_xtream_codes/php/bin/php /home/xtreamcodes/iptv_xtream_codes/crons/watch_folder.php # Xtream-Codes IPTV Panel^M)
+Aug 11 04:23:01 filmov2 CRON[7362]: (xtreamcodes) CMD (/home/xtreamcodes/iptv_xtream_codes/php/bin/php /home/xtreamcodes/iptv_xtream_codes/crons/kill_leaks.php # Xtream-Codes IPTV Panel^M)
+Aug 11 04:23:01 filmov2 CRON[7365]: (xtreamcodes) CMD (/home/xtreamcodes/iptv_xtream_codes/php/bin/php /home/xtreamcodes/iptv_xtream_codes/crons/stream_errors.php # Xtream-Codes IPTV Panel^M)
+Aug 11 04:23:01 filmov2 CRON[7367]: (xtreamcodes) CMD (/home/xtreamcodes/iptv_xtream_codes/php/bin/php /home/xtreamcodes/iptv_xtream_codes/crons/vod_cc_series.php # Xtream-Codes IPTV Panel^M)
+Aug 11 04:23:01 filmov2 CRON[7368]: (xtreamcodes) CMD (/home/xtreamcodes/iptv_xtream_codes/php/bin/php /home/xtreamcodes/iptv_xtream_codes/crons/crl_sync.php # Xtream-Codes IPTV Panel^M)
+Aug 11 04:24:01 filmov2 CRON[7908]: (xtreamcodes) CMD (/home/xtreamcodes/iptv_xtream_codes/php/bin/php /home/xtreamcodes/iptv_xtream_codes/crons/stream_errors.php # Xtream-Codes IPTV Panel^M)
+Aug 11 04:24:01 filmov2 CRON[7909]: (xtreamcodes) CMD (/home/xtreamcodes/iptv_xtream_codes/php/bin/php /home/xtreamcodes/iptv_xtream_codes/crons/kill_leaks.php # Xtream-Codes IPTV Panel^M)
+Aug 11 04:24:01 filmov2 CRON[7910]: (xtreamcodes) CMD (/home/xtreamcodes/iptv_xtream_codes/php/bin/php /home/xtreamcodes/iptv_xtream_codes/crons/stats.php # Xtream-Codes IPTV Panel^M)
+Aug 11 04:24:01 filmov2 CRON[7911]: (xtreamcodes) CMD (/home/xtreamcodes/iptv_xtream_codes/php/bin/php /home/xtreamcodes/iptv_xtream_codes/crons/balancer.php # Xtream-Codes IPTV Panel^M)
+Aug 11 04:24:01 filmov2 CRON[7912]: (xtreamcodes) CMD (/home/xtreamcodes/iptv_xtream_codes/php/bin/php /home/xtreamcodes/iptv_xtream_codes/crons/live_checker.php # Xtream-Codes IPTV Panel^M)
+Aug 11 04:24:02 filmov2 CRON[7913]: (xtreamcodes) CMD (/home/xtreamcodes/iptv_xtream_codes/php/bin/php /home/xtreamcodes/iptv_xtream_codes/crons/setup_cache.php # Xtream-Codes IPTV Panel^M)
+Aug 11 04:24:02 filmov2 CRON[7914]: (xtreamcodes) CMD (/home/xtreamcodes/iptv_xtream_codes/php/bin/php /home/xtreamcodes/iptv_xtream_codes/crons/tmp_del.php # Xtream-Codes IPTV Panel^M)
+Aug 11 04:24:02 filmov2 CRON[7915]: (xtreamcodes) CMD (/home/xtreamcodes/iptv_xtream_codes/php/bin/php /home/xtreamcodes/iptv_xtream_codes/crons/offline_cons.php # Xtream-Codes IPTV Panel^M)
+Aug 11 04:24:02 filmov2 CRON[7916]: (xtreamcodes) CMD (/home/xtreamcodes/iptv_xtream_codes/php/bin/php /home/xtreamcodes/iptv_xtream_codes/crons/crl_sync.php # Xtream-Codes IPTV Panel^M)
+Aug 11 04:24:02 filmov2 CRON[7917]: (xtreamcodes) CMD (/home/xtreamcodes/iptv_xtream_codes/php/bin/php /home/xtreamcodes/iptv_xtream_codes/crons/users_checker.php # Xtream-Codes IPTV Panel^M)
+Aug 11 04:24:02 filmov2 CRON[7918]: (xtreamcodes) CMD (/home/xtreamcodes/iptv_xtream_codes/php/bin/php /home/xtreamcodes/iptv_xtream_codes/crons/vod_cc_checker.php # Xtream-Codes IPTV Panel^M)
+Aug 11 04:24:02 filmov2 CRON[7929]: (xtreamcodes) CMD (/home/xtreamcodes/iptv_xtream_codes/php/bin/php /home/xtreamcodes/iptv_xtream_codes/crons/servers_checker.php # Xtream-Codes IPTV Panel^M)
+Aug 11 04:24:02 filmov2 CRON[7932]: (xtreamcodes) CMD (/home/xtreamcodes/iptv_xtream_codes/php/bin/php /home/xtreamcodes/iptv_xtream_codes/crons/tmdb_async.php # Xtream-Codes IPTV Panel^M)
+Aug 11 04:24:02 filmov2 CRON[7935]: (xtreamcodes) CMD (/home/xtreamcodes/iptv_xtream_codes/php/bin/php /home/xtreamcodes/iptv_xtream_codes/crons/vod_cc_series.php # Xtream-Codes IPTV Panel^M)
+Aug 11 04:24:02 filmov2 CRON[7937]: (xtreamcodes) CMD (/home/xtreamcodes/iptv_xtream_codes/php/bin/php /home/xtreamcodes/iptv_xtream_codes/crons/watch_folder.php # Xtream-Codes IPTV Panel^M)
+Aug 11 04:24:57 filmov2 systemd[1]: Starting xtreamcodes.service...
+Aug 11 04:24:57 filmov2 systemd[1]: Started xtreamcodes.service.
+Aug 11 04:25:01 filmov2 CRON[8479]: (xtreamcodes) CMD (/home/xtreamcodes/iptv_xtream_codes/php/bin/php /home/xtreamcodes/iptv_xtream_codes/crons/live_checker.php # Xtream-Codes IPTV Panel^M)
+Aug 11 04:25:01 filmov2 CRON[8480]: (xtreamcodes) CMD (/home/xtreamcodes/iptv_xtream_codes/php/bin/php /home/xtreamcodes/iptv_xtream_codes/crons/offline_cons.php # Xtream-Codes IPTV Panel^M)
+Aug 11 04:25:01 filmov2 CRON[8481]: (xtreamcodes) CMD (/home/xtreamcodes/iptv_xtream_codes/php/bin/php /home/xtreamcodes/iptv_xtream_codes/crons/servers_checker.php # Xtream-Codes IPTV Panel^M)
+Aug 11 04:25:01 filmov2 CRON[8482]: (xtreamcodes) CMD (/home/xtreamcodes/iptv_xtream_codes/php/bin/php /home/xtreamcodes/iptv_xtream_codes/crons/stats.php # Xtream-Codes IPTV Panel^M)
+Aug 11 04:25:01 filmov2 CRON[8483]: (xtreamcodes) CMD (/home/xtreamcodes/iptv_xtream_codes/php/bin/php /home/xtreamcodes/iptv_xtream_codes/crons/crl_sync.php # Xtream-Codes IPTV Panel^M)
+Aug 11 04:25:01 filmov2 CRON[8484]: (xtreamcodes) CMD (/home/xtreamcodes/iptv_xtream_codes/php/bin/php /home/xtreamcodes/iptv_xtream_codes/crons/kill_leaks.php # Xtream-Codes IPTV Panel^M)
+Aug 11 04:25:01 filmov2 CRON[8485]: (xtreamcodes) CMD (/home/xtreamcodes/iptv_xtream_codes/php/bin/php /home/xtreamcodes/iptv_xtream_codes/crons/stream_errors.php # Xtream-Codes IPTV Panel^M)
+Aug 11 04:25:01 filmov2 CRON[8494]: (xtreamcodes) CMD (/home/xtreamcodes/iptv_xtream_codes/php/bin/php /home/xtreamcodes/iptv_xtream_codes/crons/vod_cc_checker.php # Xtream-Codes IPTV Panel^M)
+Aug 11 04:25:01 filmov2 CRON[8486]: (xtreamcodes) CMD (/home/xtreamcodes/iptv_xtream_codes/php/bin/php /home/xtreamcodes/iptv_xtream_codes/crons/balancer.php # Xtream-Codes IPTV Panel^M)
+Aug 11 04:25:01 filmov2 CRON[8495]: (xtreamcodes) CMD (/home/xtreamcodes/iptv_xtream_codes/php/bin/php /home/xtreamcodes/iptv_xtream_codes/crons/users_checker.php # Xtream-Codes IPTV Panel^M)
+Aug 11 04:25:01 filmov2 CRON[8496]: (xtreamcodes) CMD (/home/xtreamcodes/iptv_xtream_codes/php/bin/php /home/xtreamcodes/iptv_xtream_codes/crons/tmdb_async.php # Xtream-Codes IPTV Panel^M)
+Aug 11 04:25:01 filmov2 CRON[8487]: (xtreamcodes) CMD (/home/xtreamcodes/iptv_xtream_codes/php/bin/php /home/xtreamcodes/iptv_xtream_codes/crons/tmp_del.php # Xtream-Codes IPTV Panel^M)
+Aug 11 04:25:01 filmov2 CRON[8501]: (xtreamcodes) CMD (/home/xtreamcodes/iptv_xtream_codes/php/bin/php /home/xtreamcodes/iptv_xtream_codes/crons/vod_cc_series.php # Xtream-Codes IPTV Panel^M)
+Aug 11 04:25:01 filmov2 CRON[8504]: (xtreamcodes) CMD (/home/xtreamcodes/iptv_xtream_codes/php/bin/php /home/xtreamcodes/iptv_xtream_codes/crons/watch_folder.php # Xtream-Codes IPTV Panel^M)
+Aug 11 04:25:01 filmov2 CRON[8507]: (xtreamcodes) CMD (/home/xtreamcodes/iptv_xtream_codes/php/bin/php /home/xtreamcodes/iptv_xtream_codes/crons/setup_cache.php # Xtream-Codes IPTV Panel^M)
+Aug 11 04:25:03 filmov2 xtreamcodes[8416]: chown: changing ownership of '/home/xtreamcodes/iptv_xtream_codes/GeoLite2.mmdb': Operation not permitted
+Aug 11 04:25:07 filmov2 xtreamcodes[8416]: /home/xtreamcodes/iptv_xtream_codes/start_services.sh: line 14: /home/xtreamcodes/iptv_xtream_codes/nginx_rtmp/sbin/nginx_rtmp: Permission denied
+Aug 11 04:25:07 filmov2 xtreamcodes[8416]: /home/xtreamcodes/iptv_xtream_codes/start_services.sh: line 15: /home/xtreamcodes/iptv_xtream_codes/nginx/sbin/nginx: Permission denied
+Aug 11 04:26:01 filmov2 CRON[9079]: (xtreamcodes) CMD (/home/xtreamcodes/iptv_xtream_codes/php/bin/php /home/xtreamcodes/iptv_xtream_codes/crons/stream_errors.php # Xtream-Codes IPTV Panel^M)
+Aug 11 04:26:01 filmov2 CRON[9080]: (xtreamcodes) CMD (/home/xtreamcodes/iptv_xtream_codes/php/bin/php /home/xtreamcodes/iptv_xtream_codes/crons/crl_sync.php # Xtream-Codes IPTV Panel^M)
+Aug 11 04:26:01 filmov2 CRON[9081]: (xtreamcodes) CMD (/home/xtreamcodes/iptv_xtream_codes/php/bin/php /home/xtreamcodes/iptv_xtream_codes/crons/balancer.php # Xtream-Codes IPTV Panel^M)
+Aug 11 04:26:01 filmov2 CRON[9082]: (xtreamcodes) CMD (/home/xtreamcodes/iptv_xtream_codes/php/bin/php /home/xtreamcodes/iptv_xtream_codes/crons/setup_cache.php # Xtream-Codes IPTV Panel^M)
+Aug 11 04:26:01 filmov2 CRON[9083]: (xtreamcodes) CMD (/home/xtreamcodes/iptv_xtream_codes/php/bin/php /home/xtreamcodes/iptv_xtream_codes/crons/tmp_del.php # Xtream-Codes IPTV Panel^M)
+Aug 11 04:26:01 filmov2 CRON[9084]: (xtreamcodes) CMD (/home/xtreamcodes/iptv_xtream_codes/php/bin/php /home/xtreamcodes/iptv_xtream_codes/crons/tmdb_async.php # Xtream-Codes IPTV Panel^M)
+Aug 11 04:26:01 filmov2 CRON[9085]: (xtreamcodes) CMD (/home/xtreamcodes/iptv_xtream_codes/php/bin/php /home/xtreamcodes/iptv_xtream_codes/crons/offline_cons.php # Xtream-Codes IPTV Panel^M)
+Aug 11 04:26:01 filmov2 CRON[9086]: (xtreamcodes) CMD (/home/xtreamcodes/iptv_xtream_codes/php/bin/php /home/xtreamcodes/iptv_xtream_codes/crons/servers_checker.php # Xtream-Codes IPTV Panel^M)
+Aug 11 04:26:01 filmov2 CRON[9087]: (xtreamcodes) CMD (/home/xtreamcodes/iptv_xtream_codes/php/bin/php /home/xtreamcodes/iptv_xtream_codes/crons/stats.php # Xtream-Codes IPTV Panel^M)
+Aug 11 04:26:01 filmov2 CRON[9096]: (xtreamcodes) CMD (/home/xtreamcodes/iptv_xtream_codes/php/bin/php /home/xtreamcodes/iptv_xtream_codes/crons/vod_cc_series.php # Xtream-Codes IPTV Panel^M)
+Aug 11 04:26:01 filmov2 CRON[9088]: (xtreamcodes) CMD (/home/xtreamcodes/iptv_xtream_codes/php/bin/php /home/xtreamcodes/iptv_xtream_codes/crons/users_checker.php # Xtream-Codes IPTV Panel^M)
+Aug 11 04:26:01 filmov2 CRON[9101]: (xtreamcodes) CMD (/home/xtreamcodes/iptv_xtream_codes/php/bin/php /home/xtreamcodes/iptv_xtream_codes/crons/live_checker.php # Xtream-Codes IPTV Panel^M)
+Aug 11 04:26:01 filmov2 CRON[9103]: (xtreamcodes) CMD (/home/xtreamcodes/iptv_xtream_codes/php/bin/php /home/xtreamcodes/iptv_xtream_codes/crons/watch_folder.php # Xtream-Codes IPTV Panel^M)
+Aug 11 04:26:01 filmov2 CRON[9105]: (xtreamcodes) CMD (/home/xtreamcodes/iptv_xtream_codes/php/bin/php /home/xtreamcodes/iptv_xtream_codes/crons/kill_leaks.php # Xtream-Codes IPTV Panel^M)
+Aug 11 04:26:01 filmov2 CRON[9107]: (xtreamcodes) CMD (/home/xtreamcodes/iptv_xtream_codes/php/bin/php /home/xtreamcodes/iptv_xtream_codes/crons/vod_cc_checker.php # Xtream-Codes IPTV Panel^M)
