@@ -1,0 +1,520 @@
+2023/08/11 23:53:56 [error] 61868#61868: *1 FastCGI sent in stderr: "PHP message: PHP Warning:  Invalid argument supplied for foreach() in /home/xtreamcodes/iptv_xtream_codes/admin/tmdb.php on line 877
+PHP message: PHP Warning:  Invalid argument supplied for foreach() in /home/xtreamcodes/iptv_xtream_codes/admin/tmdb.php on line 895" while reading response header from upstream, client: 192.168.0.2, server: , request: "GET /tm75mzibfNLm/ HTTP/1.1", upstream: "fastcgi://unix:/home/xtreamcodes/iptv_xtream_codes/php/VaiIb8.sock:", host: "192.168.0.70:8080"
+2023/08/11 23:54:24 [error] 61868#61868: *43 FastCGI sent in stderr: "PHP message: PHP Warning:  session_set_cookie_params(): Cannot change session cookie parameters when session is active in /home/xtreamcodes/iptv_xtream_codes/admin/database.php on line 33" while reading response header from upstream, client: 192.168.0.2, server: , request: "GET /tm75mzibfNLm/database.php HTTP/1.1", upstream: "fastcgi://unix:/home/xtreamcodes/iptv_xtream_codes/php/CWcfSP.sock:", host: "192.168.0.70:8080", referrer: "http://192.168.0.70:8080/"
+2023/08/11 23:56:32 [error] 61868#61868: *53 FastCGI sent in stderr: "PHP message: PHP Warning:  file_get_contents(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/xtreamcodes/iptv_xtream_codes/admin/settings.php on line 293
+PHP message: PHP Warning:  file_get_contents(https://bitbucket.org/emre1393/xtreamui_mirror/downloads/Geolite2_status.json): failed to open stream: php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/xtreamcodes/iptv_xtream_codes/admin/settings.php on line 293" while reading upstream, client: 192.168.0.2, server: , request: "POST /tm75mzibfNLm/settings.php HTTP/1.1", upstream: "fastcgi://unix:/home/xtreamcodes/iptv_xtream_codes/php/JdlJXm.sock:", host: "192.168.0.70:8080", referrer: "http://192.168.0.70:8080/"
+2023/08/11 23:56:32 [error] 61868#61868: *58 FastCGI sent in stderr: "PHP message: PHP Warning:  session_set_cookie_params(): Cannot change session cookie parameters when session is active in /home/xtreamcodes/iptv_xtream_codes/admin/database.php on line 33" while reading response header from upstream, client: 192.168.0.2, server: , request: "GET /tm75mzibfNLm/database.php HTTP/1.1", upstream: "fastcgi://unix:/home/xtreamcodes/iptv_xtream_codes/php/CWcfSP.sock:", host: "192.168.0.70:8080", referrer: "http://192.168.0.70:8080/"
+2023/08/11 23:57:16 [error] 61868#61868: *66 FastCGI sent in stderr: "PHP message: PHP Warning:  session_set_cookie_params(): Cannot change session cookie parameters when session is active in /home/xtreamcodes/iptv_xtream_codes/admin/database.php on line 33" while reading response header from upstream, client: 192.168.0.2, server: , request: "GET /tm75mzibfNLm/database.php HTTP/1.1", upstream: "fastcgi://unix:/home/xtreamcodes/iptv_xtream_codes/php/CWcfSP.sock:", host: "192.168.0.70:8080", referrer: "http://192.168.0.70:8080/"
+2023/08/11 23:57:29 [error] 61868#61868: *77 FastCGI sent in stderr: "PHP message: PHP Warning:  session_set_cookie_params(): Cannot change session cookie parameters when session is active in /home/xtreamcodes/iptv_xtream_codes/admin/database.php on line 33" while reading response header from upstream, client: 192.168.0.2, server: , request: "GET /tm75mzibfNLm/database.php HTTP/1.1", upstream: "fastcgi://unix:/home/xtreamcodes/iptv_xtream_codes/php/CWcfSP.sock:", host: "192.168.0.70:8080", referrer: "http://192.168.0.70:8080/"
+2023/08/12 00:06:36 [error] 61868#61868: *650 open() "/home/xtreamcodes/iptv_xtream_codes/wwwdir/favicon.ico" failed (2: No such file or directory), client: 192.168.0.2, server: , request: "GET /favicon.ico HTTP/1.1", host: "192.168.0.70:8080", referrer: "http://192.168.0.70:8080/dashboard.php"
+2023/08/12 00:25:54 [error] 8257#8257: *57 FastCGI sent in stderr: "PHP message: PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/xtreamcodes/iptv_xtream_codes/admin/server.php on line 295
+PHP message: PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/xtreamcodes/iptv_xtream_codes/admin/server.php on line 295
+PHP message: PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/xtreamcodes/iptv_xtream_codes/admin/server.php on line 295
+PHP message: PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/xtreamcodes/iptv_xtream_codes/admin/server.php on line 295
+PHP message: PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/xtreamcodes/iptv_xtream_codes/admin/server.php on line 295
+PHP message: PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/xtreamcodes/iptv_xtream_codes/admin/server.php on line 295
+PHP message: PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/xtreamcodes/iptv_xtream_codes/admin/server.php on line 295
+PHP message: PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/xtreamcodes/iptv_xtream_codes/admin/server.php on line 295
+PHP message: PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/xtreamcodes/iptv_xtream_codes/admin/server.php on line 295
+PHP message: PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/xtreamcodes/iptv_xtream_codes/admin/server.php on line 295
+PHP message: PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/xtreamcodes/iptv_xtream_codes/admin/server.php on line 295
+PHP message: PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/xtreamcodes/iptv_xtream_codes/admin/server.php on line 295
+PHP message: PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/xtreamcodes/iptv_xtream_codes/admin/server.php on line 295
+PHP message: PHP Warning:  in
+2023/08/12 00:25:54 [error] 8257#8257: *57 FastCGI sent in stderr: "ull given in /home/xtreamcodes/iptv_xtream_codes/admin/server.php on line 295
+PHP message: PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/xtreamcodes/iptv_xtream_codes/admin/server.php on line 295
+PHP message: PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/xtreamcodes/iptv_xtream_codes/admin/server.php on line 295" while reading upstream, client: 192.168.0.2, server: , request: "GET /tm75mzibfNLm/server.php?id=1 HTTP/1.1", upstream: "fastcgi://unix:/home/xtreamcodes/iptv_xtream_codes/php/CWcfSP.sock:", host: "192.168.0.70:8080", referrer: "http://192.168.0.70:8080/"
+2023/08/12 00:25:54 [error] 8257#8257: *57 FastCGI sent in stderr: "PHP message: PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/xtreamcodes/iptv_xtream_codes/admin/server.php on line 295
+PHP message: PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/xtreamcodes/iptv_xtream_codes/admin/server.php on line 295
+PHP message: PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/xtreamcodes/iptv_xtream_codes/admin/server.php on line 295
+PHP message: PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/xtreamcodes/iptv_xtream_codes/admin/server.php on line 295
+PHP message: PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/xtreamcodes/iptv_xtream_codes/admin/server.php on line 295
+PHP message: PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/xtreamcodes/iptv_xtream_codes/admin/server.php on line 295
+PHP message: PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/xtreamcodes/iptv_xtream_codes/admin/server.php on line 295
+PHP message: PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/xtreamcodes/iptv_xtream_codes/admin/server.php on line 295
+PHP message: PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/xtreamcodes/iptv_xtream_codes/admin/server.php on line 295
+PHP message: PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/xtreamcodes/iptv_xtream_codes/admin/server.php on line 295
+PHP message: PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/xtreamcodes/iptv_xtream_codes/admin/server.php on line 295
+PHP message: PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/xtreamcodes/iptv_xtream_codes/admin/server.php on line 295
+PHP message: PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/xtreamcodes/iptv_xtream_codes/admin/server.php on line 295
+PHP message: PHP Warning:  in
+2023/08/12 00:25:54 [error] 8257#8257: *57 FastCGI sent in stderr: "PHP message: PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/xtreamcodes/iptv_xtream_codes/admin/server.php on line 295
+PHP message: PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/xtreamcodes/iptv_xtream_codes/admin/server.php on line 295
+PHP message: PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/xtreamcodes/iptv_xtream_codes/admin/server.php on line 295
+PHP message: PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/xtreamcodes/iptv_xtream_codes/admin/server.php on line 295
+PHP message: PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/xtreamcodes/iptv_xtream_codes/admin/server.php on line 295
+PHP message: PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/xtreamcodes/iptv_xtream_codes/admin/server.php on line 295
+PHP message: PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/xtreamcodes/iptv_xtream_codes/admin/server.php on line 295
+PHP message: PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/xtreamcodes/iptv_xtream_codes/admin/server.php on line 295
+PHP message: PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/xtreamcodes/iptv_xtream_codes/admin/server.php on line 295
+PHP message: PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/xtreamcodes/iptv_xtream_codes/admin/server.php on line 295
+PHP message: PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/xtreamcodes/iptv_xtream_codes/admin/server.php on line 295
+PHP message: PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/xtreamcodes/iptv_xtream_codes/admin/server.php on line 295
+PHP message: PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/xtreamcodes/iptv_xtream_codes/admin/server.php on line 295
+PHP message: PHP Warning:  in
+2023/08/12 00:25:54 [error] 8257#8257: *57 FastCGI sent in stderr: "PHP message: PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/xtreamcodes/iptv_xtream_codes/admin/server.php on line 295
+PHP message: PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/xtreamcodes/iptv_xtream_codes/admin/server.php on line 295
+PHP message: PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/xtreamcodes/iptv_xtream_codes/admin/server.php on line 295
+PHP message: PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/xtreamcodes/iptv_xtream_codes/admin/server.php on line 295
+PHP message: PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/xtreamcodes/iptv_xtream_codes/admin/server.php on line 295
+PHP message: PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/xtreamcodes/iptv_xtream_codes/admin/server.php on line 295
+PHP message: PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/xtreamcodes/iptv_xtream_codes/admin/server.php on line 295
+PHP message: PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/xtreamcodes/iptv_xtream_codes/admin/server.php on line 295
+PHP message: PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/xtreamcodes/iptv_xtream_codes/admin/server.php on line 295
+PHP message: PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/xtreamcodes/iptv_xtream_codes/admin/server.php on line 295
+PHP message: PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/xtreamcodes/iptv_xtream_codes/admin/server.php on line 295
+PHP message: PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/xtreamcodes/iptv_xtream_codes/admin/server.php on line 295
+PHP message: PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/xtreamcodes/iptv_xtream_codes/admin/server.php on line 295
+PHP message: PHP Warning:  in
+2023/08/12 00:25:54 [error] 8257#8257: *57 FastCGI sent in stderr: "PHP message: PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/xtreamcodes/iptv_xtream_codes/admin/server.php on line 295
+PHP message: PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/xtreamcodes/iptv_xtream_codes/admin/server.php on line 295
+PHP message: PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/xtreamcodes/iptv_xtream_codes/admin/server.php on line 295
+PHP message: PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/xtreamcodes/iptv_xtream_codes/admin/server.php on line 295
+PHP message: PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/xtreamcodes/iptv_xtream_codes/admin/server.php on line 295
+PHP message: PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/xtreamcodes/iptv_xtream_codes/admin/server.php on line 295
+PHP message: PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/xtreamcodes/iptv_xtream_codes/admin/server.php on line 295
+PHP message: PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/xtreamcodes/iptv_xtream_codes/admin/server.php on line 295
+PHP message: PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/xtreamcodes/iptv_xtream_codes/admin/server.php on line 295
+PHP message: PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/xtreamcodes/iptv_xtream_codes/admin/server.php on line 295
+PHP message: PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/xtreamcodes/iptv_xtream_codes/admin/server.php on line 295
+PHP message: PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/xtreamcodes/iptv_xtream_codes/admin/server.php on line 295
+PHP message: PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/xtreamcodes/iptv_xtream_codes/admin/server.php on line 295
+PHP message: PHP Warning:  in
+2023/08/12 00:25:54 [error] 8257#8257: *57 FastCGI sent in stderr: "PHP message: PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/xtreamcodes/iptv_xtream_codes/admin/server.php on line 295
+PHP message: PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/xtreamcodes/iptv_xtream_codes/admin/server.php on line 295
+PHP message: PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/xtreamcodes/iptv_xtream_codes/admin/server.php on line 295
+PHP message: PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/xtreamcodes/iptv_xtream_codes/admin/server.php on line 295
+PHP message: PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/xtreamcodes/iptv_xtream_codes/admin/server.php on line 295
+PHP message: PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/xtreamcodes/iptv_xtream_codes/admin/server.php on line 295
+PHP message: PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/xtreamcodes/iptv_xtream_codes/admin/server.php on line 295
+PHP message: PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/xtreamcodes/iptv_xtream_codes/admin/server.php on line 295
+PHP message: PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/xtreamcodes/iptv_xtream_codes/admin/server.php on line 295
+PHP message: PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/xtreamcodes/iptv_xtream_codes/admin/server.php on line 295
+PHP message: PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/xtreamcodes/iptv_xtream_codes/admin/server.php on line 295
+PHP message: PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/xtreamcodes/iptv_xtream_codes/admin/server.php on line 295
+PHP message: PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/xtreamcodes/iptv_xtream_codes/admin/server.php on line 295
+PHP message: PHP Warning:  in
+2023/08/12 00:25:54 [error] 8257#8257: *57 FastCGI sent in stderr: "PHP message: PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/xtreamcodes/iptv_xtream_codes/admin/server.php on line 295
+PHP message: PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/xtreamcodes/iptv_xtream_codes/admin/server.php on line 295
+PHP message: PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/xtreamcodes/iptv_xtream_codes/admin/server.php on line 295
+PHP message: PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/xtreamcodes/iptv_xtream_codes/admin/server.php on line 295
+PHP message: PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/xtreamcodes/iptv_xtream_codes/admin/server.php on line 295
+PHP message: PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/xtreamcodes/iptv_xtream_codes/admin/server.php on line 295
+PHP message: PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/xtreamcodes/iptv_xtream_codes/admin/server.php on line 295
+PHP message: PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/xtreamcodes/iptv_xtream_codes/admin/server.php on line 295
+PHP message: PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/xtreamcodes/iptv_xtream_codes/admin/server.php on line 295
+PHP message: PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/xtreamcodes/iptv_xtream_codes/admin/server.php on line 295
+PHP message: PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/xtreamcodes/iptv_xtream_codes/admin/server.php on line 295
+PHP message: PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/xtreamcodes/iptv_xtream_codes/admin/server.php on line 295
+PHP message: PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/xtreamcodes/iptv_xtream_codes/admin/server.php on line 295
+PHP message: PHP Warning:  in
+2023/08/12 00:25:54 [error] 8257#8257: *57 FastCGI sent in stderr: "PHP message: PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/xtreamcodes/iptv_xtream_codes/admin/server.php on line 295
+PHP message: PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/xtreamcodes/iptv_xtream_codes/admin/server.php on line 295
+PHP message: PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/xtreamcodes/iptv_xtream_codes/admin/server.php on line 295
+PHP message: PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/xtreamcodes/iptv_xtream_codes/admin/server.php on line 295
+PHP message: PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/xtreamcodes/iptv_xtream_codes/admin/server.php on line 295
+PHP message: PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/xtreamcodes/iptv_xtream_codes/admin/server.php on line 295
+PHP message: PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/xtreamcodes/iptv_xtream_codes/admin/server.php on line 295
+PHP message: PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/xtreamcodes/iptv_xtream_codes/admin/server.php on line 295
+PHP message: PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/xtreamcodes/iptv_xtream_codes/admin/server.php on line 295
+PHP message: PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/xtreamcodes/iptv_xtream_codes/admin/server.php on line 295
+PHP message: PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/xtreamcodes/iptv_xtream_codes/admin/server.php on line 295
+PHP message: PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/xtreamcodes/iptv_xtream_codes/admin/server.php on line 295
+PHP message: PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/xtreamcodes/iptv_xtream_codes/admin/server.php on line 295
+PHP message: PHP Warning:  in
+2023/08/12 00:25:54 [error] 8257#8257: *57 FastCGI sent in stderr: "PHP message: PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/xtreamcodes/iptv_xtream_codes/admin/server.php on line 295
+PHP message: PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/xtreamcodes/iptv_xtream_codes/admin/server.php on line 295
+PHP message: PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/xtreamcodes/iptv_xtream_codes/admin/server.php on line 295
+PHP message: PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/xtreamcodes/iptv_xtream_codes/admin/server.php on line 295
+PHP message: PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/xtreamcodes/iptv_xtream_codes/admin/server.php on line 295
+PHP message: PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/xtreamcodes/iptv_xtream_codes/admin/server.php on line 295
+PHP message: PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/xtreamcodes/iptv_xtream_codes/admin/server.php on line 295
+PHP message: PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/xtreamcodes/iptv_xtream_codes/admin/server.php on line 295
+PHP message: PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/xtreamcodes/iptv_xtream_codes/admin/server.php on line 295
+PHP message: PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/xtreamcodes/iptv_xtream_codes/admin/server.php on line 295
+PHP message: PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/xtreamcodes/iptv_xtream_codes/admin/server.php on line 295
+PHP message: PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/xtreamcodes/iptv_xtream_codes/admin/server.php on line 295
+PHP message: PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/xtreamcodes/iptv_xtream_codes/admin/server.php on line 295
+PHP message: PHP Warning:  in
+2023/08/12 00:25:54 [error] 8257#8257: *57 FastCGI sent in stderr: "PHP message: PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/xtreamcodes/iptv_xtream_codes/admin/server.php on line 295
+PHP message: PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/xtreamcodes/iptv_xtream_codes/admin/server.php on line 295
+PHP message: PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/xtreamcodes/iptv_xtream_codes/admin/server.php on line 295
+PHP message: PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/xtreamcodes/iptv_xtream_codes/admin/server.php on line 295
+PHP message: PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/xtreamcodes/iptv_xtream_codes/admin/server.php on line 295
+PHP message: PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/xtreamcodes/iptv_xtream_codes/admin/server.php on line 295
+PHP message: PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/xtreamcodes/iptv_xtream_codes/admin/server.php on line 295
+PHP message: PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/xtreamcodes/iptv_xtream_codes/admin/server.php on line 295
+PHP message: PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/xtreamcodes/iptv_xtream_codes/admin/server.php on line 295
+PHP message: PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/xtreamcodes/iptv_xtream_codes/admin/server.php on line 295
+PHP message: PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/xtreamcodes/iptv_xtream_codes/admin/server.php on line 295
+PHP message: PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/xtreamcodes/iptv_xtream_codes/admin/server.php on line 295
+PHP message: PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/xtreamcodes/iptv_xtream_codes/admin/server.php on line 295
+PHP message: PHP Warning:  in
+2023/08/12 00:25:54 [error] 8257#8257: *57 FastCGI sent in stderr: "PHP message: PHP Warning:  in_array() expects parameter 2 to be" while reading upstream, client: 192.168.0.2, server: , request: "GET /tm75mzibfNLm/server.php?id=1 HTTP/1.1", upstream: "fastcgi://unix:/home/xtreamcodes/iptv_xtream_codes/php/CWcfSP.sock:", host: "192.168.0.70:8080", referrer: "http://192.168.0.70:8080/"
+2023/08/12 00:25:54 [error] 8257#8257: *57 FastCGI sent in stderr: "array, null given in /home/xtreamcodes/iptv_xtream_codes/admin/server.php on line 295
+PHP message: PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/xtreamcodes/iptv_xtream_codes/admin/server.php on line 295
+PHP message: PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/xtreamcodes/iptv_xtream_codes/admin/server.php on line 295
+PHP message: PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/xtreamcodes/iptv_xtream_codes/admin/server.php on line 295
+PHP message: PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/xtreamcodes/iptv_xtream_codes/admin/server.php on line 295
+PHP message: PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/xtreamcodes/iptv_xtream_codes/admin/server.php on line 295
+PHP message: PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/xtreamcodes/iptv_xtream_codes/admin/server.php on line 295
+PHP message: PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/xtreamcodes/iptv_xtream_codes/admin/server.php on line 295
+PHP message: PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/xtreamcodes/iptv_xtream_codes/admin/server.php on line 295
+PHP message: PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/xtreamcodes/iptv_xtream_codes/admin/server.php on line 295
+PHP message: PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/xtreamcodes/iptv_xtream_codes/admin/server.php on line 295
+PHP message: PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/xtreamcodes/iptv_xtream_codes/admin/server.php on line 295
+PHP message: PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/xtreamcodes/iptv_xtream_codes/admin/server.php on line 295
+PHP message: PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/xt
+2023/08/12 00:26:55 [error] 8257#8257: *125 FastCGI sent in stderr: "PHP message: PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/xtreamcodes/iptv_xtream_codes/admin/server.php on line 295
+PHP message: PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/xtreamcodes/iptv_xtream_codes/admin/server.php on line 295
+PHP message: PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/xtreamcodes/iptv_xtream_codes/admin/server.php on line 295
+PHP message: PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/xtreamcodes/iptv_xtream_codes/admin/server.php on line 295
+PHP message: PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/xtreamcodes/iptv_xtream_codes/admin/server.php on line 295
+PHP message: PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/xtreamcodes/iptv_xtream_codes/admin/server.php on line 295
+PHP message: PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/xtreamcodes/iptv_xtream_codes/admin/server.php on line 295
+PHP message: PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/xtreamcodes/iptv_xtream_codes/admin/server.php on line 295
+PHP message: PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/xtreamcodes/iptv_xtream_codes/admin/server.php on line 295
+PHP message: PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/xtreamcodes/iptv_xtream_codes/admin/server.php on line 295
+PHP message: PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/xtreamcodes/iptv_xtream_codes/admin/server.php on line 295
+PHP message: PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/xtreamcodes/iptv_xtream_codes/admin/server.php on line 295
+PHP message: PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/xtreamcodes/iptv_xtream_codes/admin/server.php on line 295
+PHP message: PHP Warning:  i
+2023/08/12 00:26:55 [error] 8257#8257: *125 FastCGI sent in stderr: "ull given in /home/xtreamcodes/iptv_xtream_codes/admin/server.php on line 295
+PHP message: PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/xtreamcodes/iptv_xtream_codes/admin/server.php on line 295
+PHP message: PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/xtreamcodes/iptv_xtream_codes/admin/server.php on line 295" while reading upstream, client: 192.168.0.2, server: , request: "GET /tm75mzibfNLm/server.php?id=1 HTTP/1.1", upstream: "fastcgi://unix:/home/xtreamcodes/iptv_xtream_codes/php/VaiIb8.sock:", host: "192.168.0.70:8080", referrer: "http://192.168.0.70:8080/"
+2023/08/12 00:26:55 [error] 8257#8257: *125 FastCGI sent in stderr: "PHP message: PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/xtreamcodes/iptv_xtream_codes/admin/server.php on line 295
+PHP message: PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/xtreamcodes/iptv_xtream_codes/admin/server.php on line 295
+PHP message: PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/xtreamcodes/iptv_xtream_codes/admin/server.php on line 295
+PHP message: PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/xtreamcodes/iptv_xtream_codes/admin/server.php on line 295
+PHP message: PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/xtreamcodes/iptv_xtream_codes/admin/server.php on line 295
+PHP message: PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/xtreamcodes/iptv_xtream_codes/admin/server.php on line 295
+PHP message: PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/xtreamcodes/iptv_xtream_codes/admin/server.php on line 295
+PHP message: PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/xtreamcodes/iptv_xtream_codes/admin/server.php on line 295
+PHP message: PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/xtreamcodes/iptv_xtream_codes/admin/server.php on line 295
+PHP message: PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/xtreamcodes/iptv_xtream_codes/admin/server.php on line 295
+PHP message: PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/xtreamcodes/iptv_xtream_codes/admin/server.php on line 295
+PHP message: PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/xtreamcodes/iptv_xtream_codes/admin/server.php on line 295
+PHP message: PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/xtreamcodes/iptv_xtream_codes/admin/server.php on line 295
+PHP message: PHP Warning:  i
+2023/08/12 00:26:55 [error] 8257#8257: *125 FastCGI sent in stderr: "PHP message: PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/xtreamcodes/iptv_xtream_codes/admin/server.php on line 295
+PHP message: PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/xtreamcodes/iptv_xtream_codes/admin/server.php on line 295
+PHP message: PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/xtreamcodes/iptv_xtream_codes/admin/server.php on line 295
+PHP message: PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/xtreamcodes/iptv_xtream_codes/admin/server.php on line 295
+PHP message: PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/xtreamcodes/iptv_xtream_codes/admin/server.php on line 295
+PHP message: PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/xtreamcodes/iptv_xtream_codes/admin/server.php on line 295
+PHP message: PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/xtreamcodes/iptv_xtream_codes/admin/server.php on line 295
+PHP message: PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/xtreamcodes/iptv_xtream_codes/admin/server.php on line 295
+PHP message: PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/xtreamcodes/iptv_xtream_codes/admin/server.php on line 295
+PHP message: PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/xtreamcodes/iptv_xtream_codes/admin/server.php on line 295
+PHP message: PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/xtreamcodes/iptv_xtream_codes/admin/server.php on line 295
+PHP message: PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/xtreamcodes/iptv_xtream_codes/admin/server.php on line 295
+PHP message: PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/xtreamcodes/iptv_xtream_codes/admin/server.php on line 295
+PHP message: PHP Warning:  i
+2023/08/12 00:26:55 [error] 8257#8257: *125 FastCGI sent in stderr: "PHP message: PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/xtreamcodes/iptv_xtream_codes/admin/server.php on line 295
+PHP message: PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/xtreamcodes/iptv_xtream_codes/admin/server.php on line 295
+PHP message: PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/xtreamcodes/iptv_xtream_codes/admin/server.php on line 295
+PHP message: PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/xtreamcodes/iptv_xtream_codes/admin/server.php on line 295
+PHP message: PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/xtreamcodes/iptv_xtream_codes/admin/server.php on line 295
+PHP message: PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/xtreamcodes/iptv_xtream_codes/admin/server.php on line 295
+PHP message: PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/xtreamcodes/iptv_xtream_codes/admin/server.php on line 295
+PHP message: PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/xtreamcodes/iptv_xtream_codes/admin/server.php on line 295
+PHP message: PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/xtreamcodes/iptv_xtream_codes/admin/server.php on line 295
+PHP message: PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/xtreamcodes/iptv_xtream_codes/admin/server.php on line 295
+PHP message: PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/xtreamcodes/iptv_xtream_codes/admin/server.php on line 295
+PHP message: PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/xtreamcodes/iptv_xtream_codes/admin/server.php on line 295
+PHP message: PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/xtreamcodes/iptv_xtream_codes/admin/server.php on line 295
+PHP message: PHP Warning:  i
+2023/08/12 00:26:55 [error] 8257#8257: *125 FastCGI sent in stderr: "PHP message: PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/xtreamcodes/iptv_xtream_codes/admin/server.php on line 295
+PHP message: PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/xtreamcodes/iptv_xtream_codes/admin/server.php on line 295
+PHP message: PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/xtreamcodes/iptv_xtream_codes/admin/server.php on line 295
+PHP message: PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/xtreamcodes/iptv_xtream_codes/admin/server.php on line 295
+PHP message: PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/xtreamcodes/iptv_xtream_codes/admin/server.php on line 295
+PHP message: PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/xtreamcodes/iptv_xtream_codes/admin/server.php on line 295
+PHP message: PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/xtreamcodes/iptv_xtream_codes/admin/server.php on line 295
+PHP message: PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/xtreamcodes/iptv_xtream_codes/admin/server.php on line 295
+PHP message: PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/xtreamcodes/iptv_xtream_codes/admin/server.php on line 295
+PHP message: PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/xtreamcodes/iptv_xtream_codes/admin/server.php on line 295
+PHP message: PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/xtreamcodes/iptv_xtream_codes/admin/server.php on line 295
+PHP message: PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/xtreamcodes/iptv_xtream_codes/admin/server.php on line 295
+PHP message: PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/xtreamcodes/iptv_xtream_codes/admin/server.php on line 295
+PHP message: PHP Warning:  i
+2023/08/12 00:26:55 [error] 8257#8257: *125 FastCGI sent in stderr: "PHP message: PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/xtreamcodes/iptv_xtream_codes/admin/server.php on line 295
+PHP message: PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/xtreamcodes/iptv_xtream_codes/admin/server.php on line 295
+PHP message: PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/xtreamcodes/iptv_xtream_codes/admin/server.php on line 295
+PHP message: PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/xtreamcodes/iptv_xtream_codes/admin/server.php on line 295
+PHP message: PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/xtreamcodes/iptv_xtream_codes/admin/server.php on line 295
+PHP message: PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/xtreamcodes/iptv_xtream_codes/admin/server.php on line 295
+PHP message: PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/xtreamcodes/iptv_xtream_codes/admin/server.php on line 295
+PHP message: PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/xtreamcodes/iptv_xtream_codes/admin/server.php on line 295
+PHP message: PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/xtreamcodes/iptv_xtream_codes/admin/server.php on line 295
+PHP message: PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/xtreamcodes/iptv_xtream_codes/admin/server.php on line 295
+PHP message: PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/xtreamcodes/iptv_xtream_codes/admin/server.php on line 295
+PHP message: PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/xtreamcodes/iptv_xtream_codes/admin/server.php on line 295
+PHP message: PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/xtreamcodes/iptv_xtream_codes/admin/server.php on line 295
+PHP message: PHP Warning:  i
+2023/08/12 00:26:55 [error] 8257#8257: *125 FastCGI sent in stderr: "PHP message: PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/xtreamcodes/iptv_xtream_codes/admin/server.php on line 295
+PHP message: PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/xtreamcodes/iptv_xtream_codes/admin/server.php on line 295
+PHP message: PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/xtreamcodes/iptv_xtream_codes/admin/server.php on line 295
+PHP message: PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/xtreamcodes/iptv_xtream_codes/admin/server.php on line 295
+PHP message: PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/xtreamcodes/iptv_xtream_codes/admin/server.php on line 295
+PHP message: PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/xtreamcodes/iptv_xtream_codes/admin/server.php on line 295
+PHP message: PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/xtreamcodes/iptv_xtream_codes/admin/server.php on line 295
+PHP message: PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/xtreamcodes/iptv_xtream_codes/admin/server.php on line 295
+PHP message: PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/xtreamcodes/iptv_xtream_codes/admin/server.php on line 295
+PHP message: PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/xtreamcodes/iptv_xtream_codes/admin/server.php on line 295
+PHP message: PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/xtreamcodes/iptv_xtream_codes/admin/server.php on line 295
+PHP message: PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/xtreamcodes/iptv_xtream_codes/admin/server.php on line 295
+PHP message: PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/xtreamcodes/iptv_xtream_codes/admin/server.php on line 295
+PHP message: PHP Warning:  i
+2023/08/12 00:26:55 [error] 8257#8257: *125 FastCGI sent in stderr: "PHP message: PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/xtreamcodes/iptv_xtream_codes/admin/server.php on line 295
+PHP message: PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/xtreamcodes/iptv_xtream_codes/admin/server.php on line 295
+PHP message: PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/xtreamcodes/iptv_xtream_codes/admin/server.php on line 295
+PHP message: PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/xtreamcodes/iptv_xtream_codes/admin/server.php on line 295
+PHP message: PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/xtreamcodes/iptv_xtream_codes/admin/server.php on line 295
+PHP message: PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/xtreamcodes/iptv_xtream_codes/admin/server.php on line 295
+PHP message: PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/xtreamcodes/iptv_xtream_codes/admin/server.php on line 295
+PHP message: PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/xtreamcodes/iptv_xtream_codes/admin/server.php on line 295
+PHP message: PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/xtreamcodes/iptv_xtream_codes/admin/server.php on line 295
+PHP message: PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/xtreamcodes/iptv_xtream_codes/admin/server.php on line 295
+PHP message: PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/xtreamcodes/iptv_xtream_codes/admin/server.php on line 295
+PHP message: PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/xtreamcodes/iptv_xtream_codes/admin/server.php on line 295
+PHP message: PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/xtreamcodes/iptv_xtream_codes/admin/server.php on line 295
+PHP message: PHP Warning:  i
+2023/08/12 00:26:55 [error] 8257#8257: *125 FastCGI sent in stderr: "PHP message: PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/xtreamcodes/iptv_xtream_codes/admin/server.php on line 295
+PHP message: PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/xtreamcodes/iptv_xtream_codes/admin/server.php on line 295
+PHP message: PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/xtreamcodes/iptv_xtream_codes/admin/server.php on line 295
+PHP message: PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/xtreamcodes/iptv_xtream_codes/admin/server.php on line 295
+PHP message: PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/xtreamcodes/iptv_xtream_codes/admin/server.php on line 295
+PHP message: PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/xtreamcodes/iptv_xtream_codes/admin/server.php on line 295
+PHP message: PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/xtreamcodes/iptv_xtream_codes/admin/server.php on line 295
+PHP message: PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/xtreamcodes/iptv_xtream_codes/admin/server.php on line 295
+PHP message: PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/xtreamcodes/iptv_xtream_codes/admin/server.php on line 295
+PHP message: PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/xtreamcodes/iptv_xtream_codes/admin/server.php on line 295
+PHP message: PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/xtreamcodes/iptv_xtream_codes/admin/server.php on line 295
+PHP message: PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/xtreamcodes/iptv_xtream_codes/admin/server.php on line 295
+PHP message: PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/xtreamcodes/iptv_xtream_codes/admin/server.php on line 295
+PHP message: PHP Warning:  i
+2023/08/12 00:26:55 [error] 8257#8257: *125 FastCGI sent in stderr: "PHP message: PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/xtreamcodes/iptv_xtream_codes/admin/server.php on line 295
+PHP message: PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/xtreamcodes/iptv_xtream_codes/admin/server.php on line 295
+PHP message: PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/xtreamcodes/iptv_xtream_codes/admin/server.php on line 295
+PHP message: PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/xtreamcodes/iptv_xtream_codes/admin/server.php on line 295
+PHP message: PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/xtreamcodes/iptv_xtream_codes/admin/server.php on line 295
+PHP message: PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/xtreamcodes/iptv_xtream_codes/admin/server.php on line 295
+PHP message: PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/xtreamcodes/iptv_xtream_codes/admin/server.php on line 295
+PHP message: PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/xtreamcodes/iptv_xtream_codes/admin/server.php on line 295
+PHP message: PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/xtreamcodes/iptv_xtream_codes/admin/server.php on line 295
+PHP message: PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/xtreamcodes/iptv_xtream_codes/admin/server.php on line 295
+PHP message: PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/xtreamcodes/iptv_xtream_codes/admin/server.php on line 295
+PHP message: PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/xtreamcodes/iptv_xtream_codes/admin/server.php on line 295
+PHP message: PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/xtreamcodes/iptv_xtream_codes/admin/server.php on line 295
+PHP message: PHP Warning:  i
+2023/08/12 00:26:55 [error] 8257#8257: *125 FastCGI sent in stderr: "PHP message: PHP Warning:  in_array() expects parameter 2 to be" while reading upstream, client: 192.168.0.2, server: , request: "GET /tm75mzibfNLm/server.php?id=1 HTTP/1.1", upstream: "fastcgi://unix:/home/xtreamcodes/iptv_xtream_codes/php/VaiIb8.sock:", host: "192.168.0.70:8080", referrer: "http://192.168.0.70:8080/"
+2023/08/12 00:26:55 [error] 8257#8257: *125 FastCGI sent in stderr: "array, null given in /home/xtreamcodes/iptv_xtream_codes/admin/server.php on line 295
+PHP message: PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/xtreamcodes/iptv_xtream_codes/admin/server.php on line 295
+PHP message: PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/xtreamcodes/iptv_xtream_codes/admin/server.php on line 295
+PHP message: PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/xtreamcodes/iptv_xtream_codes/admin/server.php on line 295
+PHP message: PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/xtreamcodes/iptv_xtream_codes/admin/server.php on line 295
+PHP message: PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/xtreamcodes/iptv_xtream_codes/admin/server.php on line 295
+PHP message: PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/xtreamcodes/iptv_xtream_codes/admin/server.php on line 295
+PHP message: PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/xtreamcodes/iptv_xtream_codes/admin/server.php on line 295
+PHP message: PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/xtreamcodes/iptv_xtream_codes/admin/server.php on line 295
+PHP message: PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/xtreamcodes/iptv_xtream_codes/admin/server.php on line 295
+PHP message: PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/xtreamcodes/iptv_xtream_codes/admin/server.php on line 295
+PHP message: PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/xtreamcodes/iptv_xtream_codes/admin/server.php on line 295
+PHP message: PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/xtreamcodes/iptv_xtream_codes/admin/server.php on line 295
+PHP message: PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/x
+2023/08/12 15:53:15 [error] 8257#8257: *56179 upstream timed out (110: Connection timed out) while reading response header from upstream, client: 192.168.0.2, server: , request: "GET /tm75mzibfNLm/api.php?action=stats HTTP/1.1", upstream: "fastcgi://unix:/home/xtreamcodes/iptv_xtream_codes/php/CWcfSP.sock", host: "192.168.0.70:8080", referrer: "http://192.168.0.70:8080/"
+2023/08/13 00:43:50 [error] 77694#77694: *1 FastCGI sent in stderr: "PHP message: PHP Warning:  file_get_contents(/home/xtreamcodes/iptv_xtream_codes/config): failed to open stream: No such file or directory in /home/xtreamcodes/iptv_xtream_codes/admin/functions.php on line 141
+PHP message: PHP Warning:  mysqli::__construct(): (HY000/2002): No such file or directory in /home/xtreamcodes/iptv_xtream_codes/admin/functions.php on line 142
+PHP message: PHP Warning:  mysqli::set_charset(): Couldn't fetch mysqli in /home/xtreamcodes/iptv_xtream_codes/admin/functions.php on line 143
+PHP message: PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/xtreamcodes/iptv_xtream_codes/admin/functions.php on line 144
+PHP message: PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/xtreamcodes/iptv_xtream_codes/admin/functions.php on line 124
+PHP message: PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/xtreamcodes/iptv_xtream_codes/admin/functions.php on line 82
+PHP message: PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/xtreamcodes/iptv_xtream_codes/admin/functions.php on line 93
+PHP message: PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on null in /home/xtreamcodes/iptv_xtream_codes/admin/functions.php:94
+Stack trace:
+#0 /home/xtreamcodes/iptv_xtream_codes/admin/functions.php(148): getSettings()
+#1 /home/xtreamcodes/iptv_xtream_codes/admin/login.php(2): include('/home/xtreamcod...')
+#2 {main}
+  thrown in /home/xtreamcodes/iptv_xtream_codes/admin/functions.php on line 94" while reading response header from upstream, client: 192.168.0.2, server: , request: "GET /tm75mzibfNLm/login.php HTTP/1.1", upstream: "fastcgi://unix:/home/xtreamcodes/iptv_xtream_codes/php/VaiIb8.sock:", host: "filmo:8080"
+2023/08/13 01:05:05 [crit] 2137#2137: *1 connect() to unix:/home/xtreamcodes/iptv_xtream_codes/php/VaiIb8.sock failed (2: No such file or directory) while connecting to upstream, client: 192.168.0.2, server: , request: "GET /SiOgzRxreDXE/table_search.php?draw=10&columns%5B0%5D%5Bdata%5D=0&columns%5B0%5D%5Bname%5D=&columns%5B0%5D%5Bsearchable%5D=true&columns%5B0%5D%5Borderable%5D=true&columns%5B0%5D%5Bsearch%5D%5Bvalue%5D=&columns%5B0%5D%5Bsearch%5D%5Bregex%5D=false&columns%5B1%5D%5Bdata%5D=1&columns%5B1%5D%5Bname%5D=&columns%5B1%5D%5Bsearchable%5D=true&columns%5B1%5D%5Borderable%5D=true&columns%5B1%5D%5Bsearch%5D%5Bvalue%5D=&columns%5B1%5D%5Bsearch%5D%5Bregex%5D=false&columns%5B2%5D%5Bdata%5D=2&columns%5B2%5D%5Bname%5D=&columns%5B2%5D%5Bsearchable%5D=true&columns%5B2%5D%5Borderable%5D=true&columns%5B2%5D%5Bsearch%5D%5Bvalue%5D=&columns%5B2%5D%5Bsearch%5D%5Bregex%5D=false&columns%5B3%5D%5Bdata%5D=3&columns%5B3%5D%5Bname%5D=&columns%5B3%5D%5Bsearchable%5D=true&columns%5B3%5D%5Borderable%5D=true&columns%5B3%5D%5Bsearch%5D%5Bvalue%5D=&columns%5B3%5D%5Bsearch%5D%5Bregex%5D=false&columns%5B4%5D%5Bdata%5D=4&columns%5B4%5D%5Bname%5D=&columns%5B4%5D%5Bsearchable%5D=true&columns%5B4%5D%5Borderable%5D=true&columns%5B4%5D%5Bsearch%5D%5Bvalue%5D=&columns%5B4%5D%5Bsearch%5D%5Bregex%5D=false&columns%5B5%5D%5Bdata%5D=5&columns%5B5%5D%5Bname%5D=&columns%5B5%5D%5Bsearchable%5D=true&columns%5B5%5D%5Borderable%5D=false&columns%5B5%5D%5Bsearch%5D%5Bvalue%5D=&columns%5B5%5D%5Bsearch%5D%5Bregex%5D=false&columns%5B6%5D%5Bdata%5D=6&columns%5B6%5D%5Bname%5D=&columns%5B6%5D%5Bsearchable%5D=true&columns%5B6%5D%5Borderable%5D=false&columns%5B6%5D%5Bsearch%5D%5Bvalue%5D=&columns%5B6%5D%5Bsearch%5D%5Bregex%5D=false&columns%5B7%5D%5Bdata%5D=7&columns%5B7%5D%5Bname%5D=&columns%5B7%5D%5Bsearchable%5D=true&columns%5B7%5D%5Borderable%5D=true&columns%5B7%5D%5Bsearch%5D%5Bvalue%5D=&columns%5B7%5D%5Bsearch%5D%5Bregex%5D=false&order%5B0%5D%5Bcolumn%5D=0&order%5B0%5D%5Bdir%5D=desc&start=0&length=10&search%5Bvalue%5D=&search%5Bregex%5D=false&id=movies&c
+2023/08/13 01:05:05 [crit] 2137#2137: *1 connect() to unix:/home/xtreamcodes/iptv_xtream_codes/php/JdlJXm.sock failed (2: No such file or directory) while connecting to upstream, client: 192.168.0.2, server: , request: "GET /SiOgzRxreDXE/table_search.php?draw=10&columns%5B0%5D%5Bdata%5D=0&columns%5B0%5D%5Bname%5D=&columns%5B0%5D%5Bsearchable%5D=true&columns%5B0%5D%5Borderable%5D=true&columns%5B0%5D%5Bsearch%5D%5Bvalue%5D=&columns%5B0%5D%5Bsearch%5D%5Bregex%5D=false&columns%5B1%5D%5Bdata%5D=1&columns%5B1%5D%5Bname%5D=&columns%5B1%5D%5Bsearchable%5D=true&columns%5B1%5D%5Borderable%5D=true&columns%5B1%5D%5Bsearch%5D%5Bvalue%5D=&columns%5B1%5D%5Bsearch%5D%5Bregex%5D=false&columns%5B2%5D%5Bdata%5D=2&columns%5B2%5D%5Bname%5D=&columns%5B2%5D%5Bsearchable%5D=true&columns%5B2%5D%5Borderable%5D=true&columns%5B2%5D%5Bsearch%5D%5Bvalue%5D=&columns%5B2%5D%5Bsearch%5D%5Bregex%5D=false&columns%5B3%5D%5Bdata%5D=3&columns%5B3%5D%5Bname%5D=&columns%5B3%5D%5Bsearchable%5D=true&columns%5B3%5D%5Borderable%5D=true&columns%5B3%5D%5Bsearch%5D%5Bvalue%5D=&columns%5B3%5D%5Bsearch%5D%5Bregex%5D=false&columns%5B4%5D%5Bdata%5D=4&columns%5B4%5D%5Bname%5D=&columns%5B4%5D%5Bsearchable%5D=true&columns%5B4%5D%5Borderable%5D=true&columns%5B4%5D%5Bsearch%5D%5Bvalue%5D=&columns%5B4%5D%5Bsearch%5D%5Bregex%5D=false&columns%5B5%5D%5Bdata%5D=5&columns%5B5%5D%5Bname%5D=&columns%5B5%5D%5Bsearchable%5D=true&columns%5B5%5D%5Borderable%5D=false&columns%5B5%5D%5Bsearch%5D%5Bvalue%5D=&columns%5B5%5D%5Bsearch%5D%5Bregex%5D=false&columns%5B6%5D%5Bdata%5D=6&columns%5B6%5D%5Bname%5D=&columns%5B6%5D%5Bsearchable%5D=true&columns%5B6%5D%5Borderable%5D=false&columns%5B6%5D%5Bsearch%5D%5Bvalue%5D=&columns%5B6%5D%5Bsearch%5D%5Bregex%5D=false&columns%5B7%5D%5Bdata%5D=7&columns%5B7%5D%5Bname%5D=&columns%5B7%5D%5Bsearchable%5D=true&columns%5B7%5D%5Borderable%5D=true&columns%5B7%5D%5Bsearch%5D%5Bvalue%5D=&columns%5B7%5D%5Bsearch%5D%5Bregex%5D=false&order%5B0%5D%5Bcolumn%5D=0&order%5B0%5D%5Bdir%5D=desc&start=0&length=10&search%5Bvalue%5D=&search%5Bregex%5D=false&id=movies&c
+2023/08/13 01:05:05 [crit] 2137#2137: *1 connect() to unix:/home/xtreamcodes/iptv_xtream_codes/php/CWcfSP.sock failed (2: No such file or directory) while connecting to upstream, client: 192.168.0.2, server: , request: "GET /SiOgzRxreDXE/table_search.php?draw=10&columns%5B0%5D%5Bdata%5D=0&columns%5B0%5D%5Bname%5D=&columns%5B0%5D%5Bsearchable%5D=true&columns%5B0%5D%5Borderable%5D=true&columns%5B0%5D%5Bsearch%5D%5Bvalue%5D=&columns%5B0%5D%5Bsearch%5D%5Bregex%5D=false&columns%5B1%5D%5Bdata%5D=1&columns%5B1%5D%5Bname%5D=&columns%5B1%5D%5Bsearchable%5D=true&columns%5B1%5D%5Borderable%5D=true&columns%5B1%5D%5Bsearch%5D%5Bvalue%5D=&columns%5B1%5D%5Bsearch%5D%5Bregex%5D=false&columns%5B2%5D%5Bdata%5D=2&columns%5B2%5D%5Bname%5D=&columns%5B2%5D%5Bsearchable%5D=true&columns%5B2%5D%5Borderable%5D=true&columns%5B2%5D%5Bsearch%5D%5Bvalue%5D=&columns%5B2%5D%5Bsearch%5D%5Bregex%5D=false&columns%5B3%5D%5Bdata%5D=3&columns%5B3%5D%5Bname%5D=&columns%5B3%5D%5Bsearchable%5D=true&columns%5B3%5D%5Borderable%5D=true&columns%5B3%5D%5Bsearch%5D%5Bvalue%5D=&columns%5B3%5D%5Bsearch%5D%5Bregex%5D=false&columns%5B4%5D%5Bdata%5D=4&columns%5B4%5D%5Bname%5D=&columns%5B4%5D%5Bsearchable%5D=true&columns%5B4%5D%5Borderable%5D=true&columns%5B4%5D%5Bsearch%5D%5Bvalue%5D=&columns%5B4%5D%5Bsearch%5D%5Bregex%5D=false&columns%5B5%5D%5Bdata%5D=5&columns%5B5%5D%5Bname%5D=&columns%5B5%5D%5Bsearchable%5D=true&columns%5B5%5D%5Borderable%5D=false&columns%5B5%5D%5Bsearch%5D%5Bvalue%5D=&columns%5B5%5D%5Bsearch%5D%5Bregex%5D=false&columns%5B6%5D%5Bdata%5D=6&columns%5B6%5D%5Bname%5D=&columns%5B6%5D%5Bsearchable%5D=true&columns%5B6%5D%5Borderable%5D=false&columns%5B6%5D%5Bsearch%5D%5Bvalue%5D=&columns%5B6%5D%5Bsearch%5D%5Bregex%5D=false&columns%5B7%5D%5Bdata%5D=7&columns%5B7%5D%5Bname%5D=&columns%5B7%5D%5Bsearchable%5D=true&columns%5B7%5D%5Borderable%5D=true&columns%5B7%5D%5Bsearch%5D%5Bvalue%5D=&columns%5B7%5D%5Bsearch%5D%5Bregex%5D=false&order%5B0%5D%5Bcolumn%5D=0&order%5B0%5D%5Bdir%5D=desc&start=0&length=10&search%5Bvalue%5D=&search%5Bregex%5D=false&id=movies&c
+2023/08/13 01:05:10 [error] 2137#2137: *1 no live upstreams while connecting to upstream, client: 192.168.0.2, server: , request: "GET /SiOgzRxreDXE/table_search.php?draw=11&columns%5B0%5D%5Bdata%5D=0&columns%5B0%5D%5Bname%5D=&columns%5B0%5D%5Bsearchable%5D=true&columns%5B0%5D%5Borderable%5D=true&columns%5B0%5D%5Bsearch%5D%5Bvalue%5D=&columns%5B0%5D%5Bsearch%5D%5Bregex%5D=false&columns%5B1%5D%5Bdata%5D=1&columns%5B1%5D%5Bname%5D=&columns%5B1%5D%5Bsearchable%5D=true&columns%5B1%5D%5Borderable%5D=true&columns%5B1%5D%5Bsearch%5D%5Bvalue%5D=&columns%5B1%5D%5Bsearch%5D%5Bregex%5D=false&columns%5B2%5D%5Bdata%5D=2&columns%5B2%5D%5Bname%5D=&columns%5B2%5D%5Bsearchable%5D=true&columns%5B2%5D%5Borderable%5D=true&columns%5B2%5D%5Bsearch%5D%5Bvalue%5D=&columns%5B2%5D%5Bsearch%5D%5Bregex%5D=false&columns%5B3%5D%5Bdata%5D=3&columns%5B3%5D%5Bname%5D=&columns%5B3%5D%5Bsearchable%5D=true&columns%5B3%5D%5Borderable%5D=true&columns%5B3%5D%5Bsearch%5D%5Bvalue%5D=&columns%5B3%5D%5Bsearch%5D%5Bregex%5D=false&columns%5B4%5D%5Bdata%5D=4&columns%5B4%5D%5Bname%5D=&columns%5B4%5D%5Bsearchable%5D=true&columns%5B4%5D%5Borderable%5D=true&columns%5B4%5D%5Bsearch%5D%5Bvalue%5D=&columns%5B4%5D%5Bsearch%5D%5Bregex%5D=false&columns%5B5%5D%5Bdata%5D=5&columns%5B5%5D%5Bname%5D=&columns%5B5%5D%5Bsearchable%5D=true&columns%5B5%5D%5Borderable%5D=false&columns%5B5%5D%5Bsearch%5D%5Bvalue%5D=&columns%5B5%5D%5Bsearch%5D%5Bregex%5D=false&columns%5B6%5D%5Bdata%5D=6&columns%5B6%5D%5Bname%5D=&columns%5B6%5D%5Bsearchable%5D=true&columns%5B6%5D%5Borderable%5D=false&columns%5B6%5D%5Bsearch%5D%5Bvalue%5D=&columns%5B6%5D%5Bsearch%5D%5Bregex%5D=false&columns%5B7%5D%5Bdata%5D=7&columns%5B7%5D%5Bname%5D=&columns%5B7%5D%5Bsearchable%5D=true&columns%5B7%5D%5Borderable%5D=true&columns%5B7%5D%5Bsearch%5D%5Bvalue%5D=&columns%5B7%5D%5Bsearch%5D%5Bregex%5D=false&order%5B0%5D%5Bcolumn%5D=0&order%5B0%5D%5Bdir%5D=desc&start=0&length=10&search%5Bvalue%5D=&search%5Bregex%5D=false&id=movies&category=&server=&filter=&_=1691877851239 HTTP/1.1", upstream: "fastcgi://php", host: "fil
+2023/08/13 01:05:15 [error] 2137#2137: *1 no live upstreams while connecting to upstream, client: 192.168.0.2, server: , request: "GET /SiOgzRxreDXE/table_search.php?draw=12&columns%5B0%5D%5Bdata%5D=0&columns%5B0%5D%5Bname%5D=&columns%5B0%5D%5Bsearchable%5D=true&columns%5B0%5D%5Borderable%5D=true&columns%5B0%5D%5Bsearch%5D%5Bvalue%5D=&columns%5B0%5D%5Bsearch%5D%5Bregex%5D=false&columns%5B1%5D%5Bdata%5D=1&columns%5B1%5D%5Bname%5D=&columns%5B1%5D%5Bsearchable%5D=true&columns%5B1%5D%5Borderable%5D=true&columns%5B1%5D%5Bsearch%5D%5Bvalue%5D=&columns%5B1%5D%5Bsearch%5D%5Bregex%5D=false&columns%5B2%5D%5Bdata%5D=2&columns%5B2%5D%5Bname%5D=&columns%5B2%5D%5Bsearchable%5D=true&columns%5B2%5D%5Borderable%5D=true&columns%5B2%5D%5Bsearch%5D%5Bvalue%5D=&columns%5B2%5D%5Bsearch%5D%5Bregex%5D=false&columns%5B3%5D%5Bdata%5D=3&columns%5B3%5D%5Bname%5D=&columns%5B3%5D%5Bsearchable%5D=true&columns%5B3%5D%5Borderable%5D=true&columns%5B3%5D%5Bsearch%5D%5Bvalue%5D=&columns%5B3%5D%5Bsearch%5D%5Bregex%5D=false&columns%5B4%5D%5Bdata%5D=4&columns%5B4%5D%5Bname%5D=&columns%5B4%5D%5Bsearchable%5D=true&columns%5B4%5D%5Borderable%5D=true&columns%5B4%5D%5Bsearch%5D%5Bvalue%5D=&columns%5B4%5D%5Bsearch%5D%5Bregex%5D=false&columns%5B5%5D%5Bdata%5D=5&columns%5B5%5D%5Bname%5D=&columns%5B5%5D%5Bsearchable%5D=true&columns%5B5%5D%5Borderable%5D=false&columns%5B5%5D%5Bsearch%5D%5Bvalue%5D=&columns%5B5%5D%5Bsearch%5D%5Bregex%5D=false&columns%5B6%5D%5Bdata%5D=6&columns%5B6%5D%5Bname%5D=&columns%5B6%5D%5Bsearchable%5D=true&columns%5B6%5D%5Borderable%5D=false&columns%5B6%5D%5Bsearch%5D%5Bvalue%5D=&columns%5B6%5D%5Bsearch%5D%5Bregex%5D=false&columns%5B7%5D%5Bdata%5D=7&columns%5B7%5D%5Bname%5D=&columns%5B7%5D%5Bsearchable%5D=true&columns%5B7%5D%5Borderable%5D=true&columns%5B7%5D%5Bsearch%5D%5Bvalue%5D=&columns%5B7%5D%5Bsearch%5D%5Bregex%5D=false&order%5B0%5D%5Bcolumn%5D=0&order%5B0%5D%5Bdir%5D=desc&start=0&length=10&search%5Bvalue%5D=&search%5Bregex%5D=false&id=movies&category=&server=&filter=&_=1691877851240 HTTP/1.1", upstream: "fastcgi://php", host: "fil
+2023/08/13 01:05:22 [error] 2137#2137: *11 open() "/home/xtreamcodes/iptv_xtream_codes/wwwdir/favicon.ico" failed (2: No such file or directory), client: 192.168.0.2, server: , request: "GET /favicon.ico HTTP/1.1", host: "filmo:8080", referrer: "http://filmo:8080/SiOgzRxreDXE/SiOgzRxreDXE/movies.php"
+2023/08/13 01:05:30 [error] 2137#2137: *11 "/home/xtreamcodes/iptv_xtream_codes/admin/SiOgzRxreDXE/index.php" is not found (2: No such file or directory), client: 192.168.0.2, server: , request: "GET /SiOgzRxreDXE/SiOgzRxreDXE/ HTTP/1.1", host: "filmo:8080"
+2023/08/13 01:05:39 [error] 2137#2137: *11 "/home/xtreamcodes/iptv_xtream_codes/admin/SiOgzRxreDXE/index.php" is not found (2: No such file or directory), client: 192.168.0.2, server: , request: "GET /SiOgzRxreDXE/SiOgzRxreDXE/ HTTP/1.1", host: "filmo:8080"
+2023/08/13 01:06:10 [error] 2137#2137: *39 FastCGI sent in stderr: "PHP message: PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/xtreamcodes/iptv_xtream_codes/admin/server.php on line 295
+PHP message: PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/xtreamcodes/iptv_xtream_codes/admin/server.php on line 295
+PHP message: PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/xtreamcodes/iptv_xtream_codes/admin/server.php on line 295
+PHP message: PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/xtreamcodes/iptv_xtream_codes/admin/server.php on line 295
+PHP message: PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/xtreamcodes/iptv_xtream_codes/admin/server.php on line 295
+PHP message: PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/xtreamcodes/iptv_xtream_codes/admin/server.php on line 295
+PHP message: PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/xtreamcodes/iptv_xtream_codes/admin/server.php on line 295
+PHP message: PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/xtreamcodes/iptv_xtream_codes/admin/server.php on line 295
+PHP message: PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/xtreamcodes/iptv_xtream_codes/admin/server.php on line 295
+PHP message: PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/xtreamcodes/iptv_xtream_codes/admin/server.php on line 295
+PHP message: PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/xtreamcodes/iptv_xtream_codes/admin/server.php on line 295
+PHP message: PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/xtreamcodes/iptv_xtream_codes/admin/server.php on line 295
+PHP message: PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/xtreamcodes/iptv_xtream_codes/admin/server.php on line 295
+PHP message: PHP Warning:  in
+2023/08/13 01:06:10 [error] 2137#2137: *39 FastCGI sent in stderr: "ull given in /home/xtreamcodes/iptv_xtream_codes/admin/server.php on line 295
+PHP message: PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/xtreamcodes/iptv_xtream_codes/admin/server.php on line 295
+PHP message: PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/xtreamcodes/iptv_xtream_codes/admin/server.php on line 295" while reading upstream, client: 192.168.0.2, server: , request: "GET /SiOgzRxreDXE/server.php?id=1 HTTP/1.1", upstream: "fastcgi://unix:/home/xtreamcodes/iptv_xtream_codes/php/VaiIb8.sock:", host: "filmo:8080", referrer: "http://filmo:8080/"
+2023/08/13 01:06:10 [error] 2137#2137: *39 FastCGI sent in stderr: "PHP message: PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/xtreamcodes/iptv_xtream_codes/admin/server.php on line 295
+PHP message: PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/xtreamcodes/iptv_xtream_codes/admin/server.php on line 295
+PHP message: PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/xtreamcodes/iptv_xtream_codes/admin/server.php on line 295
+PHP message: PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/xtreamcodes/iptv_xtream_codes/admin/server.php on line 295
+PHP message: PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/xtreamcodes/iptv_xtream_codes/admin/server.php on line 295
+PHP message: PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/xtreamcodes/iptv_xtream_codes/admin/server.php on line 295
+PHP message: PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/xtreamcodes/iptv_xtream_codes/admin/server.php on line 295
+PHP message: PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/xtreamcodes/iptv_xtream_codes/admin/server.php on line 295
+PHP message: PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/xtreamcodes/iptv_xtream_codes/admin/server.php on line 295
+PHP message: PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/xtreamcodes/iptv_xtream_codes/admin/server.php on line 295
+PHP message: PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/xtreamcodes/iptv_xtream_codes/admin/server.php on line 295
+PHP message: PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/xtreamcodes/iptv_xtream_codes/admin/server.php on line 295
+PHP message: PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/xtreamcodes/iptv_xtream_codes/admin/server.php on line 295
+PHP message: PHP Warning:  in
+2023/08/13 01:06:10 [error] 2137#2137: *39 FastCGI sent in stderr: "PHP message: PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/xtreamcodes/iptv_xtream_codes/admin/server.php on line 295
+PHP message: PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/xtreamcodes/iptv_xtream_codes/admin/server.php on line 295
+PHP message: PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/xtreamcodes/iptv_xtream_codes/admin/server.php on line 295
+PHP message: PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/xtreamcodes/iptv_xtream_codes/admin/server.php on line 295
+PHP message: PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/xtreamcodes/iptv_xtream_codes/admin/server.php on line 295
+PHP message: PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/xtreamcodes/iptv_xtream_codes/admin/server.php on line 295
+PHP message: PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/xtreamcodes/iptv_xtream_codes/admin/server.php on line 295
+PHP message: PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/xtreamcodes/iptv_xtream_codes/admin/server.php on line 295
+PHP message: PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/xtreamcodes/iptv_xtream_codes/admin/server.php on line 295
+PHP message: PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/xtreamcodes/iptv_xtream_codes/admin/server.php on line 295
+PHP message: PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/xtreamcodes/iptv_xtream_codes/admin/server.php on line 295
+PHP message: PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/xtreamcodes/iptv_xtream_codes/admin/server.php on line 295
+PHP message: PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/xtreamcodes/iptv_xtream_codes/admin/server.php on line 295
+PHP message: PHP Warning:  in
+2023/08/13 01:06:10 [error] 2137#2137: *39 FastCGI sent in stderr: "PHP message: PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/xtreamcodes/iptv_xtream_codes/admin/server.php on line 295
+PHP message: PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/xtreamcodes/iptv_xtream_codes/admin/server.php on line 295
+PHP message: PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/xtreamcodes/iptv_xtream_codes/admin/server.php on line 295
+PHP message: PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/xtreamcodes/iptv_xtream_codes/admin/server.php on line 295
+PHP message: PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/xtreamcodes/iptv_xtream_codes/admin/server.php on line 295
+PHP message: PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/xtreamcodes/iptv_xtream_codes/admin/server.php on line 295
+PHP message: PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/xtreamcodes/iptv_xtream_codes/admin/server.php on line 295
+PHP message: PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/xtreamcodes/iptv_xtream_codes/admin/server.php on line 295
+PHP message: PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/xtreamcodes/iptv_xtream_codes/admin/server.php on line 295
+PHP message: PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/xtreamcodes/iptv_xtream_codes/admin/server.php on line 295
+PHP message: PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/xtreamcodes/iptv_xtream_codes/admin/server.php on line 295
+PHP message: PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/xtreamcodes/iptv_xtream_codes/admin/server.php on line 295
+PHP message: PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/xtreamcodes/iptv_xtream_codes/admin/server.php on line 295
+PHP message: PHP Warning:  in
+2023/08/13 01:06:10 [error] 2137#2137: *39 FastCGI sent in stderr: "PHP message: PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/xtreamcodes/iptv_xtream_codes/admin/server.php on line 295
+PHP message: PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/xtreamcodes/iptv_xtream_codes/admin/server.php on line 295
+PHP message: PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/xtreamcodes/iptv_xtream_codes/admin/server.php on line 295
+PHP message: PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/xtreamcodes/iptv_xtream_codes/admin/server.php on line 295
+PHP message: PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/xtreamcodes/iptv_xtream_codes/admin/server.php on line 295
+PHP message: PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/xtreamcodes/iptv_xtream_codes/admin/server.php on line 295
+PHP message: PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/xtreamcodes/iptv_xtream_codes/admin/server.php on line 295
+PHP message: PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/xtreamcodes/iptv_xtream_codes/admin/server.php on line 295
+PHP message: PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/xtreamcodes/iptv_xtream_codes/admin/server.php on line 295
+PHP message: PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/xtreamcodes/iptv_xtream_codes/admin/server.php on line 295
+PHP message: PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/xtreamcodes/iptv_xtream_codes/admin/server.php on line 295
+PHP message: PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/xtreamcodes/iptv_xtream_codes/admin/server.php on line 295
+PHP message: PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/xtreamcodes/iptv_xtream_codes/admin/server.php on line 295
+PHP message: PHP Warning:  in
+2023/08/13 01:06:10 [error] 2137#2137: *39 FastCGI sent in stderr: "PHP message: PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/xtreamcodes/iptv_xtream_codes/admin/server.php on line 295
+PHP message: PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/xtreamcodes/iptv_xtream_codes/admin/server.php on line 295
+PHP message: PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/xtreamcodes/iptv_xtream_codes/admin/server.php on line 295
+PHP message: PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/xtreamcodes/iptv_xtream_codes/admin/server.php on line 295
+PHP message: PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/xtreamcodes/iptv_xtream_codes/admin/server.php on line 295
+PHP message: PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/xtreamcodes/iptv_xtream_codes/admin/server.php on line 295
+PHP message: PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/xtreamcodes/iptv_xtream_codes/admin/server.php on line 295
+PHP message: PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/xtreamcodes/iptv_xtream_codes/admin/server.php on line 295
+PHP message: PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/xtreamcodes/iptv_xtream_codes/admin/server.php on line 295
+PHP message: PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/xtreamcodes/iptv_xtream_codes/admin/server.php on line 295
+PHP message: PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/xtreamcodes/iptv_xtream_codes/admin/server.php on line 295
+PHP message: PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/xtreamcodes/iptv_xtream_codes/admin/server.php on line 295
+PHP message: PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/xtreamcodes/iptv_xtream_codes/admin/server.php on line 295
+PHP message: PHP Warning:  in
+2023/08/13 01:06:10 [error] 2137#2137: *39 FastCGI sent in stderr: "PHP message: PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/xtreamcodes/iptv_xtream_codes/admin/server.php on line 295
+PHP message: PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/xtreamcodes/iptv_xtream_codes/admin/server.php on line 295
+PHP message: PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/xtreamcodes/iptv_xtream_codes/admin/server.php on line 295
+PHP message: PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/xtreamcodes/iptv_xtream_codes/admin/server.php on line 295
+PHP message: PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/xtreamcodes/iptv_xtream_codes/admin/server.php on line 295
+PHP message: PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/xtreamcodes/iptv_xtream_codes/admin/server.php on line 295
+PHP message: PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/xtreamcodes/iptv_xtream_codes/admin/server.php on line 295
+PHP message: PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/xtreamcodes/iptv_xtream_codes/admin/server.php on line 295
+PHP message: PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/xtreamcodes/iptv_xtream_codes/admin/server.php on line 295
+PHP message: PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/xtreamcodes/iptv_xtream_codes/admin/server.php on line 295
+PHP message: PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/xtreamcodes/iptv_xtream_codes/admin/server.php on line 295
+PHP message: PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/xtreamcodes/iptv_xtream_codes/admin/server.php on line 295
+PHP message: PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/xtreamcodes/iptv_xtream_codes/admin/server.php on line 295
+PHP message: PHP Warning:  in
+2023/08/13 01:06:10 [error] 2137#2137: *39 FastCGI sent in stderr: "PHP message: PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/xtreamcodes/iptv_xtream_codes/admin/server.php on line 295
+PHP message: PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/xtreamcodes/iptv_xtream_codes/admin/server.php on line 295
+PHP message: PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/xtreamcodes/iptv_xtream_codes/admin/server.php on line 295
+PHP message: PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/xtreamcodes/iptv_xtream_codes/admin/server.php on line 295
+PHP message: PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/xtreamcodes/iptv_xtream_codes/admin/server.php on line 295
+PHP message: PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/xtreamcodes/iptv_xtream_codes/admin/server.php on line 295
+PHP message: PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/xtreamcodes/iptv_xtream_codes/admin/server.php on line 295
+PHP message: PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/xtreamcodes/iptv_xtream_codes/admin/server.php on line 295
+PHP message: PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/xtreamcodes/iptv_xtream_codes/admin/server.php on line 295
+PHP message: PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/xtreamcodes/iptv_xtream_codes/admin/server.php on line 295
+PHP message: PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/xtreamcodes/iptv_xtream_codes/admin/server.php on line 295
+PHP message: PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/xtreamcodes/iptv_xtream_codes/admin/server.php on line 295
+PHP message: PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/xtreamcodes/iptv_xtream_codes/admin/server.php on line 295
+PHP message: PHP Warning:  in
+2023/08/13 01:06:10 [error] 2137#2137: *39 FastCGI sent in stderr: "PHP message: PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/xtreamcodes/iptv_xtream_codes/admin/server.php on line 295
+PHP message: PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/xtreamcodes/iptv_xtream_codes/admin/server.php on line 295
+PHP message: PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/xtreamcodes/iptv_xtream_codes/admin/server.php on line 295
+PHP message: PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/xtreamcodes/iptv_xtream_codes/admin/server.php on line 295
+PHP message: PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/xtreamcodes/iptv_xtream_codes/admin/server.php on line 295
+PHP message: PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/xtreamcodes/iptv_xtream_codes/admin/server.php on line 295
+PHP message: PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/xtreamcodes/iptv_xtream_codes/admin/server.php on line 295
+PHP message: PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/xtreamcodes/iptv_xtream_codes/admin/server.php on line 295
+PHP message: PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/xtreamcodes/iptv_xtream_codes/admin/server.php on line 295
+PHP message: PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/xtreamcodes/iptv_xtream_codes/admin/server.php on line 295
+PHP message: PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/xtreamcodes/iptv_xtream_codes/admin/server.php on line 295
+PHP message: PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/xtreamcodes/iptv_xtream_codes/admin/server.php on line 295
+PHP message: PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/xtreamcodes/iptv_xtream_codes/admin/server.php on line 295
+PHP message: PHP Warning:  in
+2023/08/13 01:06:10 [error] 2137#2137: *39 FastCGI sent in stderr: "PHP message: PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/xtreamcodes/iptv_xtream_codes/admin/server.php on line 295
+PHP message: PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/xtreamcodes/iptv_xtream_codes/admin/server.php on line 295
+PHP message: PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/xtreamcodes/iptv_xtream_codes/admin/server.php on line 295
+PHP message: PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/xtreamcodes/iptv_xtream_codes/admin/server.php on line 295
+PHP message: PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/xtreamcodes/iptv_xtream_codes/admin/server.php on line 295
+PHP message: PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/xtreamcodes/iptv_xtream_codes/admin/server.php on line 295
+PHP message: PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/xtreamcodes/iptv_xtream_codes/admin/server.php on line 295
+PHP message: PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/xtreamcodes/iptv_xtream_codes/admin/server.php on line 295
+PHP message: PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/xtreamcodes/iptv_xtream_codes/admin/server.php on line 295
+PHP message: PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/xtreamcodes/iptv_xtream_codes/admin/server.php on line 295
+PHP message: PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/xtreamcodes/iptv_xtream_codes/admin/server.php on line 295
+PHP message: PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/xtreamcodes/iptv_xtream_codes/admin/server.php on line 295
+PHP message: PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/xtreamcodes/iptv_xtream_codes/admin/server.php on line 295
+PHP message: PHP Warning:  in
+2023/08/13 01:06:10 [error] 2137#2137: *39 FastCGI sent in stderr: "PHP message: PHP Warning:  in_array() expects parameter 2 to be" while reading upstream, client: 192.168.0.2, server: , request: "GET /SiOgzRxreDXE/server.php?id=1 HTTP/1.1", upstream: "fastcgi://unix:/home/xtreamcodes/iptv_xtream_codes/php/VaiIb8.sock:", host: "filmo:8080", referrer: "http://filmo:8080/"
+2023/08/13 01:06:10 [error] 2137#2137: *39 FastCGI sent in stderr: "array, null given in /home/xtreamcodes/iptv_xtream_codes/admin/server.php on line 295
+PHP message: PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/xtreamcodes/iptv_xtream_codes/admin/server.php on line 295
+PHP message: PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/xtreamcodes/iptv_xtream_codes/admin/server.php on line 295
+PHP message: PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/xtreamcodes/iptv_xtream_codes/admin/server.php on line 295
+PHP message: PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/xtreamcodes/iptv_xtream_codes/admin/server.php on line 295
+PHP message: PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/xtreamcodes/iptv_xtream_codes/admin/server.php on line 295
+PHP message: PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/xtreamcodes/iptv_xtream_codes/admin/server.php on line 295
+PHP message: PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/xtreamcodes/iptv_xtream_codes/admin/server.php on line 295
+PHP message: PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/xtreamcodes/iptv_xtream_codes/admin/server.php on line 295
+PHP message: PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/xtreamcodes/iptv_xtream_codes/admin/server.php on line 295
+PHP message: PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/xtreamcodes/iptv_xtream_codes/admin/server.php on line 295
+PHP message: PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/xtreamcodes/iptv_xtream_codes/admin/server.php on line 295
+PHP message: PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/xtreamcodes/iptv_xtream_codes/admin/server.php on line 295
+PHP message: PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/xt
+2023/08/13 01:06:43 [error] 2137#2137: *47 FastCGI sent in stderr: "PHP message: PHP Warning:  file_get_contents(): Filename cannot be empty in /home/xtreamcodes/iptv_xtream_codes/admin/functions.php on line 470" while reading response header from upstream, client: 192.168.0.2, server: , request: "POST /SiOgzRxreDXE/server.php?id=1 HTTP/1.1", upstream: "fastcgi://unix:/home/xtreamcodes/iptv_xtream_codes/php/JdlJXm.sock:", host: "filmo:8080", referrer: "http://filmo:8080/"
+2023/08/13 01:07:08 [error] 2137#2137: *57 FastCGI sent in stderr: "PHP message: PHP Warning:  file_get_contents(): Filename cannot be empty in /home/xtreamcodes/iptv_xtream_codes/admin/functions.php on line 470" while reading response header from upstream, client: 192.168.0.2, server: , request: "POST /SiOgzRxreDXE/server.php?id=1 HTTP/1.1", upstream: "fastcgi://unix:/home/xtreamcodes/iptv_xtream_codes/php/CWcfSP.sock:", host: "filmo:8080", referrer: "http://filmo:8080/"
+2023/08/13 01:11:07 [error] 2137#2137: *77 FastCGI sent in stderr: "PHP message: PHP Warning:  mysqli::__construct(): (HY000/1049): Unknown database 'xtream_iptvpro' in /home/xtreamcodes/iptv_xtream_codes/admin/functions.php on line 142
+PHP message: PHP Warning:  mysqli::set_charset(): Couldn't fetch mysqli in /home/xtreamcodes/iptv_xtream_codes/admin/functions.php on line 143
+PHP message: PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/xtreamcodes/iptv_xtream_codes/admin/functions.php on line 144
+PHP message: PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/xtreamcodes/iptv_xtream_codes/admin/functions.php on line 124
+PHP message: PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/xtreamcodes/iptv_xtream_codes/admin/functions.php on line 82
+PHP message: PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/xtreamcodes/iptv_xtream_codes/admin/functions.php on line 93
+PHP message: PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on null in /home/xtreamcodes/iptv_xtream_codes/admin/functions.php:94
+Stack trace:
+#0 /home/xtreamcodes/iptv_xtream_codes/admin/functions.php(148): getSettings()
+#1 /home/xtreamcodes/iptv_xtream_codes/admin/dashboard.php(2): include('/home/xtreamcod...')
+#2 {main}
+  thrown in /home/xtreamcodes/iptv_xtream_codes/admin/functions.php on line 94" while reading response header from upstream, client: 192.168.0.2, server: , request: "GET /SiOgzRxreDXE/dashboard.php HTTP/1.1", upstream: "fastcgi://unix:/home/xtreamcodes/iptv_xtream_codes/php/JdlJXm.sock:", host: "filmo:8080", referrer: "http://filmo:8080/"
+2023/08/13 01:21:47 [error] 2137#2137: *123 open() "/home/xtreamcodes/iptv_xtream_codes/admin/assets/libs/treeview/32px.png" failed (2: No such file or directory), client: 192.168.0.2, server: , request: "GET /SiOgzRxreDXE/assets/libs/treeview/32px.png HTTP/1.1", host: "filmo:8080", referrer: "http://filmo:8080/"
